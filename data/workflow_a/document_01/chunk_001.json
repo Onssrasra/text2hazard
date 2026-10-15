@@ -1,0 +1,124 @@
+{
+  "document_id": "PWC 2015 - Updated estimates on cost of Storm Desmond",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Storm Desmond is the storm that caused the damage described in the article.",
+          "evidence": {
+            "quote": "Our current estimate of the damage caused by Storm Desmond is £400m - £500m"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The storm caused flooding, including flash flooding from additional rainfall.",
+          "evidence": {
+            "quote": "Any additional rainfall - even 1cm-2cm - could cause flash flooding in rain affected areas as the ground is already saturated with water."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The storm affected the UK, with insurers mobilising claims managers in flood affected areas.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Insurers of affected policyholders have mobilised their claims managers in flood affected areas to try to ensure they can deal with claims and arrange alternative accommodation as quickly as possible where needed."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Storm Desmond occurred in 2015.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "PWC 2015 - Updated estimates on cost of Storm Desmond"
+          }
+        },
+        {
+          "source_text": "The article was published in 2015.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "General Insurance Article - Updated estimates on cost of Storm Desmond PwC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "Estimated total damage £400m‑£500m",
+          "evidence": {
+            "quote": "Our current estimate of the damage caused by Storm Desmond is £400m - £500m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Insurer payouts £250m‑£325m",
+          "evidence": {
+            "quote": "with the insurance industry paying out between £250m and £325m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Economic cost £275m",
+          "evidence": {
+            "quote": "This compares to an economic cost of £275m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Insurer costs £175m",
+          "evidence": {
+            "quote": "and insurer costs of £175m in the 2009 floods."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Potential flash flooding from additional rainfall.",
+          "evidence": {
+            "quote": "Any additional rainfall - even 1cm-2cm - could cause flash flooding in rain affected areas as the ground is already saturated with water."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Flood affected areas in the UK.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Insurers of affected policyholders have mobilised their claims managers in flood affected areas to try to ensure they can deal with claims and arrange alternative accommodation as quickly as possible where needed."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Potential additional rainfall occurring after Storm Desmond.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "If the storm continues, the damage - and therefore the costs - could be significantly worse."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "Potential for significantly worse damage and costs if additional rainfall occurs.",
+          "evidence": {
+            "quote": "If the storm continues, the damage - and therefore the costs - could be significantly worse."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

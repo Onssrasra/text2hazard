@@ -1,0 +1,35 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": [
+        {
+          "source_text": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley."
+          }
+        }
+      ]
+    }
+  ]
+}

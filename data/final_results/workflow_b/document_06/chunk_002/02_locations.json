@@ -1,0 +1,73 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        },
+        {
+          "source_text": "Specifically, the evacuation affects the areas of El Portal, El Portalillo, La Corta, La Greduela, and Las Pachecas.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Specifically, the evacuation affects the areas of El Portal, El Portalillo, La Corta, La Greduela, and Las Pachecas."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME. A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia) by the Provincial Fire Consortium of the Alicante Provincial Council.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME. A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia) by the Provincial Fire Consortium of the Alicante Provincial Council."
+          }
+        },
+        {
+          "source_text": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five."
+          }
+        }
+      ]
+    }
+  ]
+}

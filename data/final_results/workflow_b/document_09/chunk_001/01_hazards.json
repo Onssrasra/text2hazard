@@ -1,0 +1,36 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "wildfire",
+          "source_text": "destructive (compared to the local standards) waves in the Ligurian Sea.",
+          "evidence": {
+            "quote": "destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge",
+          "evidence": {
+            "quote": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm (generally known as Vaia)",
+          "evidence": {
+            "quote": "the storm (generally known as Vaia)"
+          }
+        }
+      ]
+    }
+  ]
+}

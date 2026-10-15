@@ -1,0 +1,290 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "warnings of Tarragona are prolonged to include the morning of the day 4. On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level. At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours. The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours.",
+          "evidence": {
+            "quote": "On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level. At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours. The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour.",
+          "evidence": {
+            "quote": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "north coast of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "north coast of Tarragona"
+          }
+        },
+        {
+          "source_text": "Prelithoral north of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Prelithoral north of Tarragona"
+          }
+        },
+        {
+          "source_text": "Litoral north of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Litoral north of Tarragona"
+          }
+        },
+        {
+          "source_text": "Litoral of Barcelona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Litoral of Barcelona"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "4th at 00:47 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona."
+          }
+        },
+        {
+          "source_text": "1:17 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "10:40 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "yellow and orange warnings indicate potential flooding risk",
+          "evidence": {
+            "quote": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "red-level warning indicates high risk of flooding",
+          "evidence": {
+            "quote": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "The absolute precipitation peaks accumulated in twenty-four hours (official values) of each episode were 494,4 mm (1957), 635,2 mm (1982), 817.0 mm (1987) and 771,8 mm (2024)",
+          "evidence": {
+            "quote": "The absolute precipitation peaks accumulated in twenty-four hours (official values) of each episode were 494,4 mm (1957), 635,2 mm (1982), 817.0 mm (1987) and 771,8 mm (2024)"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "city of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "flood that flooded the city of Valencia due to the overflow of the river Turia"
+          }
+        },
+        {
+          "source_text": "Júcar River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "break-up of the dam that caused serious flooding downstream of the Júcar River"
+          }
+        },
+        {
+          "source_text": "Safor regions",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Safor regions"
+          }
+        },
+        {
+          "source_text": "Ribera Alta region",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Ribera Alta region"
+          }
+        },
+        {
+          "source_text": "north-western part of the south coastal warning zone",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "north-western part of the south coastal warning zone"
+          }
+        },
+        {
+          "source_text": "mountainous region located in the south-eastern end of the province",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "mountainous region located in the south-eastern end of the province"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 October 2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "episode of October 29, 2024"
+          }
+        },
+        {
+          "source_text": "8:00 a.m. to the same time of the following day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the 24-hour interval that includes the rainy day from 8:00 a.m. to the same time of the following day"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "serious floods",
+          "evidence": {
+            "quote": "the province of Valencia has suffered different episodes of torrential precipitation that have resulted in serious floods."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "break-up of the dam caused serious flooding downstream of the Júcar River",
+          "evidence": {
+            "quote": "break-up of the dam that caused serious flooding downstream of the Júcar River"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "flood that flooded the city of Valencia due to the overflow of the river Turia",
+          "evidence": {
+            "quote": "flood that flooded the city of Valencia due to the overflow of the river Turia"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "evidence": {
+            "quote": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "evidence": {
+            "quote": "accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "town of Vinaròs (Castellón)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "town of Vinaròs (Castellón)"
+          }
+        },
+        {
+          "source_text": "station of Alpandeira (Málaga)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "station of Alpandeira (Málaga)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 October 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "19 October 2018"
+          }
+        },
+        {
+          "source_text": "21 October 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "21 October 2018"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "record intensity of precipitation in one, six and twelve hours",
+          "evidence": {
+            "quote": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "maximum time data of 185 mm, triple the threshold of 60 mm for torrentiality",
+          "evidence": {
+            "quote": "The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "accumulated values in six and twelve hours (621 and 720 mm) double previous extremes",
+          "evidence": {
+            "quote": "accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

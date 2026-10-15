@@ -1,0 +1,18 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "be noted that the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the stream that overflowed on Tuesday.",
+          "evidence": {
+            "quote": "the natural channel of the stream that overflowed on Tuesday."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "heavy rain and water accumulation",
+          "evidence": {
+            "quote": "forecast of heavy rain and water accumulation in the southern regions of Tarragona,"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Comunidad Valenciana",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "población de la Comunidad Valenciana"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete, in Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Letur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Letur"
+          }
+        },
+        {
+          "source_text": "Mira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Mira in Cuenca"
+          }
+        },
+        {
+          "source_text": "Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Tarragona regions of Baix Ebre, Montsià, Terra Alta and Ribera d'Ebre"
+          }
+        },
+        {
+          "source_text": "Seville",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Tuesday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "overflowed on Tuesday."
+          }
+        },
+        {
+          "source_text": "Thursday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "resumed early this Thursday"
+          }
+        },
+        {
+          "source_text": "16.00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "16.00 hor a s"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "death toll rises to 158",
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "70 dead",
+          "evidence": {
+            "quote": "70 c ont ab iliz a d a s h a st a l a s 16.00 hor a s"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "5 missing",
+          "evidence": {
+            "quote": "five missing residents are being searched for"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "22 rescued",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 1,440 incidents handled",
+          "evidence": {
+            "quote": "more than 1,440 incidents handled"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "train services completely paralysed",
+          "evidence": {
+            "quote": "La c ir c ul ac ión de trenes h ac i a Va len c i a seguirá completamente paralizada"
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "stream overflow",
+          "evidence": {
+            "quote": "stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "stream that overflowed",
+          "evidence": {
+            "quote": "stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Letur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Letur"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete, in Castilla-La Mancha"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Tuesday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "overflowed on Tuesday."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "two women died",
+          "evidence": {
+            "quote": "two women have died"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "five missing",
+          "evidence": {
+            "quote": "five missing residents are being searched for"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "search resumed early this Thursday",
+          "evidence": {
+            "quote": "search continues for five people missing in Letur after the work resumed early this Thursday"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "stream overflowed",
+          "evidence": {
+            "quote": "stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "heavy rain and water accumulation",
+          "evidence": {
+            "quote": "forecast of heavy rain and water accumulation in the southern regions of Tarragona,"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Tarragona regions of Baix Ebre, Montsià, Terra Alta and Ribera d'Ebre"
+          }
+        },
+        {
+          "source_text": "Baix Ebre",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Baix Ebre"
+          }
+        },
+        {
+          "source_text": "Montsià",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Montsià"
+          }
+        },
+        {
+          "source_text": "Terra Alta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Terra Alta"
+          }
+        },
+        {
+          "source_text": "Ribera d'Ebre",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Ribera d'Ebre"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "16.00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "16.00 hor a s"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "70 dead",
+          "evidence": {
+            "quote": "70 c ont ab iliz a d a s h a st a l a s 16.00 hor a s"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "mobility restriction order issued",
+          "evidence": {
+            "quote": "sent an alert to mobile phones with a mobility restriction order to limit traffic"
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "inundations",
+          "evidence": {
+            "quote": "desol a dor a s de l a destru cc ión que h a n dej a do a su p a so l a s inund ac iones."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "water level rose inside homes",
+          "evidence": {
+            "quote": "water level rose inside the homes"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "inundations",
+          "evidence": {
+            "quote": "inundac iones."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "El Letrado area, Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Seville",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Seville"
+          }
+        },
+        {
+          "source_text": "Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "night",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "closed the night"
+          }
+        },
+        {
+          "source_text": "more than a hundred incidents",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "more than a hundred incidents"
+          }
+        },
+        {
+          "source_text": "1,440 incidents",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "more than 1,440 incidents handled"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 rescued",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 1,440 incidents handled",
+          "evidence": {
+            "quote": "more than 1,440 incidents handled"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "train services completely paralysed",
+          "evidence": {
+            "quote": "La c ir c ul ac ión de trenes h ac i a Va len c i a seguirá completamente paralizada"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,72 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "a low surface pressure to the undersea of Alborán (Figure 2.3).The formation and subsequent development of this low induced the intensification of the circulation of east component wind on the Mediterranean peninsular facade, bringing moisture to this region.",
+          "evidence": {
+            "quote": "a low surface pressure to the undersea of Alborán (Figure 2.3).The formation and subsequent development of this low induced the intensification of the circulation of east component wind on the Mediterranean peninsular facade, bringing moisture to this region."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "on the vertical of the Gulf of Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "on the vertical of the Gulf of Cadiz"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "on the 28th at noon",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "on the 28th at noon"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the low surface that ended up disappearing in the early hours of Saturday, November 2",
+          "evidence": {
+            "quote": "the low surface that ended up disappearing in the early hours of Saturday, November 2."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "in the southwestern quadrant peninsular",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the southwestern quadrant peninsular"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early hours of Saturday, November 2",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early hours of Saturday, November 2"
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

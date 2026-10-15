@@ -1,0 +1,85 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Floods occurred in Cadiz, and a sea tromba was observed that did not land.",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential.",
+          "evidence": {
+            "quote": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning.",
+          "evidence": {
+            "quote": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Floods occurred in Cadiz, and a sea tromba was observed that did not land.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        },
+        {
+          "source_text": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential."
+          }
+        },
+        {
+          "source_text": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential."
+          }
+        },
+        {
+          "source_text": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Floods occurred in Cadiz",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

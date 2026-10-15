@@ -1,0 +1,68 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea"
+          }
+        },
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "the drop in sea level, more than 20 cm in 10-min, at the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the drop in sea level, more than 20 cm in 10-min, at the tower"
+          }
+        },
+        {
+          "source_text": "the Lido gauge",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Lido gauge"
+          }
+        },
+        {
+          "source_text": "the Chioggia inlet",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Chioggia inlet"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower"
+          }
+        }
+      ]
+    }
+  ]
+}

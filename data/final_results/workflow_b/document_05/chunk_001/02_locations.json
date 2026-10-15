@@ -1,0 +1,94 @@
+{
+  "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "heavy rain and lightning storm in Malaga"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": []
+    },
+    {
+      "event_id": "event_03",
+      "locations": []
+    },
+    {
+      "event_id": "event_04",
+      "locations": []
+    },
+    {
+      "event_id": "event_05",
+      "locations": []
+    },
+    {
+      "event_id": "event_06",
+      "locations": []
+    },
+    {
+      "event_id": "event_07",
+      "locations": []
+    },
+    {
+      "event_id": "event_08",
+      "locations": []
+    },
+    {
+      "event_id": "event_09",
+      "locations": []
+    },
+    {
+      "event_id": "event_10",
+      "locations": []
+    },
+    {
+      "event_id": "event_11",
+      "locations": []
+    },
+    {
+      "event_id": "event_12",
+      "locations": []
+    },
+    {
+      "event_id": "event_13",
+      "locations": []
+    },
+    {
+      "event_id": "event_14",
+      "locations": []
+    },
+    {
+      "event_id": "event_15",
+      "locations": []
+    },
+    {
+      "event_id": "event_16",
+      "locations": []
+    },
+    {
+      "event_id": "event_17",
+      "locations": []
+    },
+    {
+      "event_id": "event_18",
+      "locations": []
+    },
+    {
+      "event_id": "event_19",
+      "locations": []
+    },
+    {
+      "event_id": "event_20",
+      "locations": []
+    }
+  ]
+}

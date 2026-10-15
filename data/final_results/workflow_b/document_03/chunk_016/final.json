@@ -1,0 +1,188 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "torrential precipitation events",
+          "evidence": {
+            "quote": "at least 4 torrential precipitation events have occurred in the province of Valencia from 1950 to the present"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "extreme precipitation",
+          "evidence": {
+            "quote": "episode of extreme precipitation can have depending on the area of focalization of the largest accumulations of precipitation"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensity of precipitation in recent decades has been reported"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "expected increase in the intensity of precipitation, from the thermodynamic point of view, would be 7% for each degree of increase in temperature"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "greater increases are being observed than this percentage, which could be linked to changes in atmospheric dynamics"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "greater efficiency of precipitation"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "records observed on a sub-diary scale, such as that of this last episode, could be within this last context of change"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensity of precipitation that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "intensity of precipitation",
+          "evidence": {
+            "quote": "intensification of precipitations that are being observed in recent decades"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at least 4 torrential precipitation events have occurred in the province of Valencia from 1950 to the present"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Contextualización histórica del evento del 29 de octubre en Valencia."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 de octubre",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Contextualización histórica del evento del 29 de octubre en Valencia."
+          }
+        },
+        {
+          "source_text": "last October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Impacts such as those that occurred last October 29 can be much more serious in areas, downstream, with only notable records of precipitation, than those suffered in those other areas where the most intense precipitations were observed."
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

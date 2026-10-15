@@ -1,0 +1,222 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "the northern interior storage",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the northern interior storage"
+          }
+        },
+        {
+          "source_text": "the north coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the north coast"
+          }
+        },
+        {
+          "source_text": "the north interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the north interior"
+          }
+        },
+        {
+          "source_text": "the south coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the south coast"
+          }
+        },
+        {
+          "source_text": "this area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "this area"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "Guadix",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza"
+          }
+        },
+        {
+          "source_text": "Baza",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "Almanzora Valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the region of Almanzora Valley"
+          }
+        },
+        {
+          "source_text": "Almanzora River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "overflow of the Almanzora River"
+          }
+        },
+        {
+          "source_text": "Purchena station of the MetClim network",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Purchena station of the MetClim network"
+          }
+        },
+        {
+          "source_text": "Tijola, of the SiAR network",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Tijola, of the SiAR network"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "province of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Malaga"
+          }
+        },
+        {
+          "source_text": "city of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "city of Malaga"
+          }
+        },
+        {
+          "source_text": "province of Seville",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Seville"
+          }
+        },
+        {
+          "source_text": "Guadalhorce valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "area of the Guadalhorce valley"
+          }
+        },
+        {
+          "source_text": "Guadalhorce River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river"
+          }
+        },
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "height of Cartama"
+          }
+        },
+        {
+          "source_text": "Álora (Málaga)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Álora (Málaga)"
+          }
+        },
+        {
+          "source_text": "meteorological center in the city of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "meteorological center in the city of Malaga"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "Sol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sol"
+          }
+        },
+        {
+          "source_text": "Guadalhorce",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalhorce"
+          }
+        },
+        {
+          "source_text": "Axarquia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Axarquia"
+          }
+        },
+        {
+          "source_text": "Ronda",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Ronda"
+          }
+        },
+        {
+          "source_text": "Antequera",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Antequera"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón."
+          }
+        },
+        {
+          "source_text": "At the first hour of the afternoon of the 27th day the accumulated and the level of warning in some regions were raised: to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At the first hour of the afternoon of the 27th day the accumulated and the level of warning in some regions were raised: to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "source_text": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "source_text": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "source_text": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours."
+          }
+        },
+        {
+          "source_text": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour."
+          }
+        },
+        {
+          "source_text": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours."
+          }
+        },
+        {
+          "source_text": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "source_text": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        }
+      ]
+    }
+  ]
+}

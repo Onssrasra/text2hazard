@@ -1,0 +1,727 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts.",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Guadix",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning."
+          }
+        },
+        {
+          "source_text": "Baza",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early morning and much of the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "road cuts",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "housing flooded",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "overflow of the Almanzora River",
+          "evidence": {
+            "quote": "the overflow of the Almanzora River."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Almanzora Valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the region of Almanzora Valley, precipitation also produced the overflow of the Almanzora River."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early morning and much of the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        },
+        {
+          "source_text": "Guadalhorce valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The episode came accompanied by an exceptional electrical activity. The stations of Álora (Málaga) and the meteorological center in the city of Malaga recorded in twelve accumulated hours of 167 mm and 84 mm, respectively."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

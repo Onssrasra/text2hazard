@@ -1,0 +1,123 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "evidence": {
+            "quote": "storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "category": "wildfire",
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "evidence": {
+            "quote": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "evidence": {
+            "quote": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the storm surge contribution is evaluated with the SHYFEM model (Umgiesser et al., 2014) over a spatial domain covering the Mediterranean Sea."
+          }
+        },
+        {
+          "source_text": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The opposite is true for sirocco, the S-E wind typically responsible for the Venice floods."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

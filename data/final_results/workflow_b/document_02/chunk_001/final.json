@@ -1,0 +1,167 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "source_text": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "15,884 deaths",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "6,147 injured",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "2,636 missing",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "about 400,000 buildings were confirmed as totally or half collapsed",
+          "evidence": {
+            "quote": "In addition, about 400,000 buildings were confirmed as totally or half collapsed."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "total economic damages exceeding US$ 210 billion",
+          "evidence": {
+            "quote": "With the total economic damages exceeding US$ 210 billion (not considering the Fukushima nuclear power plant accident), the Tohoku disaster is the most destructive on record (CRED, 2011)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "source_text": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "15,884 deaths",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "6,147 injured",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "2,636 missing",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "about 400,000 buildings were confirmed as totally or half collapsed",
+          "evidence": {
+            "quote": "In addition, about 400,000 buildings were confirmed as totally or half collapsed."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "total economic damages exceeding US$ 210 billion",
+          "evidence": {
+            "quote": "With the total economic damages exceeding US$ 210 billion (not considering the Fukushima nuclear power plant accident), the Tohoku disaster is the most destructive on record (CRED, 2011)."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

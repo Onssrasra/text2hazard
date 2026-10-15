@@ -1,0 +1,462 @@
+{
+  "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "heavy rain and lightning storm in Malaga",
+          "evidence": {
+            "quote": "heavy rain and lightning storm in Malaga"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "intense rainfall and strong gusts of wind",
+          "evidence": {
+            "quote": "intense rainfall and strong gusts of wind"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "severe thunderstorm",
+          "evidence": {
+            "quote": "severe thunderstorm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "storms and rainfall",
+          "evidence": {
+            "quote": "storms and rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused localized flooding",
+          "evidence": {
+            "quote": "rainfall has caused localized flooding"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood in the vicinity of the center",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood in the vicinity of the center"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood in the vicinity of the center that has made access to it impossible",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood in the vicinity of the center that has made access to it impossible"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "heavy rain",
+          "evidence": {
+            "quote": "heavy rain"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_18",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_19",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_20",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ]
+    }
+  ]
+}

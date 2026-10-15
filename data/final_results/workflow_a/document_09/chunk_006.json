@@ -1,0 +1,186 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "wildfire",
+          "source_text": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline.",
+          "evidence": {
+            "quote": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the Venice coastline",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the waves pounding heavily on the Venice coastline."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "18 UTC on 29 Oct",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The wave field at 18 UTC on 29 Oct is shown in panel 4b."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "highest waves present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower",
+          "evidence": {
+            "quote": "the highest waves are present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower (see Fig. 6)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the peak hourly conditions are at 19 UTC",
+          "evidence": {
+            "quote": "the peak hourly conditions are at 19 UTC."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the peak hourly conditions are at 19 UTC."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At this stage Hs was 'only' 3.2 m.",
+          "evidence": {
+            "quote": "At this stage Hs was 'only' 3.2 m."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At this stage Hs was 'only' 3.2 m."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At this stage Hs was 'only' 3.2 m."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872",
+          "evidence": {
+            "quote": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "fourth highest historical level of flooding in Venice since 1872."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "fourth highest historical level of flooding in Venice",
+          "evidence": {
+            "quote": "fourth highest historical level of flooding in Venice since 1872."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Note the extent of the surge around 18 UTC, in itself 1.30 m",
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice lagoon",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the geometry and bathymetry of the basin lead in stormy sirocco conditions to a strong enhancement of the surge in front of the Venice lagoon."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "18 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "surge of 1.30 m",
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

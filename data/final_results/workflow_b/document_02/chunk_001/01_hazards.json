@@ -1,0 +1,36 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the blockade to the north of the dana was much more intense than in 1957, comparable to the anomaly of 2024 (Figure 5.2).",
+          "evidence": {
+            "quote": "the blockade to the north of the dana was much more intense than in 1957, comparable to the anomaly of 2024 (Figure 5.2)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the blockade to the north of the dana",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the blockade to the north of the dana"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "comparable to the anomaly of 2024 (Figure 5.2)."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the events analyzed here respond to situations of blockade widely studied and recently analyzed in Sousa et al. 2021.",
+          "evidence": {
+            "quote": "the events analyzed here respond to situations of blockade widely studied and recently analyzed in Sousa et al. 2021."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "our area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "our area"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "1950 and 2020",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 1950 and 2020."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the dana of 2024 has had a behavior in duration and atypical displacement to the average behavior of the danas in our region.",
+          "evidence": {
+            "quote": "the dana of 2024 has had a behavior in duration and atypical displacement to the average behavior of the danas in our region."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "our region",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "our region"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the dana of 2024"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the event of 29 de octubre en Valencia",
+          "evidence": {
+            "quote": "el evento del 29 de octubre en Valencia."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "el evento del 29 de octubre en Valencia."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 de octubre",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "el evento del 29 de octubre en Valencia."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "torrential precipitation",
+          "evidence": {
+            "quote": "en otoño, que es cuando estos episodios tienen una mayor relevancia en términos del mayor potencial de ocurrencia de precipitación torrencial."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "our area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "en nuestra área"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "autumn",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "en otoño, que es cuando estos episodios tienen una mayor relevancia en términos del mayor potencial de ocurrencia de precipitación torrencial."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the intensity of the associated precipitation",
+          "evidence": {
+            "quote": "la intensidad de la precipitación asociada con los danas"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "possible future increase during autumn, of up to 88% of the precipitation associated with danas in northeastern Spain and 61% in adjacent regions.",
+          "evidence": {
+            "quote": "de un posible futuro aumento durante el otoño, de hasta 88% de la precipitación asociada con los danas en el noreste de España y 61% en regiones adyacentes."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "northeastern Spain",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "en el noreste de España"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "autumn",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "durante el otoño"
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

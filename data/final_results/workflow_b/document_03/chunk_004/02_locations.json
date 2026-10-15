@@ -1,0 +1,48 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "in the northern half of the province of Castellón.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": []
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Interior North, Litoral and Interior South",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        }
+      ]
+    }
+  ]
+}

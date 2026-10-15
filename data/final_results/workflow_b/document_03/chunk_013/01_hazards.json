@@ -1,0 +1,141 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "warnings of Tarragona are prolonged to include the morning of the day 4. On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.",
+          "evidence": {
+            "quote": "On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level.",
+          "evidence": {
+            "quote": "The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours.",
+          "evidence": {
+            "quote": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours.",
+          "evidence": {
+            "quote": "The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 31st day at night yellow precipitation warnings of 20 mm were issued in an hour in Prelithoral and Litoral of Barcelona, for the 3rd day.",
+          "evidence": {
+            "quote": "On the 31st day at night yellow precipitation warnings of 20 mm were issued in an hour in Prelithoral and Litoral of Barcelona, for the 3rd day."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 3rd day in the morning a yellow precipitation warning of 20 mm was issued in an hour in Litoral of Barcelona, for the morning of the 4th day.",
+          "evidence": {
+            "quote": "On the 3rd day in the morning a yellow precipitation warning of 20 mm was issued in an hour in Litoral of Barcelona, for the morning of the 4th day."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 4th day at 5:06 hours orange precipitation warnings of 40 mm in an hour and of 100 mm in twelve hours in Prelithoral and Litoral of Barcelona.",
+          "evidence": {
+            "quote": "On the 4th day at 5:06 hours orange precipitation warnings of 40 mm in an hour and of 100 mm in twelve hours in Prelithoral and Litoral of Barcelona."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour.",
+          "evidence": {
+            "quote": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "In the episode of 1957 the maximum was placed towards the northwest of the capital, causing a flood that flooded the city of Valencia due to the overflow of the river Turia.",
+          "evidence": {
+            "quote": "In the episode of 1957 the maximum was placed towards the northwest of the capital, causing a flood that flooded the city of Valencia due to the overflow of the river Turia."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "During the 1982 event, the peak focused on the central-southwestern area of the province, resulting in the well-known 'Tous Pantanada' due to the break-up of the dam that caused serious flooding downstream of the Júcar River.",
+          "evidence": {
+            "quote": "During the 1982 event, the peak focused on the central-southwestern area of the province, resulting in the well-known 'Tous Pantanada' due to the break-up of the dam that caused serious flooding downstream of the Júcar River."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "In 1987, the highest rainfall focused on the Safor regions, on 3 November, and on the Ribera Alta region on 4 November.",
+          "evidence": {
+            "quote": "In 1987, the highest rainfall focused on the Safor regions, on 3 November, and on the Ribera Alta region on 4 November."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "Regarding the 2024 event, the low rainfall throughout the coast stands out, in contrast to the large accumulations of only tens of kilometres inland, focusing on the area of maximum precipitation in the interior of the province and north-western part of the south coastal warning zone.",
+          "evidence": {
+            "quote": "Regarding the 2024 event, the low rainfall throughout the coast stands out, in contrast to the large accumulations of only tens of kilometres inland, focusing on the area of maximum precipitation in the interior of the province and north-western part of the south coastal warning zone."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "It also highlights the key role of the orography in triggering the convection, defining very well in the precipitation map the region where the convective structure began to develop that would lead to later torrential precipitation (extreme south of the precipitation zone) and which corresponds to a mountainous region located in the south-eastern end of the province.",
+          "evidence": {
+            "quote": "It also highlights the key role of the orography in triggering the convection, defining very well in the precipitation map the region where the convective structure began to develop that would lead to later torrential precipitation (extreme south of the precipitation zone) and which corresponds to a mountainous region located in the south-eastern end of the province."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The absolute precipitation peaks accumulated in twenty-four hours (official values) of each episode were 494,4 mm (1957), 635,2 mm (1982), 817.0 mm (1987) and 771,8 mm (2024).",
+          "evidence": {
+            "quote": "The absolute precipitation peaks accumulated in twenty-four hours (official values) of each episode were 494,4 mm (1957), 635,2 mm (1982), 817.0 mm (1987) and 771,8 mm (2024)."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "However, it should be noted that the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours.",
+          "evidence": {
+            "quote": "However, it should be noted that the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "evidence": {
+            "quote": "The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "evidence": {
+            "quote": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "In the last 70 years the province of Valencia has suffered different episodes of torrential precipitation that have resulted in serious floods.",
+          "evidence": {
+            "quote": "In the last 70 years the province of Valencia has suffered different episodes of torrential precipitation that have resulted in serious floods."
+          }
+        }
+      ]
+    }
+  ]
+}

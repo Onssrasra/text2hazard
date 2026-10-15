@@ -1,0 +1,762 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the presence of wave components moving in a direction opposite to the main flow of waves and wind",
+          "evidence": {
+            "quote": "the presence of wave components moving in a direction opposite to the main flow of waves and wind"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "inland microseisms",
+          "evidence": {
+            "quote": "Inland seismometer records of offshore wave conditions, if strong enough, are a known fact"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "reflection from the coast",
+          "evidence": {
+            "quote": "a reflection from the coast"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "seismometer spectrum peak at 0.2 Hz (5 s period)",
+          "evidence": {
+            "quote": "The peak at 0.2 Hz (5 s period, half of the period of incoming waves) is unmistakable"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice beach",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Venice beach"
+          }
+        },
+        {
+          "source_text": "Padua University, 40 km inland",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Padua University, 40 km inland"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 and 30 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the particularly strong signal of 29 and 30 October is shown in the left panel of Fig. 16"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "strong seismometer signal associated with the storm",
+          "evidence": {
+            "quote": "the much stronger signal following the energy of the storm is quite clear"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "large wave crest height",
+          "evidence": {
+            "quote": "the height reached by the crest of the largest expected wave (7.90 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "damaged structure suspended below the tower deck n. 2",
+          "evidence": {
+            "quote": "the damaged structure suspended below the tower deck n. 2"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower deck n. 2",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the damaged structure suspended below the tower deck n. 2"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        },
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "wave crest reached nominal height of 8.40 m on mean sea level",
+          "evidence": {
+            "quote": "The nominal height on the mean sea level of the suspended structure is 8.40 m, reached by the wave crests during the storm because of the higher sea level present at that time"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "significant wave height 3.2 m",
+          "evidence": {
+            "quote": "At this time the significant wave height was 3.2 m"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower"
+          }
+        },
+        {
+          "source_text": "Venice beach",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Venice beach"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "wave conditions used for model verification",
+          "evidence": {
+            "quote": "The availability at the tower of both detailed wave measured data (stereo video system and single point radar) and model spectra allows a keen verification of the theoretical approach in extreme sea state conditions"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave height 7.90 m",
+          "evidence": {
+            "quote": "the height reached by the crest of the largest expected wave (7.90 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave height 8.40 m",
+          "evidence": {
+            "quote": "The nominal height on the mean sea level of the suspended structure is 8.40 m"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower deck n. 2",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the damaged structure suspended below the tower deck n. 2"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "wave crests reached the suspended structure height",
+          "evidence": {
+            "quote": "reached by the wave crests during the storm because of the higher sea level present at that time"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave breaking and run-up more up the beach",
+          "evidence": {
+            "quote": "the heavy wave conditions, supported also by the coastal set-up, moved the wave breaking and run-up more up the beach"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice beach",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Venice beach"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29-30 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the particularly strong signal of 29 and 30 October is shown in the left panel of Fig. 16"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "potential reflection enhanced by out of season sandy dunes erected to protect tourist infrastructure",
+          "evidence": {
+            "quote": "potential reflection enhanced by the out of season sandy dunes erected to protect the tourist infrastructure"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "seismometer spectral peak drastically lower before and after storm",
+          "evidence": {
+            "quote": "Not shown, in the seismometer spectra before and after the storm the seismometer spectral peak is drastically lower and at a lower frequency"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "seismometer",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "seismometer spectra before and after the storm"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "before and after storm",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "before and after the storm"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "clear difference in seismometer signal during storm",
+          "evidence": {
+            "quote": "the much stronger signal following the energy of the storm is quite clear"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave model WAM spectrum",
+          "evidence": {
+            "quote": "maximum crest height and profile derived using the WAM model spectrum"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "agreement of observed and modeled profile",
+          "evidence": {
+            "quote": "The agreement of the observed and modeled profile allows inferring the profile of the wave with the largest expected crest height"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "confidence limits associated with the measurements",
+          "evidence": {
+            "quote": "The shadow represents the confidence limits associated with the measurements"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "confidence limits shown in figure",
+          "evidence": {
+            "quote": "The shadow represents the confidence limits associated with the measurements"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "time interval 35 m² and 120 s",
+          "evidence": {
+            "quote": "The considered space and time intervals are 35 m 2 and 120 s respectively"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "used for wave height estimation",
+          "evidence": {
+            "quote": "allowing an estimate consistent with the duration of the peak conditions"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "time interval 35 m² and 3600 s",
+          "evidence": {
+            "quote": "right panel for 35 m 2 and 3600 s, the longer time interval allowing an estimate consistent with the duration of the peak conditions"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "used for wave height estimation",
+          "evidence": {
+            "quote": "allowing an estimate consistent with the duration of the peak conditions"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "sea level +0.94 m",
+          "evidence": {
+            "quote": "the waves are relative to a sea level of + 0.94 m, instead of mean sea level"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "higher sea level present at that time",
+          "evidence": {
+            "quote": "reached by the wave crests during the storm because of the higher sea level present at that time"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave crest height 7.90 m",
+          "evidence": {
+            "quote": "the height reached by the crest of the largest expected wave (7.90 m)"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "wave crest height compared to damaged structure",
+          "evidence": {
+            "quote": "compared to the height of the damaged structure suspended below the tower deck n. 2"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave crest height 8.40 m",
+          "evidence": {
+            "quote": "The nominal height on the mean sea level of the suspended structure is 8.40 m, reached by the wave crests during the storm because of the higher sea level present at that time"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower deck n. 2",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the damaged structure suspended below the tower deck n. 2"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC, close to the heaviest conditions at the tower"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "wave crests reached nominal height",
+          "evidence": {
+            "quote": "reached by the wave crests during the storm because of the higher sea level present at that time"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave conditions at 13 UTC",
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "used for model verification",
+          "evidence": {
+            "quote": "The availability at the tower of both detailed wave measured data (stereo video system and single point radar) and model spectra allows a keen verification of the theoretical approach in extreme sea state conditions"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave model WAM spectrum vs stereo system",
+          "evidence": {
+            "quote": "maximum crest height and profile derived using the WAM model spectrum with (dashed line) the corresponding result derived from the stereo system"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "based on the wave conditions at 13 UTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "agreement of observed and modeled profile",
+          "evidence": {
+            "quote": "The agreement of the observed and modeled profile allows inferring the profile of the wave with the largest expected crest height"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "wave breaking and run-up more up the beach",
+          "evidence": {
+            "quote": "the heavy wave conditions, supported also by the coastal set-up, moved the wave breaking and run-up more up the beach"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice beach",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Venice beach"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29-30 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the particularly strong signal of 29 and 30 October is shown in the left panel of Fig. 16"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "potential reflection enhanced by out of season sandy dunes erected to protect tourist infrastructure",
+          "evidence": {
+            "quote": "potential reflection enhanced by the out of season sandy dunes erected to protect the tourist infrastructure"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "seismometer spectral peak at 0.2 Hz (5 s period)",
+          "evidence": {
+            "quote": "The peak at 0.2 Hz (5 s period, half of the period of incoming waves) is unmistakable"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "seismometer",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "seismometer spectra before and after the storm"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "during storm",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the much stronger signal following the energy of the storm is quite clear"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "clear difference in seismometer signal during storm",
+          "evidence": {
+            "quote": "the much stronger signal following the energy of the storm is quite clear"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

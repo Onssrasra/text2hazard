@@ -1,0 +1,31 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "High waves on the Ligurian Sea and the Northern Adriatic Sea",
+          "evidence": {
+            "quote": "The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "Crest heights of up to +9 m and surge of +1.30 m recorded on the ISMAR oceanographic tower",
+          "evidence": {
+            "quote": "Both data and minor damage on the horizontal outgoing platform (deck 2) provide evidence of up to +9 m crest heights (but with +1.30 m surge)."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "Extensive forest damage with an estimated loss of 11 million trees in the Dolomites and Eastern Alps",
+          "evidence": {
+            "quote": "very extensive forest damage (estimated loss of 11 million trees)."
+          }
+        }
+      ]
+    }
+  ]
+}

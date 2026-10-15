@@ -1,0 +1,45 @@
+{
+  "document_id": "PWC 2015 - Updated estimates on cost of Storm Desmond",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Storm Desmond",
+          "evidence": {
+            "quote": "Storm Desmond"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood",
+          "evidence": {
+            "quote": "flood"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flash flooding",
+          "evidence": {
+            "quote": "flash flooding"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood affected areas",
+          "evidence": {
+            "quote": "flood affected areas"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood hit sites",
+          "evidence": {
+            "quote": "flood hit sites"
+          }
+        }
+      ]
+    }
+  ]
+}

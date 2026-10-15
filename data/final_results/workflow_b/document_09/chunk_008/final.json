@@ -1,0 +1,263 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "The 1979 and 2018 storms were of comparable intensity, Hs in particular.",
+          "evidence": {
+            "quote": "The 1979 and 2018 storms were of comparable intensity, Hs in particular."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea.",
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea."
+          }
+        },
+        {
+          "category": "cold_snow",
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea."
+          }
+        },
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea."
+          }
+        },
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

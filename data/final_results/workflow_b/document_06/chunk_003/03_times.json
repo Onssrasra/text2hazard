@@ -1,0 +1,57 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": [
+        {
+          "source_text": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    }
+  ]
+}

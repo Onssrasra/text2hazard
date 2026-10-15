@@ -1,0 +1,875 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ]
+    }
+  ]
+}

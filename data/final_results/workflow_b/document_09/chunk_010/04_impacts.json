@@ -1,0 +1,17 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "other",
+          "description": "The crest of the largest expected wave (7.90 m) reached the damaged structure suspended below the tower deck n. 2, whose nominal height on mean sea level is 8.40 m.",
+          "evidence": {
+            "quote": "The height reached by the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2."
+          }
+        }
+      ]
+    }
+  ]
+}

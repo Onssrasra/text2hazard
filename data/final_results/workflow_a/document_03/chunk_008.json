@@ -1,0 +1,76 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca)",
+          "evidence": {
+            "quote": "the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca)"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "great stormy activity from the morning until the last hours of the day",
+          "evidence": {
+            "quote": "great stormy activity from the morning until the last hours of the day"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "none",
+          "evidence": {
+            "quote": "none"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Mira (Cuenca)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Mira (Cuenca)"
+          }
+        },
+        {
+          "source_text": "Cuenca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Cuenca"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "at the end of the day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at the end of the day"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "floods in Mira",
+          "evidence": {
+            "quote": "the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca)"
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "great stormy activity",
+          "evidence": {
+            "quote": "great stormy activity from the morning until the last hours of the day"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

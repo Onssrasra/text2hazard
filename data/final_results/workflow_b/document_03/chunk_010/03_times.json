@@ -1,0 +1,209 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From early hours of the day there were squalls and very intense storms on the north of Castellón that spread to the south of Tarragona in the late morning."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "On the 29th night, the yellow warning of storms and precipitation of 20 mm was issued in one hour in Central Depression, Southern Coast and Prelithoral South of Tarragona, for the 31st.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th night, the yellow warning of storms and precipitation of 20 mm was issued in one hour in Central Depression, Southern Coast and Prelithoral South of Tarragona, for the 31st."
+          }
+        },
+        {
+          "source_text": "On the 30th night, the level of these warnings was raised to orange in the South Coast and Prelithoral South, with an accumulation of 40 mm in an hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 30th night, the level of these warnings was raised to orange in the South Coast and Prelithoral South, with an accumulation of 40 mm in an hour."
+          }
+        },
+        {
+          "source_text": "In addition, in these zones the orange warning was added by accumulation of 100 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In addition, in these zones the orange warning was added by accumulation of 100 mm in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "times": [
+        {
+          "source_text": "yellow warnings of storm and precipitation of 20 mm in an hour and of 40 mm in twelve hours in the Lower Aragon of Teruel, zone adjacent to Tarragona, throughout the day 31.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "yellow warnings of storm and precipitation of 20 mm in an hour and of 40 mm in twelve hours in the Lower Aragon of Teruel, zone adjacent to Tarragona, throughout the day 31."
+          }
+        },
+        {
+          "source_text": "Day 31 at 11:22 hours were raised to orange of 30 mm in an hour the warnings of precipitation in an hour in Central Depression of Tarragona and Lower Aragon of Teruel, from this hour and until the evening-night.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Day 31 at 11:22 hours were raised to orange of 30 mm in an hour the warnings of precipitation in an hour in Central Depression of Tarragona and Lower Aragon of Teruel, from this hour and until the evening-night."
+          }
+        },
+        {
+          "source_text": "A yellow warning of precipitation of 40 mm in twelve hours in this same area, from this hour and until the end of the day.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "A yellow warning of precipitation of 40 mm in twelve hours in this same area, from this hour and until the end of the day."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "times": []
+    },
+    {
+      "event_id": "event_07",
+      "times": [
+        {
+          "source_text": "In Isla Cristina (Huelva), between 16:00 and 17:00 hours a sea tromba was formed that raised boats from the sea, and entered the land causing destruction.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Isla Cristina (Huelva), between 16:00 and 17:00 hours a sea tromba was formed that raised boats from the sea, and entered the land causing destruction."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "times": [
+        {
+          "source_text": "On the 29th night yellow warnings of precipitation of 15 mm were issued in an hour and 40 mm in twelve hours throughout Huelva, for the 31st day.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th night yellow warnings of precipitation of 15 mm were issued in an hour and 40 mm in twelve hours throughout Huelva, for the 31st day."
+          }
+        },
+        {
+          "source_text": "On the 30th morning yellow warnings were issued for storms throughout Huelva.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 30th morning yellow warnings were issued for storms throughout Huelva."
+          }
+        },
+        {
+          "source_text": "At night the accumulated ones were raised to 20 mm in an hour and 60 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At night the accumulated ones were raised to 20 mm in an hour and 60 mm in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_09",
+      "times": [
+        {
+          "source_text": "On the 29th night yellow warnings of storm and precipitation of 15 mm were issued in an hour in the Cadiz Coast, for the day 30 and the morning of the 31st.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th night yellow warnings of storm and precipitation of 15 mm were issued in an hour in the Cadiz Coast, for the day 30 and the morning of the 31st."
+          }
+        },
+        {
+          "source_text": "At 7:41 hours yellow warning of precipitation of 50 mm in twelve hours in the area, from that hour and until the evening-night.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 7:41 hours yellow warning of precipitation of 50 mm in twelve hours in the area, from that hour and until the evening-night."
+          }
+        },
+        {
+          "source_text": "At 9:28 hours the warning was raised to orange by precipitation of 30 mm in an hour, from that hour and until noon, indicating in comments that the most intense precipitations were expected in the areas near the Bay of Cadiz.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:28 hours the warning was raised to orange by precipitation of 30 mm in an hour, from that hour and until noon, indicating in comments that the most intense precipitations were expected in the areas near the Bay of Cadiz."
+          }
+        },
+        {
+          "source_text": "At 10:43 hours the warning by precipitation of 80 mm was raised to orange in twelve hours, from that hour and until noon.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 10:43 hours the warning by precipitation of 80 mm was raised to orange in twelve hours, from that hour and until noon."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_10",
+      "times": [
+        {
+          "source_text": "At dawn a convective system of stationary mesoscale (SCM1-I) was formed that affected the provinces of Huelva and Badajoz, with strong storms accompanied by great electrical activity.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At dawn a convective system of stationary mesoscale (SCM1-I) was formed that affected the provinces of Huelva and Badajoz, with strong storms accompanied by great electrical activity."
+          }
+        },
+        {
+          "source_text": "In Cartaya (Huelva) 138 mm were recorded during the first twelve hours of the day, although 115 mm were observed in just three hours (during the morning).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Cartaya (Huelva) 138 mm were recorded during the first twelve hours of the day, although 115 mm were observed in just three hours (during the morning)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "times": []
+    }
+  ]
+}

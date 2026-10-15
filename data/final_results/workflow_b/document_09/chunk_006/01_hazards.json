@@ -1,0 +1,81 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline.",
+          "evidence": {
+            "quote": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Following both the wind distribution (4a) and the reducing depth moving N, the highest waves are present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower (see Fig. 6).",
+          "evidence": {
+            "quote": "Following both the wind distribution (4a) and the reducing depth moving N, the highest waves are present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower (see Fig. 6)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "The measured and model spectral evolutions at the tower are shown in Fig. 7. Referring first to measurements (left panel), we have plotted with a continuous line the growing sea conditions, marked thick at the peak, and indicated with a dash line the decreasing energy spectra.",
+          "evidence": {
+            "quote": "The measured and model spectral evolutions at the tower are shown in Fig. 7. Referring first to measurements (left panel), we have plotted with a continuous line the growing sea conditions, marked thick at the peak, and indicated with a dash line the decreasing energy spectra."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "The highest conditions occurred in any case when the system could not operate (nighttime). However, we have a very interesting 2D spectrum at 13 UTC, shown in Fig. 8, left panel is the measurements, right is the model. At this stage Hs was 'only' 3.2 m.",
+          "evidence": {
+            "quote": "The highest conditions occurred in any case when the system could not operate (nighttime). However, we have a very interesting 2D spectrum at 13 UTC, shown in Fig. 8, left panel is the measurements, right is the model. At this stage Hs was 'only' 3.2 m."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "We have previously mentioned that the geometry and bathymetry of the basin lead in stormy sirocco conditions to a strong enhancement of the surge in front of the Venice lagoon.",
+          "evidence": {
+            "quote": "We have previously mentioned that the geometry and bathymetry of the basin lead in stormy sirocco conditions to a strong enhancement of the surge in front of the Venice lagoon."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements.",
+          "evidence": {
+            "quote": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Note the extent of the surge around 18 UTC, in itself 1.30 m, that only by a lucky optimal phase difference with the astronomical tide did not lead to the by far worst flood in history.",
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m, that only by a lucky optimal phase difference with the astronomical tide did not lead to the by far worst flood in history."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "The fourth, blue line provides the modeled surge that, with some differences along the growing and decreasing stages, managed to pinpoint time and level of the peak.",
+          "evidence": {
+            "quote": "The fourth, blue line provides the modeled surge that, with some differences along the growing and decreasing stages, managed to pinpoint time and level of the peak."
+          }
+        }
+      ]
+    }
+  ]
+}

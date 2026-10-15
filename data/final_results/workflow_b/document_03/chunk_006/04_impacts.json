@@ -1,0 +1,47 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "more than 200 deaths",
+          "evidence": {
+            "quote": "caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material losses of millions",
+          "evidence": {
+            "quote": "caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "more than 200 deaths",
+          "evidence": {
+            "quote": "caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material losses of millions",
+          "evidence": {
+            "quote": "caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions."
+          }
+        }
+      ]
+    }
+  ]
+}

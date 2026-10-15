@@ -1,0 +1,129 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps.",
+          "evidence": {
+            "quote": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "high waves and surge in front of the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "high waves and surge in front of the Venice coast."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 Oct 2018 18.30",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "last 200 m of the six jetties at the lagoon inlets were not existent after the storm",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps.",
+          "evidence": {
+            "quote": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "high waves and surge in front of the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "high waves and surge in front of the Venice coast."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 Oct 2018 18.30",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures",
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps.",
+          "evidence": {
+            "quote": "the 29 October 2018 case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "high waves and surge in front of the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "high waves and surge in front of the Venice coast."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 Oct 2018 18.30",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "last 200 m of the six jetties at the lagoon inlets were not existent after the storm",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

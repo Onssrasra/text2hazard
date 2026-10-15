@@ -1,0 +1,24 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "Authorities are forced to reduce the overall output produced and supplied to the network",
+          "evidence": {
+            "quote": "As a result, the authorities are forced to reduce the overall output produced and supplied to the network."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "Power plants are unable to deliver power to the victims",
+          "evidence": {
+            "quote": "This further weakens the rest of the power plants, which are unable to deliver power to the victims."
+          }
+        }
+      ]
+    }
+  ]
+}

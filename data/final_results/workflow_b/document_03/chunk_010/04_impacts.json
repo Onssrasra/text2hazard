@@ -1,0 +1,57 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "impacts": []
+    },
+    {
+      "event_id": "event_09",
+      "impacts": []
+    },
+    {
+      "event_id": "event_10",
+      "impacts": []
+    },
+    {
+      "event_id": "event_11",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital)",
+          "evidence": {
+            "quote": "The most significant impacts were caused by flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital)."
+          }
+        }
+      ]
+    }
+  ]
+}

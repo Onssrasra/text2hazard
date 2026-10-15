@@ -1,0 +1,36 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "torrent overflowed and dragged numerous cars",
+          "evidence": {
+            "quote": "The greatest impacts occurred in the municipality of Manacor, especially in Porto Cristo, where the torrent overflowed and dragged numerous cars."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "many cut roads and flooded fields in the south and east of Mallorca",
+          "evidence": {
+            "quote": "There were also many cut roads and flooded fields in the south and east of Mallorca."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    }
+  ]
+}

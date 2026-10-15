@@ -1,0 +1,42 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "Thinking about the input to the corresponding models, wind and surface pressure, wave height appears as a more general parameter because it is representative of the conditions on the whole Adriatic basin, while, as we have seen, surge is highly dependent on the conditions in the last tens of kilometers near the coast.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the whole Adriatic basin"
+          }
+        },
+        {
+          "source_text": "Using, for the specified reasons, Hs as an example, we consider the distribution of its peak values for all the 1979 to present storms, based on the historical directional wave dataset recorded at the Acqua Alta tower, as documented in Pomaro et al. (2018).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Acqua Alta tower"
+          }
+        },
+        {
+          "source_text": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coastal 29-Oct-2018 18.30:OOUTC structures"
+          }
+        },
+        {
+          "source_text": "As an example, the last 200 m of the six jetties at the lagoon inlets were not existent after the storm.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the lagoon inlets"
+          }
+        }
+      ]
+    }
+  ]
+}

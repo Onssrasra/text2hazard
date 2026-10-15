@@ -1,0 +1,57 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Natural hazards are often triggers in terms of starting points; that is, they induce technological, human, or organizational failures simultaneously and at different locations that have no direct physical or functional relationship.",
+          "evidence": {
+            "quote": "Natural hazards are often triggers in terms of starting points; that is, they induce technological, human, or organizational failures simultaneously and at different locations that have no direct physical or functional relationship."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Processes of technological and organizational origin create a cascade effect when the following phenomena occur: fire, explosion, and toxic release, or any combination of the three.",
+          "evidence": {
+            "quote": "Processes of technological and organizational origin create a cascade effect when the following phenomena occur: fire, explosion, and toxic release, or any combination of the three."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "The propagation of danger flows through natural (heat transfer, gas migration), artificial (electrical wiring, ventilation systems), and systems/information networks (spread of a computer virus or errors).",
+          "evidence": {
+            "quote": "The propagation of danger flows through natural (heat transfer, gas migration), artificial (electrical wiring, ventilation systems), and systems/information networks (spread of a computer virus or errors)."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "In terms of human intervention, panic, stress, and their effects on the organization must be taken into account as they all constitute fields of danger.",
+          "evidence": {
+            "quote": "In terms of human intervention, panic, stress, and their effects on the organization must be taken into account as they all constitute fields of danger."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "The main events that cause the malfunction and/or failure of an infrastructure are natural, technological, and human and organizational. These events may provoke an explosion, a fire, or the release of toxins in the case of active infrastructure, or may result in service failure in the case of passive infrastructure.",
+          "evidence": {
+            "quote": "The main events that cause the malfunction and/or failure of an infrastructure are natural, technological, and human and organizational. These events may provoke an explosion, a fire, or the release of toxins in the case of active infrastructure, or may result in service failure in the case of passive infrastructure."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

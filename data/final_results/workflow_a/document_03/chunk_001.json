@@ -1,0 +1,125 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Floods associated with torrential precipitation are one of the natural disasters that has the greatest impact each year throughout our planet.",
+          "evidence": {
+            "quote": "Floods associated with torrential precipitation are one of the natural disasters that has the greatest impact each year throughout our planet."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the province of Valencia"
+          }
+        },
+        {
+          "source_text": "the provinces of Albacete, Cuenca and Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the provinces of Albacete, Cuenca and Malaga"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29th of October, 2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the 29th of October, when very serious impacts occurred, especially in the province of Valencia."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "223 people lost their lives (3 still missing at the time of this study)",
+          "evidence": {
+            "quote": "223 people lost their lives (3 still missing at the time of this study)"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "economic impact on the main economic sectors would exceed 13 billion euros",
+          "evidence": {
+            "quote": "the economic impact on the main economic sectors would exceed 13 billion euros, according to the Chamber of Valencia (Camera V. 2024)."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros",
+          "evidence": {
+            "quote": "the material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros, according to estimates of the Consortium of Insurance Compensation (Consorcio CS. 2024)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the provinces of the Mediterranean",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the provinces of the Mediterranean"
+          }
+        },
+        {
+          "source_text": "the adjacent provinces of the communities of Castilla-La Mancha and Aragon",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "adjacent provinces of the communities of Castilla-La Mancha and Aragon"
+          }
+        },
+        {
+          "source_text": "part of the south-western quadrant",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "part of the south-western quadrant"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 28 – November 4, 2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country,"
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

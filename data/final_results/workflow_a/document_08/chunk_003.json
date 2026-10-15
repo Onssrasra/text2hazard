@@ -1,0 +1,75 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy.",
+          "evidence": {
+            "quote": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy.",
+          "evidence": {
+            "quote": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy.",
+          "evidence": {
+            "quote": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "nuclear plants",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy."
+          }
+        },
+        {
+          "source_text": "power plants",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "This further weakens the rest of the power plants, which are unable to deliver power to the victims."
+          }
+        },
+        {
+          "source_text": "victims",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "This further weakens the rest of the power plants, which are unable to deliver power to the victims."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "reduced overall output produced and supplied to the network",
+          "evidence": {
+            "quote": "the authorities are forced to reduce the overall output produced and supplied to the network."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "power plants unable to deliver power to the victims",
+          "evidence": {
+            "quote": "This further weakens the rest of the power plants, which are unable to deliver power to the victims."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

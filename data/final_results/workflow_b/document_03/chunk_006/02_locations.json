@@ -1,0 +1,44 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "In addition to the precipitation, there was also an extraordinary tornadic episode in the region of the Ribera Alta, with at least eleven tornadoes that affected areas of the municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In addition to the precipitation, there was also an extraordinary tornadic episode in the region of the Ribera Alta, with at least eleven tornadoes that affected areas of the municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley."
+          }
+        }
+      ]
+    }
+  ]
+}

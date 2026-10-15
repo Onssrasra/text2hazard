@@ -1,0 +1,760 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital).",
+          "evidence": {
+            "quote": "flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartaya",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Cartaya"
+          }
+        },
+        {
+          "source_text": "Punta Umbria",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Punta Umbria"
+          }
+        },
+        {
+          "source_text": "Huelva capital",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Huelva capital"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "first twelve hours of the day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "first twelve hours of the day"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flooding of urban areas of Puerto de Mazarrón",
+          "evidence": {
+            "quote": "flooding of urban areas of Puerto de Mazarrón"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "strong storms accompanied by great electrical activity",
+          "evidence": {
+            "quote": "strong storms accompanied by great electrical activity"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartaya (Huelva)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Cartaya (Huelva)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "first twelve hours of the day",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "first twelve hours of the day"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "138 mm were recorded during the first twelve hours of the day",
+          "evidence": {
+            "quote": "138 mm were recorded during the first twelve hours of the day"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "115 mm were observed in just three hours (during the morning).",
+          "evidence": {
+            "quote": "115 mm were observed in just three hours (during the morning)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cartaya (Huelva)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Cartaya (Huelva)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "just three hours (during the morning)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "just three hours (during the morning)."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "115 mm were observed in just three hours (during the morning).",
+          "evidence": {
+            "quote": "115 mm were observed in just three hours (during the morning)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "line of storms (SCM1-III) passed through the island of Mallorca, initially affected the south, spreading the intense squalls to points of the west and especially to the Sierra de Tramuntana.",
+          "evidence": {
+            "quote": "line of storms (SCM1-III) passed through the island of Mallorca, initially affected the south, spreading the intense squalls to points of the west and especially to the Sierra de Tramuntana."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Mallorca"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "afternoon",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the afternoon, a line of storms (SCM1-III) passed through the island of Mallorca"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Some roads were also cut opening the next day.",
+          "evidence": {
+            "quote": "Some roads were also cut opening the next day."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "Intensities were between very strong and torrential (accumulated from 50 to 70 mm in just one hour).",
+          "evidence": {
+            "quote": "Intensities were between very strong and torrential (accumulated from 50 to 70 mm in just one hour)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Serra d'Alfàbia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Serra d'Alfàbia"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "just one hour",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "just one hour"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín",
+          "evidence": {
+            "quote": "120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach.",
+          "evidence": {
+            "quote": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Calvià",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Calvià"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "afternoon",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the afternoon, a line of storms (SCM1-III) passed through the island of Mallorca"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach.",
+          "evidence": {
+            "quote": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "During the early hours of the morning a multicellular system (MC3-I) began to affect the province of Almería, moving rapidly to the Region of Murcia.",
+          "evidence": {
+            "quote": "During the early hours of the morning a multicellular system (MC3-I) began to affect the province of Almería, moving rapidly to the Region of Murcia."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Almería",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Almería"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early hours of the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the early hours of the morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "very strong local rainfall occurred in the regions of the Guadalentín Valley and the Campo de Cartagena and Mazarrón.",
+          "evidence": {
+            "quote": "very strong local rainfall occurred in the regions of the Guadalentín Valley and the Campo de Cartagena and Mazarrón."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The increase of ramblas caused flooding of urban areas of Puerto de Mazarrón.",
+          "evidence": {
+            "quote": "The increase of ramblas caused flooding of urban areas of Puerto de Mazarrón."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Puerto de Mazarrón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Puerto de Mazarrón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "between 9:00 and 13:00 hours in the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 9:00 and 13:00 hours in the morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flooding of urban areas of Puerto de Mazarrón",
+          "evidence": {
+            "quote": "flooding of urban areas of Puerto de Mazarrón."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "40.2 mm, half of them in just one hour.",
+          "evidence": {
+            "quote": "40.2 mm, half of them in just one hour."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Mazarrón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Mazarrón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "between 9:00 and 13:00 hours in the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 9:00 and 13:00 hours in the morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "40.2 mm, half of them in just one hour.",
+          "evidence": {
+            "quote": "40.2 mm, half of them in just one hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "flooding of urban areas of Puerto de Mazarrón.",
+          "evidence": {
+            "quote": "flooding of urban areas of Puerto de Mazarrón."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Puerto de Mazarrón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Puerto de Mazarrón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "between 9:00 and 13:00 hours in the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 9:00 and 13:00 hours in the morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flooding of urban areas of Puerto de Mazarrón",
+          "evidence": {
+            "quote": "flooding of urban areas of Puerto de Mazarrón."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "near 100 mm during this episode.",
+          "evidence": {
+            "quote": "near 100 mm during this episode."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "surroundings of this population",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "surroundings of this population"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "this episode",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "during this episode"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "near 100 mm during this episode",
+          "evidence": {
+            "quote": "near 100 mm during this episode."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín",
+          "evidence": {
+            "quote": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "North and Northeast Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "North and Northeast Mallorca"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "1st day at 15:46 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 15:46 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín",
+          "evidence": {
+            "quote": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 70 mm in one hour and 140 mm in twelve hours in Litoral of Huelva",
+          "evidence": {
+            "quote": "observed red warnings of precipitation of 70 mm in one hour and 140 mm in twelve hours in Litoral of Huelva"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Litoral of Huelva",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Litoral of Huelva"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "1st day at 4:25 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 4:25 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 70 mm in one hour and 140 mm in twelve hours in Litoral of Huelva",
+          "evidence": {
+            "quote": "observed red warnings of precipitation of 70 mm in one hour and 140 mm in twelve hours in Litoral of Huelva"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 60 mm in one hour and 120 mm in twelve hours in Andévalo and County",
+          "evidence": {
+            "quote": "of 60 mm in one hour and 120 mm in twelve hours in Andévalo and County"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Andévalo and County",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andévalo and County"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "1st day at 4:25 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 4:25 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 60 mm in one hour and 120 mm in twelve hours in Andévalo and County",
+          "evidence": {
+            "quote": "of 60 mm in one hour and 120 mm in twelve hours in Andévalo and County"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 30 mm in an hour and 110 mm in twelve hours the warnings of Aracena",
+          "evidence": {
+            "quote": "raised to orange of 30 mm in an hour and 110 mm in twelve hours the warnings of Aracena"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Aracena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Aracena"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "7:50 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 7:50 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 30 mm in an hour and 110 mm in twelve hours the warnings of Aracena",
+          "evidence": {
+            "quote": "raised to orange of 30 mm in an hour and 110 mm in twelve hours the warnings of Aracena"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín",
+          "evidence": {
+            "quote": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "North and Northeast Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "North and Northeast Mallorca"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "31st day in the morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 31st day in the morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín",
+          "evidence": {
+            "quote": "warnings of precipitation of 120 mm in twelve hours in North and Northeast Mallorca and Levante Mallorquín"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 150 mm in twelve hours",
+          "evidence": {
+            "quote": "the accumulated for these warnings was raised to 150 mm in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "all Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "all Mallorca"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "1st day at 15:46 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 15:46 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 150 mm in twelve hours",
+          "evidence": {
+            "quote": "the accumulated for these warnings was raised to 150 mm in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_18",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "warnings of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours in Valle del Guadalentín, Lorca and Eagles",
+          "evidence": {
+            "quote": "an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valle del Guadalentín",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valle del Guadalentín"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Day 3 at 11:52 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Day 3 at 11:52 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "warnings of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours in Valle del Guadalentín, Lorca and Eagles",
+          "evidence": {
+            "quote": "an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

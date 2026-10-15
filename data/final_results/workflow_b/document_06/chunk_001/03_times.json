@@ -1,0 +1,34 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "October 31",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "EFE: October 31, AUDIO SUMMARY (AI GENERATED) 00: 00: powerbeans Valencia (EFE) - The provisional death toll from the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia."
+          }
+        },
+        {
+          "source_text": "this Friday at 8:00 a.m.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On his social media profile, Mazón announced that the Military Emergency Unit (UME) informed him that the first wave of personnel will arrive this Friday at 8:00 a.m. to work during the day."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    }
+  ]
+}

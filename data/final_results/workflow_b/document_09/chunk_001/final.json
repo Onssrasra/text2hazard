@@ -1,0 +1,119 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "wildfire",
+          "source_text": "destructive (compared to the local standards) waves in the Ligurian Sea.",
+          "evidence": {
+            "quote": "destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge",
+          "evidence": {
+            "quote": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "destructive (compared to the local standards) waves in the Ligurian Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        },
+        {
+          "source_text": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge"
+          }
+        },
+        {
+          "source_text": "high waves in front of Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "high waves in front of Venice"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the storm (generally known as Vaia)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the storm (generally known as Vaia)"
+          }
+        },
+        {
+          "source_text": "developed at the end of October in the Western Mediterranean Sea",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "developed at the end of October in the Western Mediterranean Sea"
+          }
+        },
+        {
+          "source_text": "On October 29, 2018 a very severe storm affected Northern Italy",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm (generally known as Vaia)",
+          "evidence": {
+            "quote": "the storm (generally known as Vaia)"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the storm (generally known as Vaia) developed at the end of October in the Western Mediterranean Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the storm (generally known as Vaia)"
+          }
+        },
+        {
+          "source_text": "Western Mediterranean Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Western Mediterranean Sea"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "On October 29, 2018 a very severe storm affected Northern Italy",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy"
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

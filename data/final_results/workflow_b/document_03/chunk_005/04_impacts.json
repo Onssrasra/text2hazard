@@ -1,0 +1,31 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "serious destruction of thousands of hectares in greenhouses",
+          "evidence": {
+            "quote": "It caused serious destruction of thousands of hectares in greenhouses and in vehicles, roads and flooded basements and fallen trees."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "damage to vehicles, roads, flooded basements and fallen trees",
+          "evidence": {
+            "quote": "It caused serious destruction of thousands of hectares in greenhouses and in vehicles, roads and flooded basements and fallen trees."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "significant damage caused by extraordinary electrical activity",
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        }
+      ]
+    }
+  ]
+}

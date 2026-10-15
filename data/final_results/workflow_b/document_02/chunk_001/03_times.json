@@ -1,0 +1,31 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake occurred on 11 March 2011, at 14:46:24 local time."
+          }
+        }
+      ]
+    }
+  ]
+}

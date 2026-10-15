@@ -1,0 +1,181 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'",
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead.",
+          "evidence": {
+            "quote": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "source_text": "In other affected areas of the territory such as Albacete, in Castilla-La Mancha (where two women have died), the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In other affected areas of the territory such as Albacete, in Castilla-La Mancha (where two women have died), the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "almost one hundred dead",
+          "evidence": {
+            "quote": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        },
+        {
+          "source_text": "the search for the missing in Letur has resumed.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the search for the missing in Letur has resumed."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "five missing residents",
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the rain falls locally intensely.",
+          "evidence": {
+            "quote": "the rain falls locally intensely."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the rain falls locally intensely.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the rain falls locally intensely."
+          }
+        },
+        {
+          "source_text": "the southern regions of Tarragona, especially in the Terres de l'Ebre -Terra Alta, Baix Ebre and Montsià-, Priorat and Baix Camp, where the rain falls locally intensely.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the southern regions of Tarragona, especially in the Terres de l'Ebre -Terra Alta, Baix Ebre and Montsià-, Priorat and Baix Camp, where the rain falls locally intensely."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "source_text": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "lives were in danger",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "A total of 22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

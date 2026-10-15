@@ -1,0 +1,155 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "the province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "155 have died in the province of Valencia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "another 2 in Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "1 more in Andalusia"
+          }
+        },
+        {
+          "source_text": "Paiporta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "One of the hardest‑hit towns has been Paiporta"
+          }
+        },
+        {
+          "source_text": "La Torre",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in other outlying villages, such as La Torre"
+          }
+        },
+        {
+          "source_text": "Castellar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "and Castellar"
+          }
+        },
+        {
+          "source_text": "Mira (Cuenca)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a woman in Mira (Cuenca)"
+          }
+        },
+        {
+          "source_text": "Letur (Albacete)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "and another in Letur (Albacete)"
+          }
+        },
+        {
+          "source_text": "Málaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a British man who lived in Málaga"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in Valencia"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": []
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "rural area of Jerez",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the rural area of Jerez"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "along the banks of the Guadalete River"
+          }
+        },
+        {
+          "source_text": "El Portal",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Portal"
+          }
+        },
+        {
+          "source_text": "El Portalillo",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Portalillo"
+          }
+        },
+        {
+          "source_text": "La Corta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Corta"
+          }
+        },
+        {
+          "source_text": "La Greduela",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Greduela"
+          }
+        },
+        {
+          "source_text": "Las Pachecas",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Las Pachecas"
+          }
+        }
+      ]
+    }
+  ]
+}

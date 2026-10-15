@@ -1,0 +1,47 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "the storm (generally known as Vaia)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the storm (generally known as Vaia)"
+          }
+        },
+        {
+          "source_text": "developed at the end of October in the Western Mediterranean Sea",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "developed at the end of October in the Western Mediterranean Sea"
+          }
+        },
+        {
+          "source_text": "On October 29, 2018 a very severe storm affected Northern Italy",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "On October 29, 2018 a very severe storm affected Northern Italy",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy"
+          }
+        }
+      ]
+    }
+  ]
+}

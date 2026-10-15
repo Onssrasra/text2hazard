@@ -1,0 +1,451 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ]
+    }
+  ]
+}

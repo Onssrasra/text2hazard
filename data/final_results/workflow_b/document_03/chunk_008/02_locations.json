@@ -1,0 +1,73 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "During the afternoon and night of the 28th, the first isolated storms formed in the area of the northwestern Murcia, causing the first precipitations in that region and in the one of Alcaraz and Segura (Albacete).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the afternoon and night of the 28th, the first isolated storms formed in the area of the northwestern Murcia, causing the first precipitations in that region and in the one of Alcaraz and Segura (Albacete)."
+          }
+        },
+        {
+          "source_text": "During the rest of the morning and the morning of the 29th several storms were formed on the surroundings of the Espuña mountain range, in the Region of Murcia, and they moved with a rectory flow of southeast towards the center of the region of Alcaraz and Segura (MC29-III).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the rest of the morning and the morning of the 29th several storms were formed on the surroundings of the Espuña mountain range, in the Region of Murcia, and they moved with a rectory flow of southeast towards the center of the region of Alcaraz and Segura (MC29-III)."
+          }
+        },
+        {
+          "source_text": "Much of the trigger of the stormy activity of the day may have been due to the orographic forcing caused by the orientation of many of the mountain ranges. Around 2:00 p.m., due to the heavy rainfall and the orography on which Letur (Albacete) sits, the stream of the same name swept through the old town of the municipality.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Around 2:00 p.m., due to the heavy rainfall and the orography on which Letur (Albacete) sits, the stream of the same name swept through the old town of the municipality."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "At the end of the day, the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At the end of the day, the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Cumulative precipitation on October 30th. Source: AEMET, SAIH and At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Cumulative precipitation on October 30th. Source: AEMET, SAIH and At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez."
+          }
+        }
+      ]
+    }
+  ]
+}

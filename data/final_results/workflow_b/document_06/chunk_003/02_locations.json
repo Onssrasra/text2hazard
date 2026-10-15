@@ -1,0 +1,137 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Letur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Letur"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete"
+          }
+        }
+      ]
+    }
+  ]
+}

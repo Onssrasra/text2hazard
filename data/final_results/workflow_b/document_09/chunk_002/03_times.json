@@ -1,0 +1,42 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "After a short lull, a second and more intense phase of the event took place on the 29th, when a cold front from the Gulf of Lion entered the Mediterranean basin (panel 2a, at 06 UTC).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "when a cold front from the Gulf of Lion entered the Mediterranean basin (panel 2a, at 06 UTC)."
+          }
+        },
+        {
+          "source_text": "The interaction between the cold inflow with the warm and moist marine boundary layer triggered the rapid intensification of the low that, starting from the general field, quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis with central pressure estimated at 984 hPa.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis"
+          }
+        },
+        {
+          "source_text": "The low entered land north of Corsica at about 18 UTC, followed (D) by a strong and violent flow of cold air from West-SouthWest (panel 2c, 18 UTC).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at about 18 UTC"
+          }
+        },
+        {
+          "source_text": "On the Adriatic Sea, where we focus our attention, the wind was over at 00 UTC of the 30th (panel 2d), while of course the long swell was still pounding on the Venetian coast.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the wind was over at 00 UTC of the 30th (panel 2d)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "The physical effects of a fault in an LPG tanker could affect surrounding facilities and equipment, the buildings, the personnel, and the environment.",
+          "evidence": {
+            "quote": "The physical effects of a fault in an LPG tanker could affect surrounding facilities and equipment, the buildings, the personnel, and the environment."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "If the targets involved are damaged, they may explode and threaten surrounding facilities, and so on.",
+          "evidence": {
+            "quote": "If the targets involved are damaged, they may explode and threaten surrounding facilities, and so on."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "LPG storage facilities are a typical example of equipment that would be vulnerable in an earthquake.",
+          "evidence": {
+            "quote": "LPG storage facilities are a typical example of equipment that would be vulnerable in an earthquake."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "LPG storage areas contain a great deal of equipment that is susceptible to both external and internal incidents.",
+          "evidence": {
+            "quote": "LPG storage areas contain a great deal of equipment that is susceptible to both external and internal incidents."
+          }
+        }
+      ]
+    }
+  ]
+}

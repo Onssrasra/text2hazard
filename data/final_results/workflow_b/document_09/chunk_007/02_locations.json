@@ -1,0 +1,18 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "Acqua Alta tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the 'Acqua Alta' tower (see Fig. 3)"
+          }
+        }
+      ]
+    }
+  ]
+}

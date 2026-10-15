@@ -1,0 +1,126 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island. It rained throughout the island, although the most affected areas were the south and east.",
+          "evidence": {
+            "quote": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island. It rained throughout the island, although the most affected areas were the south and east."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a line of storms (SCM28-I) was sweeping Mallorca from southeast to northeast, initially affecting the south and then east and northeast of the island."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "torrent overflowed and dragged numerous cars",
+          "evidence": {
+            "quote": "The greatest impacts occurred in the municipality of Manacor, especially in Porto Cristo, where the torrent overflowed and dragged numerous cars."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "many cut roads and flooded fields in the south and east of Mallorca",
+          "evidence": {
+            "quote": "There were also many cut roads and flooded fields in the south and east of Mallorca."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón.",
+          "evidence": {
+            "quote": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "in the northern half of the province of Castellón.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the first half of the day, stormless precipitations were recorded that had strong or very strong intensity and were persistent until noon in the northern half of the province of Castellón."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The accumulated ones reached 100 mm in twelve hours and 30 mm in an hour.",
+          "evidence": {
+            "quote": "The accumulated ones reached 100 mm in twelve hours and 30 mm in an hour."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours.",
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Interior North, Litoral and Interior South",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

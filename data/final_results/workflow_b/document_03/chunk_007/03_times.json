@@ -1,0 +1,132 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour."
+          }
+        },
+        {
+          "source_text": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours."
+          }
+        },
+        {
+          "source_text": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours."
+          }
+        },
+        {
+          "source_text": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "times": [
+        {
+          "source_text": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia, for the evening-night 28 and the 29th.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia, for the evening-night 28 and the 29th."
+          }
+        },
+        {
+          "source_text": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda."
+          }
+        },
+        {
+          "source_text": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour."
+          }
+        },
+        {
+          "source_text": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29."
+          }
+        },
+        {
+          "source_text": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours."
+          }
+        },
+        {
+          "source_text": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour."
+          }
+        },
+        {
+          "source_text": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning."
+          }
+        },
+        {
+          "source_text": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce."
+          }
+        }
+      ]
+    }
+  ]
+}

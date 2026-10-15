@@ -1,0 +1,117 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea."
+          }
+        },
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "locations": [
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_08",
+      "locations": [
+        {
+          "source_text": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tide gauge data strongly suggest that the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ]
+    }
+  ]
+}

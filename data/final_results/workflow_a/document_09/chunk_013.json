@@ -1,0 +1,397 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the strong cold front. Indeed it is not easy to pinpoint the correct dynamics of these very strong mesoscale events.",
+          "evidence": {
+            "quote": "the strong cold front. Indeed it is not easy to pinpoint the correct dynamics of these very strong mesoscale events."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tower clearly show that the model anticipates the passage of the front by more than 30 min, with a consequent positional error of 20 or more kilometers.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower clearly show that the model anticipates the passage of the front by more than 30 min, with a consequent positional error of 20 or more kilometers."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "on October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "on October 29"
+          }
+        },
+        {
+          "source_text": "the two components were six hours out of phase (out of a 12 h cycle)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the two components were six hours out of phase (out of a 12 h cycle)"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "transport",
+          "description": "the model anticipates the passage of the front by more than 30 min, with a consequent positional error of 20 or more kilometers.",
+          "evidence": {
+            "quote": "the model anticipates the passage of the front by more than 30 min, with a consequent positional error of 20 or more kilometers."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast.",
+          "evidence": {
+            "quote": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the last tens of kilometers before the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the last tens of kilometers before the Venice coast"
+          }
+        },
+        {
+          "source_text": "the one two kilometers offshore, at the sea exit of the jetties bordering the inlets to the lagoon",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the one two kilometers offshore, at the sea exit of the jetties bordering the inlets to the lagoon"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "on October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "on October 29"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "the surge contribution to the flood peak was less than half a meter",
+          "evidence": {
+            "quote": "the flood peak happened with only less than half a meter surge contribution."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The actual sea level, in Venice as everywhere else, is the addition of the just mentioned surge and the regular astronomical tide.",
+          "evidence": {
+            "quote": "The actual sea level, in Venice as everywhere else, is the addition of the just mentioned surge and the regular astronomical tide."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in Venice as everywhere else"
+          }
+        },
+        {
+          "source_text": "the coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the coast"
+          }
+        },
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "on October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "on October 29"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "the surge of 1.54 m would have been disastrous if it had occurred a few hours earlier",
+          "evidence": {
+            "quote": "Had the 1.54 m surge happened a few hours before, conditions would have been disastrous."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the passage of the cold front has made evident, via the quick collapse of the sea level at the coast and in particular at the tower, the role of wind stress in keeping the water pushed towards the coast.",
+          "evidence": {
+            "quote": "the passage of the cold front has made evident, via the quick collapse of the sea level at the coast and in particular at the tower, the role of wind stress in keeping the water pushed towards the coast."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the coast"
+          }
+        },
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the passage of the front",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the passage of the front"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "the sea level at the tower decreased by only a fraction of what shown in Fig. 15 when wind was halted at the time of the documented front passage",
+          "evidence": {
+            "quote": "the test performed, halting the wind at the time of the documented front passage, showed a decrease of the sea level at the tower position, but by only a fraction of what shown in Fig. 15."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the surge model is capable handling such a situation.",
+          "evidence": {
+            "quote": "the surge model is capable handling such a situation."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tower position",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the sea level at the tower position"
+          }
+        },
+        {
+          "source_text": "the historical data",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "fitted to the historical data"
+          }
+        },
+        {
+          "source_text": "the particular scenario",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the cited particular scenario"
+          }
+        },
+        {
+          "source_text": "the model",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the model"
+          }
+        },
+        {
+          "source_text": "the strong gradient situation",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the strong gradient situation"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the time of the documented front passage",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the time of the documented front passage"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "the model cannot handle this strong gradient situation",
+          "evidence": {
+            "quote": "the model cannot handle this strong gradient situation."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast.",
+          "evidence": {
+            "quote": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the last tens of kilometers before the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the last tens of kilometers before the Venice coast"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "on October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "on October 29"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "the set-up at the coast is consequently much larger than the one at Lido shown in Fig. 13",
+          "evidence": {
+            "quote": "the set-up at the coast is consequently much larger than the one at Lido shown in Fig. 13."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the surge model is capable handling such a situation.",
+          "evidence": {
+            "quote": "the surge model is capable handling such a situation."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tower position",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the sea level at the tower position"
+          }
+        },
+        {
+          "source_text": "the historical data",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "fitted to the historical data"
+          }
+        },
+        {
+          "source_text": "the particular scenario",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the cited particular scenario"
+          }
+        },
+        {
+          "source_text": "the model",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the model"
+          }
+        },
+        {
+          "source_text": "the strong gradient situation",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the strong gradient situation"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the time of the documented front passage",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the time of the documented front passage"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "the model cannot handle this strong gradient situation",
+          "evidence": {
+            "quote": "the model cannot handle this strong gradient situation."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

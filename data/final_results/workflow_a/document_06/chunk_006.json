@@ -1,0 +1,52 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "DANA storm",
+          "evidence": {
+            "quote": "areas of Valencia affected by the DANA storm"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "DANA storm",
+          "evidence": {
+            "quote": "areas of Valencia affected by the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "areas of Valencia affected by the DANA storm"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "158 deaths",
+          "evidence": {
+            "quote": "The death toll rises to 158"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "39 people arrested",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,185 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the torrent overflowed and dragged numerous cars.",
+          "evidence": {
+            "quote": "the torrent overflowed and dragged numerous cars."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "cut roads and flooded fields in the south and east of Mallorca.",
+          "evidence": {
+            "quote": "cut roads and flooded fields in the south and east of Mallorca."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "squalls presented intensity between very strong and torrential",
+          "evidence": {
+            "quote": "squalls presented intensity between very strong and torrential,"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "line of storms (SCM28-I) sweeping Mallorca from southeast to northeast",
+          "evidence": {
+            "quote": "line of storms (SCM28-I) sweeping Mallorca from southeast to northeast,"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Mallorca"
+          }
+        },
+        {
+          "source_text": "south and east of Mallorca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "south and east of Mallorca"
+          }
+        },
+        {
+          "source_text": "Manacor",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Manacor"
+          }
+        },
+        {
+          "source_text": "Porto Cristo",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Porto Cristo"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        },
+        {
+          "source_text": "El Ejido (Almería)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "town of El Ejido (Almería)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "28 de octubre",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Lunes 28 de octubre."
+          }
+        },
+        {
+          "source_text": "3:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at about 3:00 hours."
+          }
+        },
+        {
+          "source_text": "3:09 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 3:09 hours"
+          }
+        },
+        {
+          "source_text": "3:36 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 3:36 hours"
+          }
+        },
+        {
+          "source_text": "10:53 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 10:53 hours"
+          }
+        },
+        {
+          "source_text": "early morning of the day 28",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early morning of the day 28"
+          }
+        },
+        {
+          "source_text": "in an hour",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "in an hour"
+          }
+        },
+        {
+          "source_text": "twelve hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "twelve hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "great impact on the economy of the town of El Ejido",
+          "evidence": {
+            "quote": "great impact on the economy of the town of El Ejido (Almería)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "cut roads",
+          "evidence": {
+            "quote": "cut roads and flooded fields in the south and east of Mallorca."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "flooded fields",
+          "evidence": {
+            "quote": "cut roads and flooded fields in the south and east of Mallorca."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "cars dragged by torrent",
+          "evidence": {
+            "quote": "the torrent overflowed and dragged numerous cars."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

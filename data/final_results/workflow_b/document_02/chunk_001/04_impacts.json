@@ -1,0 +1,85 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "15,884 deaths",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "6,147 injured",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "2,636 missing",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "about 400,000 buildings were confirmed as totally or half collapsed",
+          "evidence": {
+            "quote": "In addition, about 400,000 buildings were confirmed as totally or half collapsed."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "total economic damages exceeding US$ 210 billion",
+          "evidence": {
+            "quote": "With the total economic damages exceeding US$ 210 billion (not considering the Fukushima nuclear power plant accident), the Tohoku disaster is the most destructive on record (CRED, 2011)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "15,884 deaths",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "6,147 injured",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "2,636 missing",
+          "evidence": {
+            "quote": "A recent report by the Japanese National Police Agency reported 15,884 deaths, 6,147 injured, and 2,636 people missing (NPAJ, 2014)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "about 400,000 buildings were confirmed as totally or half collapsed",
+          "evidence": {
+            "quote": "In addition, about 400,000 buildings were confirmed as totally or half collapsed."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "total economic damages exceeding US$ 210 billion",
+          "evidence": {
+            "quote": "With the total economic damages exceeding US$ 210 billion (not considering the Fukushima nuclear power plant accident), the Tohoku disaster is the most destructive on record (CRED, 2011)."
+          }
+        }
+      ]
+    }
+  ]
+}

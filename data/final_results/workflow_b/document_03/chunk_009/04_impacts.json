@@ -1,0 +1,17 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Floods occurred in Cadiz",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        }
+      ]
+    }
+  ]
+}

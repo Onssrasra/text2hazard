@@ -1,0 +1,641 @@
+{
+  "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "heavy rain and lightning storm in Malaga",
+          "evidence": {
+            "quote": "heavy rain and lightning storm in Malaga"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "intense rainfall and strong gusts of wind",
+          "evidence": {
+            "quote": "intense rainfall and strong gusts of wind"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "severe thunderstorm",
+          "evidence": {
+            "quote": "severe thunderstorm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "storms and rainfall",
+          "evidence": {
+            "quote": "storms and rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused localized flooding",
+          "evidence": {
+            "quote": "rainfall has caused localized flooding"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood in the vicinity of the center",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood in the vicinity of the center"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall has caused a considerable flood in the vicinity of the center that has made access to it impossible",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood in the vicinity of the center that has made access to it impossible"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "heavy rain and lightning storm in Malaga"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early Tuesday morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early Tuesday morning"
+          }
+        },
+        {
+          "source_text": "in the last 12 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "in the last 12 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water",
+          "evidence": {
+            "quote": "the rainfall has caused localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "flooding in the vicinity of the center that has made access to it impossible",
+          "evidence": {
+            "quote": "rainfall has caused a considerable flood in the vicinity of the center that has made access to it impossible."
+          }
+        },
+        {
+          "category": "transport",
+          "description": "traffic jams and road closures in the capital, including Lope de Vega Avenue, Julio Cortázar Avenue, and other streets",
+          "evidence": {
+            "quote": "There have also been some traffic jams and road closures in the capital, such as on Lope de Vega Avenue, heading towards the city center, near Julio Cortázar Avenue due to a road subsidence."
+          }
+        },
+        {
+          "category": "transport",
+          "description": "traffic jams and road closures on access roads from Juan XXIII Avenue to Plaza Manuel Azaña, Blas Infante Avenue, Guerrero Strachan Avenue, Velázquez Avenue, Camino Suárez, the Azucarera - Interhorce road, Santa Rosa de Lima, and Victoria",
+          "evidence": {
+            "quote": "There is also heavy traffic on the access roads from Juan XXIII Avenue to Plaza Manuel Azaña, Blas Infante Avenue, Guerrero Strachan Avenue, Velázquez Avenue, Camino Suárez, the Azucarera - Interhorce road, Santa Rosa de Lima, and Victoria"
+          }
+        },
+        {
+          "category": "transport",
+          "description": "pools of water on the MA21, near the Churriana intersection, and the intersections of Avenida Herrera Oria-Virgen de las Flores, Pasillo del Matadero Puente del Carmen, Pasillo Santa Isabel - Puente de la Aurora and Avenida Lope de Vega - Atabal",
+          "evidence": {
+            "quote": "There are pools of water on the MA21, near the Churriana intersection, and the intersections of Avenida Herrera Oria-Virgen de las Flores, Pasillo del Matadero Puente del Carmen, Pasillo Santa Isabel - Puente de la Aurora and Avenida Lope de Vega - Atabal have also been affected."
+          }
+        },
+        {
+          "category": "transport",
+          "description": "flight delays of approximately 15 minutes for flights scheduled during the early morning hours at Malaga Airport",
+          "evidence": {
+            "quote": "At Malaga Airport, a severe thunderstorm forced air traffic control to implement traffic management measures to ensure safety, causing delays of approximately 15 minutes for flights scheduled during the early morning hours."
+          }
+        },
+        {
+          "category": "transport",
+          "description": "traffic management measures implemented at Malaga Airport",
+          "evidence": {
+            "quote": "At Malaga Airport, a severe thunderstorm forced air traffic control to implement traffic management measures to ensure safety, causing delays of approximately 15 minutes for flights scheduled during the early morning hours."
+          }
+        },
+        {
+          "category": "transport",
+          "description": "operations have now returned to normal at Malaga Airport",
+          "evidence": {
+            "quote": "Airport sources told ABC that, nevertheless, operations have now returned to normal."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "heavy rainfall recorded 47.3 liters per square meter in the Guadalhorce River, 43.4 liters in the city of Málaga, 42.9 liters in Pujerra, 41.6 liters in Sierra de Mijas, 31.3 liters in Torre del Mar, 31.2 liters in Ronda, and various reservoirs",
+          "evidence": {
+            "quote": "In the last 12 hours, 47.3 liters per square meter have been recorded in the Guadalhorce River; 43.4 liters in the city of Málaga (Paseo de la Farola); 42.9 liters in the town of Pujerra; 41.6 liters in the Sierra de Mijas; 31.3 liters in Torre del Mar, part of Vélez-Málaga; and 31.2 liters in Ronda. Rainfall has also been recorded in some reservoirs, such as Guadalteba, with 42 liters per square meter; Conde del Guadalhorce, with 40.5 liters; Limonero, with 34.8 liters; La Viñuela, with 21.2 liters; and La Concepción, with 16.9 liters per square meter."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "heavy rainfall recorded 42 liters per square meter in Guadalteba, 40.5 liters in Conde del Guadalhorce, 34.8 liters in Limonero, 21.2 liters in La Viñuela, and 16.9 liters in La Concepción",
+          "evidence": {
+            "quote": "Rainfall has also been recorded in some reservoirs, such as Guadalteba, with 42 liters per square meter; Conde del Guadalhorce, with 40.5 liters; Limonero, with 34.8 liters; La Viñuela, with 21.2 liters; and La Concepción, with 16.9 liters per square meter."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "heavy rainfall recorded 40 liters in various locations, including the capital city and the Sierra de Mijas mountain range",
+          "evidence": {
+            "quote": "The heavy rains that fell early Tuesday morning in the province of Málaga have left more than 40 liters in various locations, including the capital city and the Sierra de Mijas mountain range."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "heavy rainfall recorded 30 liters per square meter in one hour and 80 liters accumulated in 12 hours in the orange alert area",
+          "evidence": {
+            "quote": "The State Meteorological Agency (Aemet) maintains the orange alert active until midday in the Malaga regions of Costa del Sol and Guadalhorce due to storms and rainfall that can reach 30 liters per square meter in one hour and 80 liters accumulated in 12 hours."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "private Novaschool Sunland International school in Cártama had to cancel classes due to a considerable flood that made access impossible",
+          "evidence": {
+            "quote": "Some educational centers, such as the private Novaschool Sunland International school located in the municipality of Cártama, have had to cancel their classes this Tuesday due to the heavy rainfall, which has caused a considerable flood in the vicinity of the center that has made access to it impossible."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "heavy rain",
+          "evidence": {
+            "quote": "heavy rain"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_18",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_19",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_20",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

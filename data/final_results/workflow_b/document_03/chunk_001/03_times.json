@@ -1,0 +1,103 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": []
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "times": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "times": []
+    },
+    {
+      "event_id": "event_07",
+      "times": []
+    },
+    {
+      "event_id": "event_08",
+      "times": []
+    },
+    {
+      "event_id": "event_09",
+      "times": []
+    },
+    {
+      "event_id": "event_10",
+      "times": []
+    },
+    {
+      "event_id": "event_11",
+      "times": []
+    },
+    {
+      "event_id": "event_12",
+      "times": []
+    },
+    {
+      "event_id": "event_13",
+      "times": []
+    },
+    {
+      "event_id": "event_14",
+      "times": []
+    },
+    {
+      "event_id": "event_15",
+      "times": []
+    },
+    {
+      "event_id": "event_16",
+      "times": []
+    },
+    {
+      "event_id": "event_17",
+      "times": []
+    },
+    {
+      "event_id": "event_18",
+      "times": []
+    },
+    {
+      "event_id": "event_19",
+      "times": []
+    },
+    {
+      "event_id": "event_20",
+      "times": []
+    }
+  ]
+}

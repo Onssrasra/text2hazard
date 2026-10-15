@@ -1,0 +1,48 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia.",
+          "evidence": {
+            "quote": "the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "The DANA storm",
+          "evidence": {
+            "quote": "The DANA storm, LIVE | The death toll rises to 158 and Mazón requests the Army's help in Valencia"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the emergency is not yet over.",
+          "evidence": {
+            "quote": "the emergency is not yet over."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "evidence": {
+            "quote": "the Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        }
+      ]
+    }
+  ]
+}

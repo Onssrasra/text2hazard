@@ -1,0 +1,26 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at least 4 torrential precipitation events have occurred in the province of Valencia from 1950 to the present"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Contextualización histórica del evento del 29 de octubre en Valencia."
+          }
+        }
+      ]
+    }
+  ]
+}

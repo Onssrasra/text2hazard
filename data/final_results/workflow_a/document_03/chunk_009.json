@@ -1,0 +1,345 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Floods occurred in Cadiz, and a sea tromba was observed that did not land.",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        },
+        {
+          "source_text": "Jerez",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours)."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 30",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Floods in Cadiz",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "Sea tromba observed",
+          "evidence": {
+            "quote": "Floods occurred in Cadiz, and a sea tromba was observed that did not land."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours).",
+          "evidence": {
+            "quote": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Jerez",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours)."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 30",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "108 mm rainfall collected at Jerez airport",
+          "evidence": {
+            "quote": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours)."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "70 mm rainfall in 3 hours at Jerez",
+          "evidence": {
+            "quote": "At Jerez airport, 108 mm were collected throughout the day, and 70 mm in just three hours (between 12:00 and 15:00 hours)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 12:47 hours the warning in Litoral Gaditano was raised to orange of precipitation of 80 mm in twelve hours, from that hour and until the end of the day.",
+          "evidence": {
+            "quote": "At 12:47 hours the warning in Litoral Gaditano was also raised to orange of precipitation of 80 mm in twelve hours, from that hour and until the end of the day."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Litoral Gaditano",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At 12:47 hours the warning in Litoral Gaditano was also raised to orange of precipitation of 80 mm in twelve hours, from that hour and until the end of the day."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 30 12:47",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 12:47 hours the warning in Litoral Gaditano was also raised to orange of precipitation of 80 mm in twelve hours, from that hour and until the end of the day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "Orange precipitation warning for 80 mm in 12 hours in Litoral Gaditano",
+          "evidence": {
+            "quote": "At 12:47 hours the warning in Litoral Gaditano was also raised to orange of precipitation of 80 mm in twelve hours, from that hour and until the end of the day."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 14:28 hours the warnings of Campiña Gaditana were raised to red of 120 mm in twelve hours and orange of 50 mm in an hour.",
+          "evidence": {
+            "quote": "At 14:28 hours the warnings of Campiña Gaditana were raised to red of 120 mm in twelve hours and orange of 50 mm in an hour."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Campiña Gaditana",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At 14:28 hours the warnings of Campiña Gaditana were raised to red of 120 mm in twelve hours and orange of 50 mm in an hour."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 30 14:28",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 14:28 hours the warnings of Campiña Gaditana were raised to red of 120 mm in twelve hours and orange of 50 mm in an hour."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "Red precipitation warning for 120 mm in 12 hours in Campiña Gaditana",
+          "evidence": {
+            "quote": "At 14:28 hours the warnings of Campiña Gaditana were raised to red of 120 mm in twelve hours and orange of 50 mm in an hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential.",
+          "evidence": {
+            "quote": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Torreblanca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        },
+        {
+          "source_text": "Catí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        },
+        {
+          "source_text": "Vall d'Alba",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 31 morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the morning and morning of day 31 a convective system of mesoescala (SCM31-I) affected the northern half of the province of Castellón that caused persistent precipitations of very strong intensity, locally torrential."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "100.8 mm rainfall in Torreblanca",
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "110.0 mm rainfall in Catí",
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "100.0 mm rainfall in Vall d'Alba",
+          "evidence": {
+            "quote": "In twelve hours they came to accumulate 100.8 mm in Torreblanca, 110.0 in Catí and 100.0 mm in Vall d'Alba, with accumulations of more than 60 mm in an hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 9:16 hours the warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours.",
+          "evidence": {
+            "quote": "At 9:16 hours the warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Northern Coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At 9:16 hours the warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 31 9:16",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:16 hours the warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "Red precipitation warning for 180 mm in 12 hours in Northern Coast of Castellón",
+          "evidence": {
+            "quote": "At 9:16 hours the warnings of the Northern Coast and the Northern Coast of Castellón were raised to red of 180 mm in twelve hours from that hour and until noon, then continuing as oranges of 100 mm in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon.",
+          "evidence": {
+            "quote": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "South Coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 31 9:33",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "Red precipitation warning for 180 mm in 12 hours in South Coast",
+          "evidence": {
+            "quote": "At 9:33 hours the notice of the South Coast was also raised to red of 180 mm in twelve hours, also until noon."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,72 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "As just pointed out the peak hourly conditions are at 19 UTC.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "As just pointed out the peak hourly conditions are at 19 UTC."
+          }
+        },
+        {
+          "source_text": "However, we have a very interesting 2D spectrum at 13 UTC, shown in Fig. 8, left panel is the measurements, right is the model.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "However, we have a very interesting 2D spectrum at 13 UTC, shown in Fig. 8, left panel is the measurements, right is the model."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": [
+        {
+          "source_text": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements."
+          }
+        },
+        {
+          "source_text": "Note the second sea level peak about six hours later.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Note the second sea level peak about six hours later."
+          }
+        },
+        {
+          "source_text": "Note the extent of the surge around 18 UTC, in itself 1.30 m, that only by a lucky optimal phase difference with the astronomical tide did not lead to the by far worst flood in history.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m, that only by a lucky optimal phase difference with the astronomical tide did not lead to the by far worst flood in history."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "times": []
+    }
+  ]
+}

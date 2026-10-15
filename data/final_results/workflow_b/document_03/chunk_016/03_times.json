@@ -1,0 +1,26 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "29 de octubre",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Contextualización histórica del evento del 29 de octubre en Valencia."
+          }
+        },
+        {
+          "source_text": "last October 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Impacts such as those that occurred last October 29 can be much more serious in areas, downstream, with only notable records of precipitation, than those suffered in those other areas where the most intense precipitations were observed."
+          }
+        }
+      ]
+    }
+  ]
+}

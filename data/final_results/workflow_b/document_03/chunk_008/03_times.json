@@ -1,0 +1,81 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "During the afternoon and night of the 28th, the first isolated storms formed in the area of the northwestern Murcia, causing the first precipitations in that region and in the one of Alcaraz and Segura (Albacete).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the afternoon and night of the 28th, the first isolated storms formed in the area of the northwestern Murcia, causing the first precipitations in that region and in the one of Alcaraz and Segura (Albacete)."
+          }
+        },
+        {
+          "source_text": "During the rest of the morning and the morning of the 29th several storms were formed on the surroundings of the Espuña mountain range, in the Region of Murcia, and they moved with a rectory flow of southeast towards the center of the region of Alcaraz and Segura (MC29-III).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the rest of the morning and the morning of the 29th several storms were formed on the surroundings of the Espuña mountain range, in the Region of Murcia, and they moved with a rectory flow of southeast towards the center of the region of Alcaraz and Segura (MC29-III)."
+          }
+        },
+        {
+          "source_text": "During the morning, some of those storms enhanced their activity as they moved over this region, maintaining the activity for hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the morning, some of those storms enhanced their activity as they moved over this region, maintaining the activity for hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "At the end of the day, the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At the end of the day, the increase of the flow of the river Ojos de Moya caused floods in Mira (Cuenca)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": [
+        {
+          "source_text": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During this day, the greatest atmospheric instability shifted to the southwestern peninsular quadrant, where the greatest accumulated and major impacts were present."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "Cumulative precipitation on October 30th. Source: AEMET, SAIH and At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Cumulative precipitation on October 30th. Source: AEMET, SAIH and At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez."
+          }
+        },
+        {
+          "source_text": "At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At the end of the morning a very stationary precipitation line was formed oriented from southwest to northeast, passing through Cadiz and Jerez."
+          }
+        }
+      ]
+    }
+  ]
+}

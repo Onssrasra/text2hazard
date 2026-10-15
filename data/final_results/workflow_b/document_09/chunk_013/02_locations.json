@@ -1,0 +1,31 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "the October 29, 2018 storm in Northern Italy",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the October 29, 2018 storm in Northern Italy"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast."
+          }
+        }
+      ]
+    }
+  ]
+}

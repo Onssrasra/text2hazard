@@ -1,0 +1,652 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "These extraordinary rainfalls in inland areas, in the headwaters of rivers and ravines that have their birth over the 1000 m of altitude, have caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions.",
+          "evidence": {
+            "quote": "These extraordinary rainfalls in inland areas, in the headwaters of rivers and ravines that have their birth over the 1000 m of altitude, have caused violent floods and ravines that have reached the coastal areas where it has barely rained, causing the most tragic hydrological catastrophe in recent history in Spain, with more than 200 deaths and material losses of millions."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "in the headwaters of rivers and ravines that have their birth over the 1000 m of altitude",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the headwaters of rivers and ravines that have their birth over the 1000 m of altitude"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2024",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2024, the accumulated day on the rainy day (between 8 a.m. on day 29 and 8 a.m. on day 30) was 710.8 mm (771.8 mm on the civil day)."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "more than 200 deaths",
+          "evidence": {
+            "quote": "with more than 200 deaths and material losses of millions."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material losses of millions",
+          "evidence": {
+            "quote": "with more than 200 deaths and material losses of millions."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol.",
+          "evidence": {
+            "quote": "The most adverse storms of the day were formed shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours, affecting towns in the regions of the Ribera Alta and the Hoya de Buñol."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "More than 200 mm were recorded in three hours at the Buseo reservoir and in six hours at the Benagéber reservoir.",
+          "evidence": {
+            "quote": "More than 200 mm were recorded in three hours at the Buseo reservoir and in six hours at the Benagéber reservoir."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "towns in the regions of the Ribera Alta and the Hoya de Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "affecting towns in the regions of the Ribera Alta and the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Buseo reservoir",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "More than 200 mm were recorded in three hours at the Buseo reservoir"
+          }
+        },
+        {
+          "source_text": "Benagéber reservoir",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in six hours at the Benagéber reservoir."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "shortly after 14:00 hours until 20:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "shortly after 14:00 hours. They were persistent and had torrential intensity until 20:00 hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "torrential intensity rainfall",
+          "evidence": {
+            "quote": "They were persistent and had torrential intensity until 20:00 hours"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "In addition to the precipitation, there was also an extraordinary tornadic episode in the region of the Ribera Alta, with at least eleven tornadoes that affected areas of the municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió.",
+          "evidence": {
+            "quote": "In addition to the precipitation, there was also an extraordinary tornadic episode in the region of the Ribera Alta, with at least eleven tornadoes that affected areas of the municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "affected areas of the municipalities of Turís, Carlet, Catadau, Llombay, Alginet and Benifaió."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "shortly after 14:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The most adverse storms of the day were formed shortly after 14:00 hours."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley.",
+          "evidence": {
+            "quote": "From 20:00 hours the convective system (EP29-IV) moved to the north and began to affect regions and localities of the Turia valley."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "regions and localities of the Turia valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "regions and localities of the Turia valley."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "from 20:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From 20:00 hours the convective system (EP29-IV) moved to the north"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel.",
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "245.6 mm accumulated in 12 hours in Requena"
+          }
+        },
+        {
+          "source_text": "Seven Waters",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "202.6 in Seven Waters"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "198.6 in Utiel"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "between 6:00 and 18:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours.",
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Turís",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated"
+          }
+        },
+        {
+          "source_text": "Chiva",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "384.0 mm in Chiva"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "between 15:00 and 20:00 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 15:00 and 20:00 hours"
+          }
+        },
+        {
+          "source_text": "between 15:30 and 20:30 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "between 15:30 and 20:30 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "On the 27th morning (11:33 hours) warnings of yellow level of precipitation of 20 mm were issued in one hour for the whole province of Valencia, and of 60 mm in twelve hours for the north coast and south coast warning zones.",
+          "evidence": {
+            "quote": "On the 27th morning (11:33 hours) warnings of yellow level of precipitation of 20 mm were issued in one hour for the whole province of Valencia, and of 60 mm in twelve hours for the north coast and south coast warning zones."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "whole province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the whole province of Valencia"
+          }
+        },
+        {
+          "source_text": "north coast and south coast warning zones",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the north coast and south coast warning zones"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "27th morning (11:33 hours)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 27th morning (11:33 hours)"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 23:01 hours, the north interior warning was raised to orange of 40 mm in one hour, and orange warnings of 100 mm in twelve hours were issued for the north interior and the south interior.",
+          "evidence": {
+            "quote": "at 23:01 hours, the north interior warning was raised to orange of 40 mm in one hour, and orange warnings of 100 mm in twelve hours were issued for the north interior and the south interior."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "north interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "north interior"
+          }
+        },
+        {
+          "source_text": "south interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "south interior"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "23:01 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 23:01 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "On the 28th night (22:48 hours) the accumulated ones were modified: 30 mm in an hour and 80 mm in twelve hours for the North Coast and the South Coast, and 140 mm in twelve hours for the North Interior and the South Interior.",
+          "evidence": {
+            "quote": "On the 28th night (22:48 hours) the accumulated ones were modified: 30 mm in an hour and 80 mm in twelve hours for the North Coast and the South Coast, and 140 mm in twelve hours for the North Interior and the South Interior."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "North Coast and the South Coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the North Coast and the South Coast"
+          }
+        },
+        {
+          "source_text": "North Interior and the South Interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the North Interior and the South Interior"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "28th night (22:48 hours)",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 28th night (22:48 hours)"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "On the 29th at 06:36 hours the warnings of Litoral Sur were raised to an orange of 50 mm in one hour and 140 mm in 12 hours.",
+          "evidence": {
+            "quote": "On the 29th at 06:36 hours the warnings of Litoral Sur were raised to an orange of 50 mm in one hour and 140 mm in 12 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Litoral Sur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "warnings of Litoral Sur"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29th at 06:36 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th at 06:36 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 07:36 hours the observed red-level warnings were issued in Litoral Sur for accumulated 90 mm in one hour and 180 mm in twelve hours, valid until 12:00 (oranges from this hour).",
+          "evidence": {
+            "quote": "At 07:36 hours the observed red-level warnings were issued in Litoral Sur for accumulated 90 mm in one hour and 180 mm in twelve hours, valid until 12:00 (oranges from this hour)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Litoral Sur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in Litoral Sur"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "07:36 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 07:36 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 7:52 hours the warnings of Litoral Norte were raised to orange of 40 mm in one hour and 140 mm in twelve hours, valid until 15:00 hours and then continued as yellow.",
+          "evidence": {
+            "quote": "At 7:52 hours the warnings of Litoral Norte were raised to orange of 40 mm in one hour and 140 mm in twelve hours, valid until 15:00 hours and then continued as yellow."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Litoral Norte",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "warnings of Litoral Norte"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "7:52 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 7:52 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour.",
+          "evidence": {
+            "quote": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "northern interior storage",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior storage"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "08:59 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 08:59 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour and 180 mm in twelve hours, until 18:00 hours.",
+          "evidence": {
+            "quote": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour and 180 mm in twelve hours, until 18:00 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "north coast and the north interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "north coast and the north interior"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "09:41 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 09:41 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours.",
+          "evidence": {
+            "quote": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "south coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "on the south coast"
+          }
+        },
+        {
+          "source_text": "north coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the red warnings of the north coast"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "16:24 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 16:24 hours"
+          }
+        },
+        {
+          "source_text": "17:49 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 17:49 hours"
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours.",
+          "evidence": {
+            "quote": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "this area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in this area"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19:47 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 19:47 hours"
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

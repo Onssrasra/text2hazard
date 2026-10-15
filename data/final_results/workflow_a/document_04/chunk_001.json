@@ -1,0 +1,70 @@
+{
+  "document_id": "Lavenir 2021 - À la recherche d'une jeune fille tombée dans l'Ourthe à Marcourt - L'Avenir",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "a person would have fallen into the Ourthe in Marcourt",
+          "evidence": {
+            "quote": "a person would have fallen into the Ourthe in Marcourt"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "a young man of 15 years old would have fallen into the Urthe in the daytime, on the Marcourt side, in the commune of Rendeux",
+          "evidence": {
+            "quote": "a young man of 15 years old would have fallen into the Urthe in the daytime, on the Marcourt side, in the commune of Rendeux"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Marcourt",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the Ourthe in Marcourt"
+          }
+        },
+        {
+          "source_text": "Rendeux",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the commune of Rendeux"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "daytime",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "in the daytime"
+          }
+        },
+        {
+          "source_text": "14-07-2021",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Published on the 14-07-2021 at 8 p.m."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "person fell into the river",
+          "evidence": {
+            "quote": "a person would have fallen into the Ourthe in Marcourt"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

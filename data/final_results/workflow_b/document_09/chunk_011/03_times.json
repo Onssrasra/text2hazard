@@ -1,0 +1,34 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record."
+          }
+        },
+        {
+          "source_text": "Clearly the origin of 29-Oct- 13 UTC 29-Oct-2018 18.30:OOUTC height (m) everything is meteorological, but usually researchers pay a special attention to measured data.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Clearly the origin of 29-Oct- 13 UTC 29-Oct-2018 18.30:OOUTC height (m) everything is meteorological, but usually researchers pay a special attention to measured data."
+          }
+        },
+        {
+          "source_text": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": []
+    },
+    {
+      "event_id": "event_02",
+      "locations": []
+    },
+    {
+      "event_id": "event_03",
+      "locations": []
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "locations": []
+    },
+    {
+      "event_id": "event_07",
+      "locations": []
+    },
+    {
+      "event_id": "event_08",
+      "locations": []
+    },
+    {
+      "event_id": "event_09",
+      "locations": []
+    },
+    {
+      "event_id": "event_10",
+      "locations": []
+    },
+    {
+      "event_id": "event_11",
+      "locations": []
+    },
+    {
+      "event_id": "event_12",
+      "locations": []
+    },
+    {
+      "event_id": "event_13",
+      "locations": []
+    },
+    {
+      "event_id": "event_14",
+      "locations": []
+    },
+    {
+      "event_id": "event_15",
+      "locations": []
+    },
+    {
+      "event_id": "event_16",
+      "locations": []
+    },
+    {
+      "event_id": "event_17",
+      "locations": []
+    },
+    {
+      "event_id": "event_18",
+      "locations": []
+    },
+    {
+      "event_id": "event_19",
+      "locations": []
+    },
+    {
+      "event_id": "event_20",
+      "locations": []
+    }
+  ]
+}

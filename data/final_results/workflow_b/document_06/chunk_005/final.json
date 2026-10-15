@@ -1,0 +1,1392 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

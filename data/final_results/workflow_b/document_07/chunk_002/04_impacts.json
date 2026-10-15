@@ -1,0 +1,56 @@
+{
+  "document_id": "Plag 2014 - Foreword extreme geohazards—a growing threat for a globally interconnected civilization",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "reduce impact on human lives",
+          "evidence": {
+            "quote": "However, for larger submarine landslides, which can cause transocean tsunamis, a tsunami-warning system can significantly reduce the impact on human lives."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "impacting the biological environment",
+          "evidence": {
+            "quote": "The Kolumbo subsea volcano to the Northeast of Santorini has active CO2 vents and activity impacting the biological environment."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "major disasters",
+          "evidence": {
+            "quote": "Extreme droughts have caused major disasters, and in a time of climate change, droughts might decrease the already stressed food security with disasterous consequences."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "decrease the already stressed food security",
+          "evidence": {
+            "quote": "Extreme droughts have caused major disasters, and in a time of climate change, droughts might decrease the already stressed food security with disasterous consequences."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona."
+          }
+        },
+        {
+          "source_text": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "On the 4th day at 5:06 hours orange precipitation warnings of 40 mm in an hour and of 100 mm in twelve hours in Prelithoral and Litoral of Barcelona.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 4th day at 5:06 hours orange precipitation warnings of 40 mm in an hour and of 100 mm in twelve hours in Prelithoral and Litoral of Barcelona."
+          }
+        },
+        {
+          "source_text": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 10:40 hours a red-level warning was issued in the Litoral of Barcelona by precipitation of 180 mm in twelve hours and 70 mm in an hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    }
+  ]
+}

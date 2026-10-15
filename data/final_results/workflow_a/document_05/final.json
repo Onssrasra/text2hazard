@@ -1,0 +1,300 @@
+{
+  "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the rainfall has caused localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water.",
+          "evidence": {
+            "quote": "the rainfall has caused localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Malaga"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early morning hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early morning hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "fallen tree branches, awnings, and street furniture such as traffic lights",
+          "evidence": {
+            "quote": "fallen tree branches, awnings, and street furniture such as traffic lights."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water.",
+          "evidence": {
+            "quote": "localized flooding in garages, basements, ground floors of houses, and the accumulation of standing water."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Malaga"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early Tuesday morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early Tuesday morning"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "more than 40 liters of rainfall in various locations",
+          "evidence": {
+            "quote": "more than 40 liters in various locations"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "severe thunderstorm",
+          "evidence": {
+            "quote": "severe thunderstorm"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "rainfall",
+          "evidence": {
+            "quote": "rainfall"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Malaga Airport",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Malaga Airport"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "early morning hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early morning hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "transport",
+          "description": "delays of approximately 15 minutes for flights scheduled during the early morning hours",
+          "evidence": {
+            "quote": "delays of approximately 15 minutes for flights scheduled during the early morning hours"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Lope de Vega Avenue, near Julio Cortázar Avenue",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Lope de Vega Avenue, heading towards the city center, near Julio Cortázar Avenue"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "capital",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "in the capital"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "transport",
+          "description": "traffic jams and road closures",
+          "evidence": {
+            "quote": "traffic jams and road closures"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "heavy rainfall",
+          "evidence": {
+            "quote": "heavy rainfall"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "private Novaschool Sunland International school located in the municipality of Cártama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "private Novaschool Sunland International school located in the municipality of Cártama"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Tuesday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "this Tuesday"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "transport",
+          "description": "classes cancelled due to flooding that made access impossible",
+          "evidence": {
+            "quote": "have had to cancel their classes this Tuesday due to the heavy rainfall, which has caused a considerable flood in the vicinity of the center that has made access to it impossible."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "storms and rainfall",
+          "evidence": {
+            "quote": "storms and rainfall"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Malaga regions of Costa del Sol and Guadalhorce",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Malaga regions of Costa del Sol and Guadalhorce"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "until midday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "until midday"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "orange alert active",
+          "evidence": {
+            "quote": "The State Meteorological Agency (Aemet) maintains the orange alert active until midday in the Malaga regions of Costa del Sol and Guadalhorce"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "storms and rainfall that can reach 30 liters per square meter in one hour and 80 liters accumulated in 12 hours",
+          "evidence": {
+            "quote": "storms and rainfall that can reach 30 liters per square meter in one hour and 80 liters accumulated in 12 hours"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Malaga regions of Costa del Sol and Guadalhorce",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Malaga regions of Costa del Sol and Guadalhorce"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "midday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "until midday"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "orange alert active",
+          "evidence": {
+            "quote": "The State Meteorological Agency (Aemet) maintains the orange alert active until midday in the Malaga regions of Costa del Sol and Guadalhorce"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

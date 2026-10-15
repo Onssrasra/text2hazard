@@ -1,0 +1,30 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": []
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": []
+    }
+  ]
+}

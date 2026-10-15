@@ -1,0 +1,118 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "very strong rain showers focused on places in the Ribera Alta and mountain area of the Safor, without storm, but very efficient.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "very strong rain showers focused on places in the Ribera Alta and mountain area of the Safor, without storm, but very efficient."
+          }
+        },
+        {
+          "source_text": "a convective system of maritime origin (SCM3-II) penetrated the north coast of Alicante, affecting Benidorm and Altea when touching land, where the intensity was very strong and accumulated more than 30 mm in half an hour.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a convective system of maritime origin (SCM3-II) penetrated the north coast of Alicante, affecting Benidorm and Altea when touching land, where the intensity was very strong and accumulated more than 30 mm in half an hour."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "A very active system (EP3-III) from Castellón advanced along the coast from southwest to northeast.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "A very active system (EP3-III) from Castellón advanced along the coast from southwest to northeast."
+          }
+        },
+        {
+          "source_text": "These storms affected the coast and prelithoral of Tarragona intensely during the first six hours of the day, with values of the order of 50 mm in an hour in Montblanc and in the Riba (both stations of the Meteoclimatic network), in the prelithral north of Tarragona.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "These storms affected the coast and prelithoral of Tarragona intensely during the first six hours of the day, with values of the order of 50 mm in an hour in Montblanc and in the Riba (both stations of the Meteoclimatic network), in the prelithral north of Tarragona."
+          }
+        },
+        {
+          "source_text": "During the morning, these storms reached the cities of the coast of Barcelona, with torrential intensities in many points and accumulated more than 100 mm in densely populated areas.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the morning, these storms reached the cities of the coast of Barcelona, with torrential intensities in many points and accumulated more than 100 mm in densely populated areas."
+          }
+        },
+        {
+          "source_text": "In addition to the large accumulations, the precipitation intensities were torrential in the surroundings of the Baix Llobregat, a densely populated area.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In addition to the large accumulations, the precipitation intensities were torrential in the surroundings of the Baix Llobregat, a densely populated area."
+          }
+        },
+        {
+          "source_text": "Also very intense (strong and very strong) the squalls in the prelithoral and in the same city of Barcelona.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Also very intense (strong and very strong) the squalls in the prelithoral and in the same city of Barcelona."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "On the 2nd morning, yellow warnings of precipitation of 15 mm were issued in an hour and of 60 mm in 12 hours for the morning of the 3rd day in Campo de Cartagena and Mazarrón.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the 2nd morning, yellow warnings of precipitation of 15 mm were issued in an hour and of 60 mm in 12 hours for the morning of the 3rd day in Campo de Cartagena and Mazarrón."
+          }
+        },
+        {
+          "source_text": "In addition, an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles, for the same period.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In addition, an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles, for the same period."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "This day, the last of this long episode of intense precipitation, the most outstanding events took place during the first half of the day, focusing on Catalonia and affecting intensely the surroundings of the city of Barcelona, especially the region of Baix Llobregat.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "This day, the last of this long episode of intense precipitation, the most outstanding events took place during the first half of the day, focusing on Catalonia and affecting intensely the surroundings of the city of Barcelona, especially the region of Baix Llobregat."
+          }
+        }
+      ]
+    }
+  ]
+}

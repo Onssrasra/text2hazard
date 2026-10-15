@@ -1,0 +1,570 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour.",
+          "evidence": {
+            "quote": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours.",
+          "evidence": {
+            "quote": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours.",
+          "evidence": {
+            "quote": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours.",
+          "evidence": {
+            "quote": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the northern interior storage",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the northern interior storage"
+          }
+        },
+        {
+          "source_text": "the north coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the north coast"
+          }
+        },
+        {
+          "source_text": "the north interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the north interior"
+          }
+        },
+        {
+          "source_text": "the south coast",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the south coast"
+          }
+        },
+        {
+          "source_text": "this area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "this area"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 08:59 hours the northern interior storage was raised to 60 mm in one hour."
+          }
+        },
+        {
+          "source_text": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 09:41 hours the north coast and the north interior was raised to red with accumulated 90 mm in one hour, and 180 mm in twelve hours, until 18:00 hours."
+          }
+        },
+        {
+          "source_text": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 16:24 hours a new red-level warning was issued on the south coast by accumulation of 90 mm in one hour, and at 17:49 hours the red warnings of the north coast were extended until 20:00 hours."
+          }
+        },
+        {
+          "source_text": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 19:47 hours the red warning was increased in this area to 200 mm in twelve hours, and its duration was extended until 22:00 hours."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning.",
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza, very strong rainfall occurred during the early morning and much of the morning."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts.",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "Dollar and Guadix values stand out with almost 150 and 100 mm in twelve hours, respectively.",
+          "evidence": {
+            "quote": "Dollar and Guadix values stand out with almost 150 and 100 mm in twelve hours, respectively."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Guadix",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza"
+          }
+        },
+        {
+          "source_text": "Baza",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the regions of Guadix and Baza"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "housing and local flooding and road cuts",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "In the region of Almanzora Valley, precipitation also produced the overflow of the Almanzora River.",
+          "evidence": {
+            "quote": "In the region of Almanzora Valley, precipitation also produced the overflow of the Almanzora River."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "Purchena station of the MetClim network and Tijola, of the SiAR network, recorded accumulated over 110 mm in twelve hours.",
+          "evidence": {
+            "quote": "Purchena station of the MetClim network and Tijola, of the SiAR network, recorded accumulated over 110 mm in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Almanzora Valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In the region of Almanzora Valley"
+          }
+        },
+        {
+          "source_text": "Almanzora River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "overflow of the Almanzora River"
+          }
+        },
+        {
+          "source_text": "Purchena station of the MetClim network",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Purchena station of the MetClim network"
+          }
+        },
+        {
+          "source_text": "Tijola, of the SiAR network",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Tijola, of the SiAR network"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "overflow of the Almanzora River",
+          "evidence": {
+            "quote": "In the region of Almanzora Valley, precipitation also produced the overflow of the Almanzora River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "Another episode of intense precipitation affected the province of Malaga this day.",
+          "evidence": {
+            "quote": "Another episode of intense precipitation affected the province of Malaga this day."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley.",
+          "evidence": {
+            "quote": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms.",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "A British citizen died and there were hundreds of incidents and rescues.",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The episode came accompanied by an exceptional electrical activity.",
+          "evidence": {
+            "quote": "The episode came accompanied by an exceptional electrical activity."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The stations of Álora (Málaga) and the meteorological center in the city of Malaga recorded in twelve accumulated hours of 167 mm and 84 mm, respectively.",
+          "evidence": {
+            "quote": "The stations of Álora (Málaga) and the meteorological center in the city of Malaga recorded in twelve accumulated hours of 167 mm and 84 mm, respectively."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Malaga"
+          }
+        },
+        {
+          "source_text": "city of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "city of Malaga"
+          }
+        },
+        {
+          "source_text": "province of Seville",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Seville"
+          }
+        },
+        {
+          "source_text": "Guadalhorce valley",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "area of the Guadalhorce valley"
+          }
+        },
+        {
+          "source_text": "Guadalhorce River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Guadalhorce river"
+          }
+        },
+        {
+          "source_text": "Cartama",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "height of Cartama"
+          }
+        },
+        {
+          "source_text": "Álora (Málaga)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Álora (Málaga)"
+          }
+        },
+        {
+          "source_text": "meteorological center in the city of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "meteorological center in the city of Malaga"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At dawn a linear convective train (SCM29-II) was formed that extended hundreds of kilometers from the city of Malaga to the province of Seville with orientation NW-SE, which remained static until 13:00 hours and began to move towards the north, affecting mainly the area of the Guadalhorce valley."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "A British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia for the evening-night 28 and the 29th.",
+          "evidence": {
+            "quote": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia for the evening-night 28 and the 29th."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda.",
+          "evidence": {
+            "quote": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 28th of the morning the notice was raised to orange in Sol and Guadalhorce with 30 mm in an hour, and the orange warning of precipitation of 80 mm in twelve hours for the 29th.",
+          "evidence": {
+            "quote": "On the 28th of the morning the notice was raised to orange in Sol and Guadalhorce with 30 mm in an hour, and the orange warning of precipitation of 80 mm in twelve hours for the 29th."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "It was also issued yellow warning of precipitation of 60 mm in twelve hours in Axarquia.",
+          "evidence": {
+            "quote": "It was also issued yellow warning of precipitation of 60 mm in twelve hours in Axarquia."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour.",
+          "evidence": {
+            "quote": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29.",
+          "evidence": {
+            "quote": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours.",
+          "evidence": {
+            "quote": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour.",
+          "evidence": {
+            "quote": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The warning of precipitation in twelve hours was also raised to orange, with accumulated of 100 mm in twelve hours.",
+          "evidence": {
+            "quote": "The warning of precipitation in twelve hours was also raised to orange, with accumulated of 100 mm in twelve hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning.",
+          "evidence": {
+            "quote": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce.",
+          "evidence": {
+            "quote": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Sol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sol"
+          }
+        },
+        {
+          "source_text": "Guadalhorce",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalhorce"
+          }
+        },
+        {
+          "source_text": "Axarquia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Axarquia"
+          }
+        },
+        {
+          "source_text": "Ronda",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Ronda"
+          }
+        },
+        {
+          "source_text": "Antequera",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Antequera"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia, for the evening-night 28 and the 29th.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 27th morning, yellow warning of storms and precipitation of 20 mm was issued in an hour in Sol and Guadalhorce and Axarquia, for the evening-night 28 and the 29th."
+          }
+        },
+        {
+          "source_text": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At night, yellow warning of precipitation of 20 mm was also issued in an hour in Ronda."
+          }
+        },
+        {
+          "source_text": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 19:30 hours the yellow warnings of precipitation and storm in Axarquia were advanced to begin at this hour."
+          }
+        },
+        {
+          "source_text": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 22:44 hours yellow warning of precipitation of 60 mm in twelve hours in Ronda from that hour and covering the day 29."
+          }
+        },
+        {
+          "source_text": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 29th at 7:47 hours yellow warnings of storm and precipitation were issued of 20 mm in an hour and 60 mm in twelve hours in Antequera, between 7 and 12 hours."
+          }
+        },
+        {
+          "source_text": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 9:16 hours the warning of Axarquia was raised to orange of 30 mm in an hour."
+          }
+        },
+        {
+          "source_text": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 11:58 hours the warning of precipitation was raised in twelve hours of Antequera at an orange level with accumulated of 90 mm in twelve hours, issuing as an observed warning."
+          }
+        },
+        {
+          "source_text": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 12:10 hours the observed red warning of precipitation of 120 mm in twelve hours in Sol and Guadalhorce."
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

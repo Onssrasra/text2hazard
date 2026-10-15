@@ -1,0 +1,497 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón.",
+          "evidence": {
+            "quote": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón.",
+          "evidence": {
+            "quote": "to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours.",
+          "evidence": {
+            "quote": "at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado.",
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "At the station of El Ejido it was recorded up to 33.8 mm in an hour, as well as at some station of the Hydrographic Confederation of the South located in the natural site of Punta del Sabinar where the 40 mm were slightly exceeded in an hour.",
+          "evidence": {
+            "quote": "At the station of El Ejido it was recorded up to 33.8 mm in an hour, as well as at some station of the Hydrographic Confederation of the South located in the natural site of Punta del Sabinar where the 40 mm were slightly exceeded in an hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage.",
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga.",
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol.",
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours.",
+          "evidence": {
+            "quote": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour.",
+          "evidence": {
+            "quote": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours.",
+          "evidence": {
+            "quote": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel.",
+          "evidence": {
+            "quote": "Between 6:0 0 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours.",
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón."
+          }
+        },
+        {
+          "source_text": "Northern Litoral",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "source_text": "Northern Interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "source_text": "Southern Litoral of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "source_text": "Interior North",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "Litoral",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "Interior South",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "El Ejido",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "source_text": "district of Poniente",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "source_text": "Almería Capital",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "source_text": "Punta del Sabinar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At the station of El Ejido it was recorded up to 33.8 mm in an hour, as well as at some station of the Hydrographic Confederation of the South located in the natural site of Punta del Sabinar where the 40 mm were slightly exceeded in an hour."
+          }
+        },
+        {
+          "source_text": "Sea of Alborán",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "source_text": "Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "source_text": "Seville",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "province of Murcia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "province of Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "province of Cuenca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "province of Almería",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "province of Malaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During this day the largest accumulated of the whole week occurred in the province of Valencia, although there were other hot spots with great intensity located in the provinces of Murcia, Albacete, Cuenca, Almería and Malaga."
+          }
+        },
+        {
+          "source_text": "Safor",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Vall d'Albaida",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Ribera Alta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Canal de Navarres",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Hoya de Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Pinet",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours."
+          }
+        },
+        {
+          "source_text": "Millares",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours."
+          }
+        },
+        {
+          "source_text": "Turís",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour."
+          }
+        },
+        {
+          "source_text": "Carlet",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours."
+          }
+        },
+        {
+          "source_text": "Chiva",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours."
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "source_text": "Seven Waters",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "source_text": "Turís",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        },
+        {
+          "source_text": "Chiva",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "night yellow warnings of precipitation of 20 mm were issued in an hour and 60 mm in twelve hours throughout Castellón."
+          }
+        },
+        {
+          "source_text": "At the first hour of the afternoon of the 27th day the accumulated and the level of warning in some regions were raised: to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At the first hour of the afternoon of the 27th day the accumulated and the level of warning in some regions were raised: to 40 mm in an hour in Northern Litoral (orange), to 30 mm in an hour in Northern Interior and to 80 mm in twelve hours in Northern Interior, Northern Litoral and Southern Litoral of Castellón."
+          }
+        },
+        {
+          "source_text": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 28th day at 10:53 hours observed warning was issued raising the warnings of Interior North, Litoral and Interior South to orange 120 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The passage of a supercell (SP28-II), between 21:00 and 23:00 hours, left very strong precipitation in the area of El Ejido (district of Poniente and Almería Capital) accompanied by hail of more than 5 cm and a tornado."
+          }
+        },
+        {
+          "source_text": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        },
+        {
+          "source_text": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The first convective train (SCM29-I) was formed around 5:00, extending from the mountainous area bordering the Safor and Vall d'Albaida, through the Ribera Alta, the Canal de Navarres and the south of the Hoya de Buñol."
+          }
+        },
+        {
+          "source_text": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between 5:00 and 7:00 hours the intensity was torrential, with accumulated in an hour of 62.2 mm in Pinet and 79.2 mm in Millares, where 148 mm were recorded in three hours, between 5:00 and 8:00 hours."
+          }
+        },
+        {
+          "source_text": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Turís 108 mm were recorded in two hours between 7:00 and 9:00 hours, of which 85 mm were recorded in just one hour."
+          }
+        },
+        {
+          "source_text": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Carlet 98.7 was recorded in one hour, between 7:00 and 8:00 hours and in Chiva 99.4 mm between 7:30 and 9:30 hours."
+          }
+        },
+        {
+          "source_text": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between 6:00 and 18:00 hours, 245.6 mm accumulated in 12 hours in Requena, 202.6 in Seven Waters and 198.6 in Utiel."
+          }
+        },
+        {
+          "source_text": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In Turís 616.8 mm were accumulated between 15:00 and 20:00 hours (Figure 4.4) and 384.0 mm in Chiva between 15:30 and 20:30 hours."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "serious destruction of thousands of hectares in greenhouses",
+          "evidence": {
+            "quote": "It caused serious destruction of thousands of hectares in greenhouses and in vehicles, roads and flooded basements and fallen trees."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "damage to vehicles, roads, flooded basements and fallen trees",
+          "evidence": {
+            "quote": "It caused serious destruction of thousands of hectares in greenhouses and in vehicles, roads and flooded basements and fallen trees."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "significant damage caused by extraordinary electrical activity",
+          "evidence": {
+            "quote": "On the other hand, at night a Mesoescalar Convective System (EP28-III) was formed in the Sea of Alborán that was moving towards Malaga and that continued to affect Tuesday 29 with an extraordinary electrical activity to the provinces of Malaga and Seville, causing significant damage."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

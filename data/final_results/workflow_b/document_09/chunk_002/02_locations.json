@@ -1,0 +1,34 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "In late October 2018 the synoptic characteristics of the weather conditions over the Western Mediterranean Sea resembled the typical pattern associated with major rain events over the southern side of the Alpine range. A large-scale cyclonic system was slowly evolving, leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area), with consequent intense alpine precipitation events.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area)"
+          }
+        },
+        {
+          "source_text": "Moving North, the low forced strong south-easterly winds on its right flank, both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea."
+          }
+        },
+        {
+          "source_text": "In a way this halted the flood of Venice, but, forcing the sirocco wind into a narrower path against the Eastern Alps, it also led to tremendously strong winds in the mountain area (Dolomites and Eastern Alps), with record wind speeds (gusts up to 213 kmh -1 recorded before the instrument failed) and very extensive forest damage (estimated loss of 11 million trees).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "forcing the sirocco wind into a narrower path against the Eastern Alps, it also led to tremendously strong winds in the mountain area (Dolomites and Eastern Alps)"
+          }
+        }
+      ]
+    }
+  ]
+}

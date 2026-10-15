@@ -1,0 +1,38 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the presence of wave components moving in a direction opposite to the main flow of waves and wind.",
+          "evidence": {
+            "quote": "the presence of wave components moving in a direction opposite to the main flow of waves and wind."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the particularly strong signal of 29 and 30 October is shown in the left panel of Fig. 16.",
+          "evidence": {
+            "quote": "the particularly strong signal of 29 and 30 October is shown in the left panel of Fig. 16."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "In practical applications, as e.g., the cited ECMWF forecast activity, the standard output of the wave model includes the 2D spectral distribution in space and time.",
+          "evidence": {
+            "quote": "the standard output of the wave model includes the 2D spectral distribution in space and time."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the height reached by the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2.",
+          "evidence": {
+            "quote": "the height reached by the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "source_text": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Great East Japan earthquake and the tsunami it triggered both reached unexpected magnitudes of severity and devastated an extended area."
+          }
+        },
+        {
+          "source_text": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The maximum peak ground acceleration (PGA) of 2.7g was recorded in Miyagi Prefecture"
+          }
+        }
+      ]
+    }
+  ]
+}

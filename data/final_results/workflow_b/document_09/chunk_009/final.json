@@ -1,0 +1,134 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower.",
+          "evidence": {
+            "quote": "the change implied a rapid readjustment of the sea level distribution in the coastal area, including the tower."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea"
+          }
+        },
+        {
+          "source_text": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15).",
+          "evidence": {
+            "quote": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15)."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Both the Lido and Chioggia records show a rapid increase of the local sea level before the rapid decrease.",
+          "evidence": {
+            "quote": "Both the Lido and Chioggia records show a rapid increase of the local sea level before the rapid decrease."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the drop in sea level, more than 20 cm in 10-min, at the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the drop in sea level, more than 20 cm in 10-min, at the tower"
+          }
+        },
+        {
+          "source_text": "the Lido gauge",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Lido gauge"
+          }
+        },
+        {
+          "source_text": "the Chioggia inlet",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the Chioggia inlet"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15)."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the presence of wave components moving in a direction opposite to the main flow of waves and wind.",
+          "evidence": {
+            "quote": "the presence of wave components moving in a direction opposite to the main flow of waves and wind."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the tower"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

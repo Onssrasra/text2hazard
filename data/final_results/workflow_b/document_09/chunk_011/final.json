@@ -1,0 +1,157 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2.",
+          "evidence": {
+            "quote": "the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record.",
+          "evidence": {
+            "quote": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "We do not have an explanation for them.",
+          "evidence": {
+            "quote": "We do not have an explanation for them."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the 29 October event will lead to new estimates.",
+          "evidence": {
+            "quote": "the 29 October event will lead to new estimates."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Thinking about the input to the corresponding models, wind and surface pressure, wave height appears as a more general parameter because it is representative of the conditions on the whole Adriatic basin, while, as we have seen, surge is highly dependent on the conditions in the last tens of kilometers near the coast.",
+          "evidence": {
+            "quote": "Thinking about the input to the corresponding models, wind and surface pressure, wave height appears as a more general parameter because it is representative of the conditions on the whole Adriatic basin, while, as we have seen, surge is highly dependent on the conditions in the last tens of kilometers near the coast."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "Using, for the specified reasons, Hs as an example, we consider the distribution of its peak values for all the 1979 to present storms, based on the historical directional wave dataset recorded at the Acqua Alta tower, as documented in Pomaro et al. (2018).",
+          "evidence": {
+            "quote": "Using, for the specified reasons, Hs as an example, we consider the distribution of its peak values for all the 1979 to present storms, based on the historical directional wave dataset recorded at the Acqua Alta tower, as documented in Pomaro et al. (2018)."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the two isolated values 5.92 (2018) and 6.0 (at least from the 1979 hindcast and the damages to the tower).",
+          "evidence": {
+            "quote": "the two isolated values 5.92 (2018) and 6.0 (at least from the 1979 hindcast and the damages to the tower)."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the 1966 storm, where surge (1.66 m) and wave height (much larger than 6 m) were the highest ever remembered.",
+          "evidence": {
+            "quote": "the 1966 storm, where surge (1.66 m) and wave height (much larger than 6 m) were the highest ever remembered."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures.",
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm.",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Thinking about the input to the corresponding models, wind and surface pressure, wave height appears as a more general parameter because it is representative of the conditions on the whole Adriatic basin, while, as we have seen, surge is highly dependent on the conditions in the last tens of kilometers near the coast.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the whole Adriatic basin"
+          }
+        },
+        {
+          "source_text": "Using, for the specified reasons, Hs as an example, we consider the distribution of its peak values for all the 1979 to present storms, based on the historical directional wave dataset recorded at the Acqua Alta tower, as documented in Pomaro et al. (2018).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Acqua Alta tower"
+          }
+        },
+        {
+          "source_text": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coastal 29-Oct-2018 18.30:OOUTC structures"
+          }
+        },
+        {
+          "source_text": "As an example, the last 200 m of the six jetties at the lagoon inlets were not existent after the storm.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the lagoon inlets"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the 18-19 UTC radar record (7200 data at 2 Hz) several apparently anomalous crest heights were recorded that prompted a keen verification of the record."
+          }
+        },
+        {
+          "source_text": "Clearly the origin of 29-Oct- 13 UTC 29-Oct-2018 18.30:OOUTC height (m) everything is meteorological, but usually researchers pay a special attention to measured data.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Clearly the origin of 29-Oct- 13 UTC 29-Oct-2018 18.30:OOUTC height (m) everything is meteorological, but usually researchers pay a special attention to measured data."
+          }
+        },
+        {
+          "source_text": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures",
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        },
+        {
+          "category": "other",
+          "description": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

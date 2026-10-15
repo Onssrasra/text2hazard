@@ -1,0 +1,54 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "In the present, 29 October 2018, case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the present, 29 October 2018, case the overall pattern was complicated, and in itself unique, because of the intensity of the explosive cyclogenesis, the consequent (cited above) storms on the Ligurian Sea, the intense storm in the Adriatic Sea, and the strong winds on Eastern Alps."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": []
+    },
+    {
+      "event_id": "event_05",
+      "times": []
+    },
+    {
+      "event_id": "event_06",
+      "times": []
+    },
+    {
+      "event_id": "event_07",
+      "times": []
+    },
+    {
+      "event_id": "event_08",
+      "times": []
+    },
+    {
+      "event_id": "event_09",
+      "times": []
+    },
+    {
+      "event_id": "event_10",
+      "times": []
+    }
+  ]
+}

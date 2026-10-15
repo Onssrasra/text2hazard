@@ -1,0 +1,36 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Fourth highest historical level of flooding in Venice since 1872",
+          "evidence": {
+            "quote": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "Surge extent of 1.30 m around 18 UTC",
+          "evidence": {
+            "quote": "Note the extent of the surge around 18 UTC, in itself 1.30 m, that only by a lucky optimal phase difference with the astronomical tide did not lead to the by far worst flood in history."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    }
+  ]
+}

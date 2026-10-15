@@ -1,0 +1,47 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the March 11, 2011, earthquake and tsunami in Japan (see, e.g., Krausmann and Cruz 2013).",
+          "evidence": {
+            "quote": "the March 11, 2011, earthquake and tsunami in Japan (see, e.g., Krausmann and Cruz 2013)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Japan",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the March 11, 2011, earthquake and tsunami in Japan (see, e.g., Krausmann and Cruz 2013)."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "March 11, 2011",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the March 11, 2011, earthquake and tsunami in Japan (see, e.g., Krausmann and Cruz 2013)."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "multiple consequences of damage to LPG storage facilities",
+          "evidence": {
+            "quote": "One clear example of the multiple consequences of damage to LPG storage facilities can be seen in the repercussions of the March 11, 2011, earthquake and tsunami in Japan (see, e.g., Krausmann and Cruz 2013)."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

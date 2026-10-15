@@ -1,0 +1,135 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "north coast of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "on the north coast of Tarragona"
+          }
+        },
+        {
+          "source_text": "Prelithoral north of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Prelithoral north of Tarragona"
+          }
+        },
+        {
+          "source_text": "Litoral north of Tarragona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Litoral north of Tarragona"
+          }
+        },
+        {
+          "source_text": "Prelithoral and Litoral of Barcelona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Prelithoral and Litoral of Barcelona"
+          }
+        },
+        {
+          "source_text": "Litoral of Barcelona",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Litoral of Barcelona"
+          }
+        },
+        {
+          "source_text": "city of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "flooded the city of Valencia"
+          }
+        },
+        {
+          "source_text": "river Turia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "overflow of the river Turia"
+          }
+        },
+        {
+          "source_text": "central-southwestern area of the province",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "central-southwestern area of the province"
+          }
+        },
+        {
+          "source_text": "Júcar River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "downstream of the Júcar River"
+          }
+        },
+        {
+          "source_text": "Safor regions",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Safor regions"
+          }
+        },
+        {
+          "source_text": "Ribera Alta region",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Ribera Alta region"
+          }
+        },
+        {
+          "source_text": "interior of the province",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "area of maximum precipitation in the interior of the province"
+          }
+        },
+        {
+          "source_text": "north‑western part of the south coastal warning zone",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "north‑western part of the south coastal warning zone"
+          }
+        },
+        {
+          "source_text": "mountainous region located in the south‑eastern end of the province",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "mountainous region located in the south‑eastern end of the province"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        }
+      ]
+    }
+  ]
+}

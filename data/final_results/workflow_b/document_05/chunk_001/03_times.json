@@ -1,0 +1,102 @@
+{
+  "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "early Tuesday morning",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "early Tuesday morning"
+          }
+        },
+        {
+          "source_text": "in the last 12 hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "in the last 12 hours"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": []
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    },
+    {
+      "event_id": "event_04",
+      "times": []
+    },
+    {
+      "event_id": "event_05",
+      "times": []
+    },
+    {
+      "event_id": "event_06",
+      "times": []
+    },
+    {
+      "event_id": "event_07",
+      "times": []
+    },
+    {
+      "event_id": "event_08",
+      "times": []
+    },
+    {
+      "event_id": "event_09",
+      "times": []
+    },
+    {
+      "event_id": "event_10",
+      "times": []
+    },
+    {
+      "event_id": "event_11",
+      "times": []
+    },
+    {
+      "event_id": "event_12",
+      "times": []
+    },
+    {
+      "event_id": "event_13",
+      "times": []
+    },
+    {
+      "event_id": "event_14",
+      "times": []
+    },
+    {
+      "event_id": "event_15",
+      "times": []
+    },
+    {
+      "event_id": "event_16",
+      "times": []
+    },
+    {
+      "event_id": "event_17",
+      "times": []
+    },
+    {
+      "event_id": "event_18",
+      "times": []
+    },
+    {
+      "event_id": "event_19",
+      "times": []
+    },
+    {
+      "event_id": "event_20",
+      "times": []
+    }
+  ]
+}

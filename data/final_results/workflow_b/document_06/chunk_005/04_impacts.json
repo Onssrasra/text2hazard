@@ -1,0 +1,105 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'",
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead.",
+          "evidence": {
+            "quote": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the rain falls locally intensely.",
+          "evidence": {
+            "quote": "the rain falls locally intensely."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        }
+      ]
+    }
+  ]
+}

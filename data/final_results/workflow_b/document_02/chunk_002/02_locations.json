@@ -1,0 +1,78 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "region near the Japan trench between the northern Sanriku coast and the Boso Peninsula",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "tsunami earthquakes had been expected to occur with 20% probability in the coming 30 years in the region near the Japan trench between the northern Sanriku coast and the Boso Peninsula (Fujiwara and Morikawa, 2012)."
+          }
+        },
+        {
+          "source_text": "offshore Miyagi Prefecture",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Headquarters for Earthquake Research Promotion (HERP) had warned of the occurrence of an earthquake in offshore Miyagi Prefecture with a probability of 99% and MJMA = 7.5 within 30 years."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "Tokyo Bay (Chiba Prefecture)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Cosmo Oil refinery is located in Tokyo Bay (Chiba Prefecture) and was subjected to only low levels of earthquake forces."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "Tokyo Bay (Chiba Prefecture)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Cosmo Oil refinery is located in Tokyo Bay (Chiba Prefecture) and was subjected to only low levels of earthquake forces."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "Tokyo Bay (Chiba Prefecture)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The refinery's LPG storage tank farm was completely destroyed, as well as surrounding pipelines and roads (Fig. 2.1)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "Tokyo Bay (Chiba Prefecture)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The explosions damaged nearby asphalt tanks due to debris impact, causing asphalt to leak into the ocean (Cosmo Oil, 2011a)."
+          }
+        }
+      ]
+    }
+  ]
+}

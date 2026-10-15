@@ -1,0 +1,247 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "evidence": {
+            "quote": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours.",
+          "evidence": {
+            "quote": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "evidence": {
+            "quote": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the stream that overflowed on Tuesday",
+          "evidence": {
+            "quote": "the stream that overflowed on Tuesday"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Letur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Letur"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "five people missing in Letur after the stream overflowed on Tuesday",
+          "evidence": {
+            "quote": "the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "two women died in Albacete",
+          "evidence": {
+            "quote": "in Albacete, in Castilla-La Mancha (where two women have died)"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

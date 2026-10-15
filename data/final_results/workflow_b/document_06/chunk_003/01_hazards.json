@@ -1,0 +1,67 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "evidence": {
+            "quote": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours.",
+          "evidence": {
+            "quote": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "evidence": {
+            "quote": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the stream that overflowed on Tuesday",
+          "evidence": {
+            "quote": "the stream that overflowed on Tuesday"
+          }
+        }
+      ]
+    }
+  ]
+}

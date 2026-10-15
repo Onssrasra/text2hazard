@@ -1,0 +1,128 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "tsunami earthquakes had been expected to occur with 20% probability in the coming 30 years in the region near the Japan trench between the northern Sanriku coast and the Boso Peninsula (Fujiwara and Morikawa, 2012).",
+          "evidence": {
+            "quote": "tsunami earthquakes had been expected to occur with 20% probability in the coming 30 years in the region near the Japan trench between the northern Sanriku coast and the Boso Peninsula (Fujiwara and Morikawa, 2012)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The Headquarters for Earthquake Research Promotion (HERP) had warned of the occurrence of an earthquake in offshore Miyagi Prefecture with a probability of 99% and MJMA = 7.5 within 30 years.",
+          "evidence": {
+            "quote": "The Headquarters for Earthquake Research Promotion (HERP) had warned of the occurrence of an earthquake in offshore Miyagi Prefecture with a probability of 99% and MJMA = 7.5 within 30 years."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The earthquake ruptured over several segments, which had been evaluated as independent earthquakes (Goto and Morikawa, 2012).",
+          "evidence": {
+            "quote": "The earthquake ruptured over several segments, which had been evaluated as independent earthquakes (Goto and Morikawa, 2012)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The Cosmo Oil refinery is located in Tokyo Bay (Chiba Prefecture) and was subjected to only low levels of earthquake forces.",
+          "evidence": {
+            "quote": "The Cosmo Oil refinery is located in Tokyo Bay (Chiba Prefecture) and was subjected to only low levels of earthquake forces."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Unknown to the refinery operator, the first earthquake shock damaged the braces on an LPG tank that at the time of the earthquake was filled with water for maintenance reasons.",
+          "evidence": {
+            "quote": "Unknown to the refinery operator, the first earthquake shock damaged the braces on an LPG tank that at the time of the earthquake was filled with water for maintenance reasons."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The second shock caused the weakened braces of the tank to buckle and subsequently the tank to collapse.",
+          "evidence": {
+            "quote": "The second shock caused the weakened braces of the tank to buckle and subsequently the tank to collapse."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "This ruptured the LPG pipes connected to the tank and led to the release of flammable gases that eventually ignited (Cosmo Oil, 2011a; Krausmann and Cruz, 2013).",
+          "evidence": {
+            "quote": "This ruptured the LPG pipes connected to the tank and led to the release of flammable gases that eventually ignited (Cosmo Oil, 2011a; Krausmann and Cruz, 2013)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "Due to heat impingement by the fire on the other storage tanks, they ruptured via boiling liquid expanding vapour explosions (BLEVE).",
+          "evidence": {
+            "quote": "Due to heat impingement by the fire on the other storage tanks, they ruptured via boiling liquid expanding vapour explosions (BLEVE)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "Overall, 5 major explosions were recorded.",
+          "evidence": {
+            "quote": "Overall, 5 major explosions were recorded."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The refinery's LPG storage tank farm was completely destroyed, as well as surrounding pipelines and roads (Fig. 2.1).",
+          "evidence": {
+            "quote": "The refinery's LPG storage tank farm was completely destroyed, as well as surrounding pipelines and roads (Fig. 2.1)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "Adjacent asphalt tanks were damaged to due debris impact, and fires broke out in two neighbouring petrochemical facilities.",
+          "evidence": {
+            "quote": "Adjacent asphalt tanks were damaged to due debris impact, and fires broke out in two neighbouring petrochemical facilities."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The fire caused by ignition of LPG from the broken pipes propagated to the other pressurised tanks which suffered BLEVEs.",
+          "evidence": {
+            "quote": "The fire caused by ignition of LPG from the broken pipes propagated to the other pressurised tanks which suffered BLEVEs."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The explosions damaged nearby asphalt tanks due to debris impact, causing asphalt to leak into the ocean (Cosmo Oil, 2011a).",
+          "evidence": {
+            "quote": "The explosions damaged nearby asphalt tanks due to debris impact, causing asphalt to leak into the ocean (Cosmo Oil, 2011a)."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "In addition, dispersion of flammable LPG vapours and burning missile projection from the explosions started fires in two neighbouring chemical facilities, with subsequent hazardous-materials releases (Krausmann and Cruz, 2013).",
+          "evidence": {
+            "quote": "In addition, dispersion of flammable LPG vapours and burning missile projection from the explosions started fires in two neighbouring chemical facilities, with subsequent hazardous-materials releases (Krausmann and Cruz, 2013)."
+          }
+        }
+      ]
+    }
+  ]
+}

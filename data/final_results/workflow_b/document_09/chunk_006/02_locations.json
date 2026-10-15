@@ -1,0 +1,73 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "The wave field at 18 UTC on 29 Oct is shown in panel 4b. It is obviously narrowly concentrated around the mean direction of the wind, the waves pounding heavily on the Venice coastline.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the waves pounding heavily on the Venice coastline."
+          }
+        },
+        {
+          "source_text": "Following both the wind distribution (4a) and the reducing depth moving N, the highest waves are present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower (see Fig. 6).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the highest waves are present on the E coast of the basin"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "The measured and model spectral evolutions at the tower are shown in Fig. 7.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at the tower"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "We have previously mentioned that the geometry and bathymetry of the basin lead in stormy sirocco conditions to a strong enhancement of the surge in front of the Venice lagoon.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in front of the Venice lagoon"
+          }
+        },
+        {
+          "source_text": "The actual sea level peak was reached at 13 UTC, fourth highest historical level of flooding in Venice since 1872, the starting year of the measurements.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "flooding in Venice"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "The fourth, blue line provides the modeled surge that, with some differences along the growing and decreasing stages, managed to pinpoint time and level of the peak.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the peak."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "housing and local flooding and road cuts",
+          "evidence": {
+            "quote": "The Guadix River overflowed in some stretch, with housing and local flooding and road cuts."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "overflow of the Almanzora River",
+          "evidence": {
+            "quote": "In the region of Almanzora Valley, precipitation also produced the overflow of the Almanzora River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms",
+          "evidence": {
+            "quote": "The Guadalhorce river overflowed to the height of Cartama, dragging cars and flooding farms."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "A British citizen died",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "hundreds of incidents and rescues",
+          "evidence": {
+            "quote": "A British citizen died and there were hundreds of incidents and rescues."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "impacts": []
+    }
+  ]
+}

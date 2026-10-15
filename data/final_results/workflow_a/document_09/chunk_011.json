@@ -1,0 +1,157 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the largest expected wave (7.90 m)",
+          "evidence": {
+            "quote": "the largest expected wave (7.90 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "surge level",
+          "evidence": {
+            "quote": "surge level"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "significant wave height Hs",
+          "evidence": {
+            "quote": "significant wave height Hs"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "surge (1.25 and 1.50 m)",
+          "evidence": {
+            "quote": "surge (1.25 and 1.50 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "surge (1.66 m)",
+          "evidence": {
+            "quote": "surge (1.66 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave height (much larger than 6 m)",
+          "evidence": {
+            "quote": "wave height (much larger than 6 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave heights up to 7.90 m",
+          "evidence": {
+            "quote": "wave heights up to 7.90 m"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave heights 5.92 (2018) and 6.0 (1979)",
+          "evidence": {
+            "quote": "5.92 (2018) and 6.0 (1979)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave heights up to 6 m",
+          "evidence": {
+            "quote": "wave height (much larger than 6 m)"
+          }
+        },
+        {
+          "category": "other",
+          "source_text": "wave heights up to 7.90 m",
+          "evidence": {
+            "quote": "wave heights up to 7.90 m"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in front of Venice"
+          }
+        },
+        {
+          "source_text": "Adriatic basin",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "representative of the conditions on the whole Adriatic basin"
+          }
+        },
+        {
+          "source_text": "Venice lagoon",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 Oct 2018 18:30 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 Oct 2018 18:30:OOUTC"
+          }
+        },
+        {
+          "source_text": "29 Oct 2018 13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 Oct 2018 13 UTC"
+          }
+        },
+        {
+          "source_text": "29 Oct 2018 18.30:OOUTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 Oct 2018 18.30:OOUTC"
+          }
+        },
+        {
+          "source_text": "29 Oct 2018 18.30:OOUTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 Oct 2018 18.30:OOUTC"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures",
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        },
+        {
+          "category": "other",
+          "description": "last 200 m of the six jetties at the lagoon inlets were not existent after the storm",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

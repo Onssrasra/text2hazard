@@ -1,0 +1,440 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "rural area of Jerez",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the rural area of Jerez"
+          }
+        },
+        {
+          "source_text": "banks of the Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "along the banks of the Guadalete River"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Sanz stated that there has been no flooding, 'nor are there any material or personal damages yet,' but explained that due to the current state of the Guadalete River and the influx of water from its tributaries, 'decisions must be made.'"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "300 families will be evacuated",
+          "evidence": {
+            "quote": "will carry out the preventive evacuation of approximately 300 families"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "no flooding or material damage yet",
+          "evidence": {
+            "quote": "there has been no flooding, 'nor are there any material or personal damages yet'"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "no material or personal damages yet",
+          "evidence": {
+            "quote": "there has been no flooding, 'nor are there any material or personal damages yet'"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "evacuation of 300 families",
+          "evidence": {
+            "quote": "preventive evacuation of approximately 300 families"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the recent storm",
+          "evidence": {
+            "quote": "the recent storm"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the recent storm",
+          "evidence": {
+            "quote": "the recent storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the areas most affected by the recent storm",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the areas most affected by the recent storm"
+          }
+        },
+        {
+          "source_text": "Zarzuela Palace",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Zarzuela Palace"
+          }
+        },
+        {
+          "source_text": "affected areas",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "affected areas"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "tonight",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "will depart for the affected areas tonight"
+          }
+        },
+        {
+          "source_text": "tomorrow",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Another 50 officers will join them tomorrow."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "50 members of the Royal Guard will depart for the affected areas",
+          "evidence": {
+            "quote": "an initial group of 50 members of the Royal Guard will depart for the affected areas tonight"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "another 50 officers will join them tomorrow",
+          "evidence": {
+            "quote": "Another 50 officers will join them tomorrow."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia) by the Provincial Fire Consortium of the Alicante Provincial Council."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "a young woman and her baby of about twelve months rescued by helicopter",
+          "evidence": {
+            "quote": "A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia)"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "rescued by helicopter",
+          "evidence": {
+            "quote": "rescued by helicopter"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the affected areas in the province of Valencia"
+          }
+        },
+        {
+          "source_text": "provinces such as Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in provinces such as Albacete"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "at least five."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "last Tuesday",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas"
+          }
+        },
+        {
+          "source_text": "last few hours",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the City Council has been reporting them in the last few hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "3,400 rescues carried out by the Civil Guard",
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "some 300 people are still isolated",
+          "evidence": {
+            "quote": "it is estimated that some 300 people are still isolated"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "at least five people whose whereabouts are unknown in Albacete",
+          "evidence": {
+            "quote": "at least five."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "districts of La Torre and Castellar in the city of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "districts of La Torre and Castellar in the city of Valencia"
+          }
+        },
+        {
+          "source_text": "city of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "city of Valencia"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "a total of thirteen people have died in the districts of La Torre and Castellar"
+          }
+        },
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "a total of thirteen people have died in the districts of La Torre and Castellar"
+          }
+        },
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "eight of whom were found in a garage"
+          }
+        },
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the City Council has been reporting them in the last few hours"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "thirteen people died in La Torre and Castellar",
+          "evidence": {
+            "quote": "a total of thirteen people have died in the districts of La Torre and Castellar"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "eight of whom were found in a garage",
+          "evidence": {
+            "quote": "eight of whom were found in a garage"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "13 deaths added to 92 confirmed so far by the Valencian Generalitat",
+          "evidence": {
+            "quote": "the City Council has been reporting them in the last few hours, but does not know at what time the previous figure was finalized."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "All Saints' Day long weekend",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "during the All Saints' Day long weekend"
+          }
+        },
+        {
+          "source_text": "today",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The Directorate General of Traffic (DGT) has asked people not to travel to the province of Valencia during the All Saints' Day long weekend"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "people advised not to travel to Valencia",
+          "evidence": {
+            "quote": "The Directorate General of Traffic (DGT) has asked people not to travel to the province of Valencia"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "many of the roads in this area are not open to traffic",
+          "evidence": {
+            "quote": "as many of the roads in this area are not open to traffic."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

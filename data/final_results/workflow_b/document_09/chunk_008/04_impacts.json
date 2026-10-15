@@ -1,0 +1,45 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system.",
+          "evidence": {
+            "quote": "The storm of 22 December 1979 destroyed part of the upperstructures of the tower (they were two meters lower than now), including the onboard energy supply system."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "impacts": []
+    },
+    {
+      "event_id": "event_06",
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "impacts": []
+    }
+  ]
+}

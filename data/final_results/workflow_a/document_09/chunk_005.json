@@ -1,0 +1,96 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The 29 October storm in the Adriatic Sea was dominated by a uniform, steady unidirectional sirocco wind (see Fig. 4a) blowing from S-E to N-W, (2) the pass of the ASCAT-B satellite borne scatterometer all along the basin at 19.10 UTC providing a perfect check of the model data (see Fig. 5, left panel). The resulting fit (right panel) suggests a 1.11 correction factor for the ECMWF wind speeds.",
+          "evidence": {
+            "quote": "The 29 October storm in the Adriatic Sea was dominated by a uniform, steady unidirectional sirocco wind (see Fig. 4a) blowing from S-E to N-W, (2) the pass of the ASCAT-B satellite borne scatterometer all along the basin at 19.10 UTC providing a perfect check of the model data (see Fig. 5, left panel). The resulting fit (right panel) suggests a 1.11 correction factor for the ECMWF wind speeds."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The 29 October storm in the Adriatic Sea was dominated by a uniform, steady unidirectional sirocco wind"
+          }
+        },
+        {
+          "source_text": "Venice coastline",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the waves pounding heavily on the Venice coastline"
+          }
+        },
+        {
+          "source_text": "tower (CPSM, taken at 18 m)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the wind data at the tower have not been corrected for height (CPSM, taken at 18 m - see Section 3) and for the structure influence."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "18 UTC of 29 Oct",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Fig. 4 provides the wind, wave and surge fields in the Adriatic at 18 UTC of 29."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "other",
+          "description": "significant wave height up to almost 6 m at the tower",
+          "evidence": {
+            "quote": "the highest waves are present on the E coast of the basin, still reaching almost 6 m significant wave height Hs at the tower (see Fig. 6)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the local passage of the westerly violent cold front between 19.15 and 19.25 UTC",
+          "evidence": {
+            "quote": "the local passage (see Figs. 1 and 2) of the westerly violent cold front between 19.15 and 19.25 UTC."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "tower (CPSM)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the local passage (see Figs. 1 and 2) of the westerly violent cold front between 19.15 and 19.25 UTC."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "19.15–19.25 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the local passage (see Figs. 1 and 2) of the westerly violent cold front between 19.15 and 19.25 UTC."
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

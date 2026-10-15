@@ -1,0 +1,105 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "evidence": {
+            "quote": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the last episode has broken the national record of the intensity of the precipitation accumulated in one, six and twelve hours. The maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018. As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "evidence": {
+            "quote": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the maximum time data, of 185 mm, triples to the value of 60 mm used as threshold for the definition of torrentiality, being also 26 mm higher than the maximum value previously observed in the town of Vinaròs (Castellón) on 19 October 2018."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "evidence": {
+            "quote": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "As for the accumulated values in six and twelve hours (621 and 720 mm, respectively) these double to the most extremes previously recorded in the station of Alpandeira (Málaga) on 21 October 2018."
+          }
+        }
+      ],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

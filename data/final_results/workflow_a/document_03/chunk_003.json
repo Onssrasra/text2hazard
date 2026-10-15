@@ -1,0 +1,61 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4",
+          "evidence": {
+            "quote": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4",
+          "evidence": {
+            "quote": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4",
+          "evidence": {
+            "quote": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Catalonia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Catalonia"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Monday, November 4",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Monday, November 4"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "strong rainfall recorded",
+          "evidence": {
+            "quote": "strong rainfall recorded in this autonomous community during the first half of Monday, November 4"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

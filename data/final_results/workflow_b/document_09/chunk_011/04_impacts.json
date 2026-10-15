@@ -1,0 +1,24 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "other",
+          "description": "enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures",
+          "evidence": {
+            "quote": "There were enormous damages on coastal 29-Oct-2018 18.30:OOUTC structures."
+          }
+        },
+        {
+          "category": "other",
+          "description": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm",
+          "evidence": {
+            "quote": "the last 200 m of the six jetties at the lagoon inlets were not existent after the storm."
+          }
+        }
+      ]
+    }
+  ]
+}

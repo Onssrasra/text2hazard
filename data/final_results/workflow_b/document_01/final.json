@@ -1,0 +1,85 @@
+{
+  "document_id": "PWC 2015 - Updated estimates on cost of Storm Desmond",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Storm Desmond",
+          "evidence": {
+            "quote": "Storm Desmond"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood",
+          "evidence": {
+            "quote": "flood"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flash flooding",
+          "evidence": {
+            "quote": "flash flooding"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood affected areas",
+          "evidence": {
+            "quote": "flood affected areas"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "flood hit sites",
+          "evidence": {
+            "quote": "flood hit sites"
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "Damage caused by Storm Desmond estimated at £400m - £500m",
+          "evidence": {
+            "quote": "Our current estimate of the damage caused by Storm Desmond is £400m - £500m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Insurance industry paying out between £250m and £325m",
+          "evidence": {
+            "quote": "with the insurance industry paying out between £250m and £325m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Economic cost of £275m",
+          "evidence": {
+            "quote": "This compares to an economic cost of £275m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Insurer costs of £175m",
+          "evidence": {
+            "quote": "and insurer costs of £175m"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Potential for additional flash flooding to worsen damage",
+          "evidence": {
+            "quote": "Any additional rainfall - even 1cm-2cm - could cause flash flooding in rain affected areas as the ground is already saturated with water. This could compound the damage that has already been caused by Storm Desmond."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

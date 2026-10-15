@@ -1,0 +1,28 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flood that flooded the city of Valencia due to the overflow of the river Turia",
+          "evidence": {
+            "quote": "the maximum was placed towards the northwest of the capital, causing a flood that flooded the city of Valencia due to the overflow of the river Turia."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "serious flooding downstream of the Júcar River caused by the break‑up of the dam",
+          "evidence": {
+            "quote": "resulting in the well‑known 'Tous Pantanada' due to the break‑up of the dam that caused serious flooding downstream of the Júcar River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    }
+  ]
+}

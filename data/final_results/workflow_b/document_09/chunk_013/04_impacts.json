@@ -1,0 +1,36 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "flood peak with less than half a meter surge contribution",
+          "evidence": {
+            "quote": "the flood peak happened with only less than half a meter surge contribution."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "surge concentrated in the last tens of kilometers before the Venice coast",
+          "evidence": {
+            "quote": "the surge is concentrated (under sirocco conditions) in the last tens of kilometers before the Venice coast."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "surge contribution less than half a meter",
+          "evidence": {
+            "quote": "the surge happened with only less than half a meter surge contribution."
+          }
+        }
+      ]
+    }
+  ]
+}

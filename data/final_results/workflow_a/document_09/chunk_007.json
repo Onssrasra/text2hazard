@@ -1,0 +1,225 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the 29 October storm",
+          "evidence": {
+            "quote": "the conditions of the 29 October storm"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "maximum recorded wind speed at the tower (1min average) was 24.8 ms -1 with gusts up to 32.1 ms -1",
+          "evidence": {
+            "quote": "the maximum recorded wind speed at the tower (1min average) was 24.8 ms -1 with gusts up to 32.1 ms -1"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "maximum surge 1.46 m",
+          "evidence": {
+            "quote": "the recorded maximum surge and Hs at the tower, 1.46 and 5.92 m, respectively"
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "maximum wave height 5.92 m",
+          "evidence": {
+            "quote": "the recorded maximum surge and Hs at the tower, 1.46 and 5.92 m, respectively"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Acqua Alta tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the model output at the 'Acqua Alta' tower"
+          }
+        },
+        {
+          "source_text": "Adriatic area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the Adriatic area"
+          }
+        },
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Venice kept sinking"
+          }
+        },
+        {
+          "source_text": "Northern Italy",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Northern Italy – An exceptional event"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 October 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the conditions of the 29 October storm"
+          }
+        },
+        {
+          "source_text": "15 days before the event",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "starting from 15 days before the event"
+          }
+        },
+        {
+          "source_text": "21 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "from eight days before the event (21 October)"
+          }
+        },
+        {
+          "source_text": "23 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From 23 October and onwards"
+          }
+        },
+        {
+          "source_text": "18 UTC of 29 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "for the 18 fields are all close to the worst conditions, hence the fields in Fig. 11 are representative of the storm"
+          }
+        },
+        {
+          "source_text": "up to five (six for the surge) days earlier",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "up to five (six for the surge) days earlier there were indications of a severe event"
+          }
+        },
+        {
+          "source_text": "eight days forecast range",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "potential warning up to eight days forecast range"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "recorded maximum wind speed 24.8 m/s and gusts up to 32.1 m/s at Acqua Alta tower",
+          "evidence": {
+            "quote": "the maximum recorded wind speed at the tower (1min average) was 24.8 ms -1 with gusts up to 32.1 ms -1"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "recorded maximum surge 1.46 m at Acqua Alta tower",
+          "evidence": {
+            "quote": "the recorded maximum surge and Hs at the tower, 1.46 and 5.92 m, respectively"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "recorded maximum wave height 5.92 m at Acqua Alta tower",
+          "evidence": {
+            "quote": "the recorded maximum surge and Hs at the tower, 1.46 and 5.92 m, respectively"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the 29 October storm",
+          "evidence": {
+            "quote": "the conditions of the 29 October storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Adriatic area",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "for the Adriatic area"
+          }
+        },
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Venice kept sinking"
+          }
+        },
+        {
+          "source_text": "Northern Italy",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Northern Italy – An exceptional event"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "29 October 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the conditions of the 29 October storm"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "forecasted wind gusts above the 75th percentile of the model measured spectra during 29 October",
+          "evidence": {
+            "quote": "From 23 October and onwards all ensemble medians as well as all HRES forecasts predicted gusts above the 75th percentile of the model measured spectra during 29 October during climate"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "forecasted surge up to 1 m and wave height close to 4 m up to five days earlier",
+          "evidence": {
+            "quote": "up to five (six for the surge) days earlier there were indications of a severe event (Hs close to 4 m, surge to 1 m)"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "potential warning up to eight days forecast range",
+          "evidence": {
+            "quote": "potential warning up to eight days forecast range"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

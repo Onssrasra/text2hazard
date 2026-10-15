@@ -1,0 +1,58 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "the 29 October storm",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the 29 October storm"
+          }
+        },
+        {
+          "source_text": "21 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "from eight days before the event (21 October) the distribution started to shift towards higher values"
+          }
+        },
+        {
+          "source_text": "23 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "From 23 October and onwards all ensemble medians as well as all HRES forecasts predicted gusts above the 75th percentile of the model measured spectra during 29 October during climate"
+          }
+        },
+        {
+          "source_text": "29 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "for the conditions of the 29 October storm"
+          }
+        },
+        {
+          "source_text": "18 UTC of 29 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "for each forecast we report the conditions at 18 UTC of 29 October"
+          }
+        },
+        {
+          "source_text": "00 UTC of 24, 25, 26, 27, 28, 29",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "issued respectively at 00 UTC of 24, 25, 26, 27, 28, 29"
+          }
+        }
+      ]
+    }
+  ]
+}

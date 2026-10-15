@@ -1,0 +1,53 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm.",
+          "evidence": {
+            "quote": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work.",
+          "evidence": {
+            "quote": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME.",
+          "evidence": {
+            "quote": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME."
+          }
+        }
+      ]
+    }
+  ]
+}

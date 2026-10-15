@@ -1,0 +1,293 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm we consider in this paper developed at the end of October in the Western Mediterranean Sea as an explosive cyclogenesis following a cold input from the Gulf of Lion (see Fig. 1 for the geographical references). Born West of Sardinia, the ensuing very compact low deepened rapidly moving at high speed toward North. The low forced strong winds on its right flank that led to destructive (compared to the local standards) waves in the Ligurian Sea. At the same time the low led also to a very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge that only by a lucky coincidence did not occur to be by far the worst in documented history.",
+          "evidence": {
+            "quote": "the storm we consider in this paper developed at the end of October in the Western Mediterranean Sea as an explosive cyclogenesis following a cold input from the Gulf of Lion (see Fig. 1 for the geographical references). Born West of Sardinia, the ensuing very compact low deepened rapidly moving at high speed toward North. The low forced strong winds on its right flank that led to destructive (compared to the local standards) waves in the Ligurian Sea. At the same time the low led also to a very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge that only by a lucky coincidence did not occur to be by far the worst in documented history."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Northern Italy, including the Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "damage to some light-structures of the tower",
+          "evidence": {
+            "quote": "the derived possibility of estimating the surface wind stress, the evidence of reflected waves from the coast and the associated seismometers signal 40 km inland. The highest crest and wave heights measured at the tower are beyond what is suggested by non-linear statistics. The relative out-of-scale magnitude of the three major storms since 1966 suggests the possibility that they belong to a self-standing family of events."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the documented passage of an atmospheric cold front",
+          "evidence": {
+            "quote": "the documented passage of an atmospheric cold front and, using the local tidal data, the derived possibility of estimating the surface wind stress, the evidence of reflected waves from the coast and the associated seismometers signal 40 km inland."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Venice",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the ensuing surge and wave conditions at and in front of Venice stand at the extreme tail of the respective historical return period distributions."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "surge and wave conditions at and in front of Venice at extreme tail of historical return period distributions",
+          "evidence": {
+            "quote": "the ensuing surge and wave conditions at and in front of Venice stand at the extreme tail of the respective historical return period distributions."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "cold_snow",
+          "source_text": "the atmospheric cold front passage",
+          "evidence": {
+            "quote": "the documented passage of an atmospheric cold front and, using the local tidal data, the derived possibility of estimating the surface wind stress, the evidence of reflected waves from the coast and the associated seismometers signal 40 km inland."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "40 km inland",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the evidence of reflected waves from the coast and the associated seismometers signal 40 km inland."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "seismometers signal 40 km inland",
+          "evidence": {
+            "quote": "the evidence of reflected waves from the coast and the associated seismometers signal 40 km inland."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "other",
+          "source_text": "the high wave heights measured at the tower",
+          "evidence": {
+            "quote": "The highest crest and wave heights measured at the tower are beyond what is suggested by non-linear statistics."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "CNR-ISMAR oceanographic tower (15 km offshore)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the abundance of data and the extensive modeling allow discussing in sequence several different aspects of the storm. With this background the paper is organized as follows."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "wave heights beyond non-linear statistics",
+          "evidence": {
+            "quote": "The highest crest and wave heights measured at the tower are beyond what is suggested by non-linear statistics."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm known as Vaia",
+          "evidence": {
+            "quote": "In this paper we analyze the storm (generally known as Vaia), focusing our attention on the Adriatic events."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In this paper we analyze the storm (generally known as Vaia), focusing our attention on the Adriatic events."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "extreme surge and wave conditions at and in front of Venice",
+          "evidence": {
+            "quote": "the ensuing surge and wave conditions at and in front of Venice stand at the extreme tail of the respective historical return period distributions."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm that led to a very strong South-East sirocco wind in the Adriatic Sea",
+          "evidence": {
+            "quote": "At the same time the low led also to a very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge that only by a lucky coincidence did not occur to be by far the worst in documented history."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Adriatic Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "At the same time the low led also to a very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge that only by a lucky coincidence did not occur to be by far the worst in documented history."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "high waves in front of Venice and substantial surge",
+          "evidence": {
+            "quote": "At the same time the low led also to a very strong South-East sirocco wind in the Adriatic Sea, with consequent high waves in front of Venice and a substantial surge that only by a lucky coincidence did not occur to be by far the worst in documented history."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the storm that forced strong winds on its right flank leading to destructive waves in the Ligurian Sea",
+          "evidence": {
+            "quote": "The low forced strong winds on its right flank that led to destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Ligurian Sea",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The low forced strong winds on its right flank that led to destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 29, 2018",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On October 29, 2018 a very severe storm affected Northern Italy, including the Adriatic Sea."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "environmental",
+          "description": "destructive waves in the Ligurian Sea",
+          "evidence": {
+            "quote": "The low forced strong winds on its right flank that led to destructive (compared to the local standards) waves in the Ligurian Sea."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

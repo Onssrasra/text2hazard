@@ -1,0 +1,25 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "impacts": []
+    }
+  ]
+}

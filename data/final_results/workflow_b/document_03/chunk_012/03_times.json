@@ -1,0 +1,158 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "In the early morning hours of day 3 there were very strong rain showers focused on places in the Ribera Alta and mountain area of the Safor, without storm, but very efficient. In Carcaixent and Barx the intensity was strong, with accumulated more than 20 mm in an hour around 5:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the early morning hours of day 3 there were very strong rain showers focused on places in the Ribera Alta and mountain area of the Safor, without storm, but very efficient. In Carcaixent and Barx the intensity was strong, with accumulated more than 20 mm in an hour around 5:00 hours."
+          }
+        },
+        {
+          "source_text": "In the afternoon, a convective system of maritime origin (SCM3-II) penetrated the north coast of Alicante, affecting Benidorm and Altea when touching land, where the intensity was very strong and accumulated more than 30 mm in half an hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the afternoon, a convective system of maritime origin (SCM3-II) penetrated the north coast of Alicante, affecting Benidorm and Altea when touching land, where the intensity was very strong and accumulated more than 30 mm in half an hour."
+          }
+        },
+        {
+          "source_text": "-The following is a summary of the warnings issued for the main affected areas of the province of Valencia: On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia. At night, the warnings were raised to orange of 50 mm of precipitation in one hour and an orange warning of 150 mm of precipitation was issued in twelve hours. On the 3rd day at 8:25 hours the accumulations of the precipitation warnings were reduced: in an hour to 40 mm and in twelve hours to 100 mm. At 15:50 hours the warning was raised to red of precipitation of 90 mm in an hour between 18:00 and 22:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "-The following is a summary of the warnings issued for the main affected areas of the province of Valencia: On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia. At night, the warnings were raised to orange of 50 mm of precipitation in one hour and an orange warning of 150 mm of precipitation was issued in twelve hours. On the 3rd day at 8:25 hours the accumulations of the precipitation warnings were reduced: in an hour to 40 mm and in twelve hours to 100 mm. At 15:50 hours the warning was raised to red of precipitation of 90 mm in an hour between 18:00 and 22:00 hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "A very active system (EP3-III) from Castellón advanced along the coast from southwest to northeast.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "A very active system (EP3-III) from Castellón advanced along the coast from southwest to northeast."
+          }
+        },
+        {
+          "source_text": "These storms affected the coast and prelithoral of Tarragona intensely during the first six hours of the day, with values of the order of 50 mm in an hour in Montblanc and in the Riba (both stations of the Meteoclimatic network), in the prelithral north of Tarragona.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "These storms affected the coast and prelithoral of Tarragona intensely during the first six hours of the day, with values of the order of 50 mm in an hour in Montblanc and in the Riba (both stations of the Meteoclimatic network), in the prelithral north of Tarragona."
+          }
+        },
+        {
+          "source_text": "During the morning, these storms reached the cities of the coast of Barcelona, with torrential intensities in many points and accumulated more than 100 mm in densely populated areas.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "During the morning, these storms reached the cities of the coast of Barcelona, with torrential intensities in many points and accumulated more than 100 mm in densely populated areas."
+          }
+        },
+        {
+          "source_text": "-The warnings issued for the main affected areas of the province of Tarragona were the following: On the 31st day in the evening, yellow warnings of 60 mm were issued in twelve hours and 20 mm in an hour on the South Coast and Prelithoral of Tarragona for the morning of the day 3. On the 2nd day in the morning, orange warnings of precipitation of 40 mm were placed in an hour in these zones for the second half of the day 3, and also yellow warnings of precipitation of 60 mm in twelve hours and 20 mm in an hour in the remaining areas of Tarragona, all for the day 3. In the evening, the warnings of precipitation were raised in twelve hours on the South Coast and South Prelithal with an accumulation of 150 mm in 12 hours. On the 3rd day in the morning the warnings of Tarragona are prolonged to include the morning of the day 4. On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level. At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours. The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "-The warnings issued for the main affected areas of the province of Tarragona were the following: On the 31st day in the evening, yellow warnings of 60 mm were issued in twelve hours and 20 mm in an hour on the South Coast and Prelithoral of Tarragona for the morning of the day 3. On the 2nd day in the morning, orange warnings of precipitation of 40 mm were placed in an hour in these zones for the second half of the day 3, and also yellow warnings of precipitation of 60 mm in twelve hours and 20 mm in an hour in the remaining areas of Tarragona, all for the day 3. In the evening, the warnings of precipitation were raised in twelve hours on the South Coast and South Prelithal with an accumulation of 150 mm in 12 hours. On the 3rd day in the morning the warnings of Tarragona are prolonged to include the morning of the day 4. On the 4th at 00:47 hours the notice of immediate prediction of precipitation of 40 mm in an hour on the north coast of Tarragona.The accumulated one was also raised in twelve hours to 90 mm for this area, although it remained the yellow level. At 1:17 hours the yellow warnings of Prelithoral north of Tarragona were raised to orange, with accumulated 40 mm in an hour and 120 mm in twelve hours. The yellow warning of precipitation of Litoral north of Tarragona was raised to the orange level with 150 mm in 12 hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": [
+        {
+          "source_text": "On the 2nd morning, yellow warnings of precipitation of 15 mm were issued in an hour and of 60 mm in 12 hours for the morning of the 3rd day in Campo de Cartagena and Mazarrón.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 2nd morning, yellow warnings of precipitation of 15 mm were issued in an hour and of 60 mm in 12 hours for the morning of the 3rd day in Campo de Cartagena and Mazarrón."
+          }
+        },
+        {
+          "source_text": "At night, the warnings were raised to orange of 40 mm in an hour and yellow of 80 mm in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At night, the warnings were raised to orange of 40 mm in an hour and yellow of 80 mm in twelve hours."
+          }
+        },
+        {
+          "source_text": "In addition, an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles, for the same period.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In addition, an orange warning of precipitation of 40 mm in an hour and yellow of 80 mm in twelve hours was issued in Valle del Guadalentín, Lorca and Eagles, for the same period."
+          }
+        },
+        {
+          "source_text": "Day 3 at 11:52 hours the warnings were raised to orange of precipitation of 50 mm in an hour and yellow of precipitation of 90 mm in twelve hours in both zones, canceling at 16:53 all the warnings.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Day 3 at 11:52 hours the warnings were raised to orange of precipitation of 50 mm in an hour and yellow of precipitation of 90 mm in twelve hours in both zones, canceling at 16:53 all the warnings."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "times": [
+        {
+          "source_text": "On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 2nd day in the morning, yellow warnings of 20 mm of precipitation were issued in one hour planned for the whole day 3 in the southern coast of Valencia."
+          }
+        },
+        {
+          "source_text": "At night, the warnings were raised to orange of 50 mm of precipitation in one hour and an orange warning of 150 mm of precipitation was issued in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At night, the warnings were raised to orange of 50 mm of precipitation in one hour and an orange warning of 150 mm of precipitation was issued in twelve hours."
+          }
+        },
+        {
+          "source_text": "On the 3rd day at 8:25 hours the accumulations of the precipitation warnings were reduced: in an hour to 40 mm and in twelve hours to 100 mm.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On the 3rd day at 8:25 hours the accumulations of the precipitation warnings were reduced: in an hour to 40 mm and in twelve hours to 100 mm."
+          }
+        },
+        {
+          "source_text": "At 15:50 hours the warning was raised to red of precipitation of 90 mm in an hour between 18:00 and 22:00 hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "At 15:50 hours the warning was raised to red of precipitation of 90 mm in an hour between 18:00 and 22:00 hours."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "times": [
+        {
+          "source_text": "This day, the last of this long episode of intense precipitation, the most outstanding events took place during the first half of the day, focusing on Catalonia and affecting intensely the surroundings of the city of Barcelona, especially the region of Baix Llobregat.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "This day, the last of this long episode of intense precipitation, the most outstanding events took place during the first half of the day, focusing on Catalonia and affecting intensely the surroundings of the city of Barcelona, especially the region of Baix Llobregat."
+          }
+        }
+      ]
+    }
+  ]
+}

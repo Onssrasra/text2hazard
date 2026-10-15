@@ -1,0 +1,35 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "after 18 UTC an energetic cold front crossed the Apennines and advanced over the Northern Adriatic Sea. Indeed, after several hours of continuous sirocco, the wind record at the tower, at 5-min interval, documents the passage of the cold front at 19.15 UTC (wind changes direction by 40° clockwise)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "times": [
+        {
+          "source_text": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the drop in sea level, more than 20 cm in 10-min, at the tower, that happened soon after the front passage (19.15 UTC, 135 min in Fig. 15)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "times": []
+    }
+  ]
+}

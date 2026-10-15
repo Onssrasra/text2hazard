@@ -1,0 +1,122 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "In late October 2018 the synoptic characteristics of the weather conditions over the Western Mediterranean Sea resembled the typical pattern associated with major rain events over the southern side of the Alpine range. A large-scale cyclonic system was slowly evolving, leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area), with consequent intense alpine precipitation events.",
+          "evidence": {
+            "quote": "A large-scale cyclonic system was slowly evolving, leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area), with consequent intense alpine precipitation events."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "After a short lull, a second and more intense phase of the event took place on the 29th, when a cold front from the Gulf of Lion entered the Mediterranean basin (panel 2a, at 06 UTC). The interaction between the cold inflow with the warm and moist marine boundary layer triggered the rapid intensification of the low that, starting from the general field, quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis with central pressure estimated at 984 hPa.",
+          "evidence": {
+            "quote": "the rapid intensification of the low that, starting from the general field, quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis with central pressure estimated at 984 hPa."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "The cyclone moved rapidly northward (A in Fig. 1; note timing of its sequential positions) while still deepening down to 977 hPa (U.K. Meteorological Office) and further reducing its horizontal scale. Moving North, the low forced strong south-easterly winds on its right flank, both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea.",
+          "evidence": {
+            "quote": "Moving North, the low forced strong south-easterly winds on its right flank, both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "In a way this halted the flood of Venice, but, forcing the sirocco wind into a narrower path against the Eastern Alps, it also led to tremendously strong winds in the mountain area (Dolomites and Eastern Alps), with record wind speeds (gusts up to 213 kmh -1 recorded before the instrument failed) and very extensive forest damage (estimated loss of 11 million trees).",
+          "evidence": {
+            "quote": "with record wind speeds (gusts up to 213 kmh -1 recorded before the instrument failed) and very extensive forest damage (estimated loss of 11 million trees)."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "In late October 2018 the synoptic characteristics of the weather conditions over the Western Mediterranean Sea resembled the typical pattern associated with major rain events over the southern side of the Alpine range. A large-scale cyclonic system was slowly evolving, leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area), with consequent intense alpine precipitation events.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "leading to southerly flow towards the Alps (see Fig. 1 for the geography of the area)"
+          }
+        },
+        {
+          "source_text": "Moving North, the low forced strong south-easterly winds on its right flank, both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "both on the Tyrrhenian Sea (B in Fig. 2, with the flow squeezed between the low and the Apennines range along the peninsula) and the Adriatic Sea (C, here enhanced by the high pressure over eastern Europe). The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea."
+          }
+        },
+        {
+          "source_text": "In a way this halted the flood of Venice, but, forcing the sirocco wind into a narrower path against the Eastern Alps, it also led to tremendously strong winds in the mountain area (Dolomites and Eastern Alps), with record wind speeds (gusts up to 213 kmh -1 recorded before the instrument failed) and very extensive forest damage (estimated loss of 11 million trees).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "forcing the sirocco wind into a narrower path against the Eastern Alps, it also led to tremendously strong winds in the mountain area (Dolomites and Eastern Alps)"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "After a short lull, a second and more intense phase of the event took place on the 29th, when a cold front from the Gulf of Lion entered the Mediterranean basin (panel 2a, at 06 UTC).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "when a cold front from the Gulf of Lion entered the Mediterranean basin (panel 2a, at 06 UTC)."
+          }
+        },
+        {
+          "source_text": "The interaction between the cold inflow with the warm and moist marine boundary layer triggered the rapid intensification of the low that, starting from the general field, quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis with central pressure estimated at 984 hPa.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "quickly underwent (12 UTC, panel 2b) an explosive cyclogenesis"
+          }
+        },
+        {
+          "source_text": "The low entered land north of Corsica at about 18 UTC, followed (D) by a strong and violent flow of cold air from West-SouthWest (panel 2c, 18 UTC).",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at about 18 UTC"
+          }
+        },
+        {
+          "source_text": "On the Adriatic Sea, where we focus our attention, the wind was over at 00 UTC of the 30th (panel 2d), while of course the long swell was still pounding on the Venetian coast.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the wind was over at 00 UTC of the 30th (panel 2d)"
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "High waves on the Ligurian Sea and the Northern Adriatic Sea",
+          "evidence": {
+            "quote": "The winds led to high waves both on the Ligurian Sea and the Northern Adriatic Sea."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "Crest heights of up to +9 m and surge of +1.30 m recorded on the ISMAR oceanographic tower",
+          "evidence": {
+            "quote": "Both data and minor damage on the horizontal outgoing platform (deck 2) provide evidence of up to +9 m crest heights (but with +1.30 m surge)."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "Extensive forest damage with an estimated loss of 11 million trees in the Dolomites and Eastern Alps",
+          "evidence": {
+            "quote": "very extensive forest damage (estimated loss of 11 million trees)."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

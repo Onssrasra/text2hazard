@@ -1,0 +1,42 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "times": [
+        {
+          "source_text": "at 13 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 13 UTC"
+          }
+        },
+        {
+          "source_text": "at 19 UTC",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "at 19 UTC"
+          }
+        },
+        {
+          "source_text": "29 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 and 30 October"
+          }
+        },
+        {
+          "source_text": "30 October",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "29 and 30 October"
+          }
+        }
+      ]
+    }
+  ]
+}

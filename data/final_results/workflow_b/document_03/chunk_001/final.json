@@ -1,0 +1,421 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Floods associated with torrential precipitation are one of the natural disasters that has the greatest impact each year throughout our planet.",
+          "evidence": {
+            "quote": "Floods associated with torrential precipitation are one of the natural disasters that has the greatest impact each year throughout our planet."
+          }
+        },
+        {
+          "category": "extreme_heat",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "extreme_heat",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "223 people lost their lives (3 still missing at the time of this study)",
+          "evidence": {
+            "quote": "223 people lost their lives (3 still missing at the time of this study)"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "economic impact on the main economic sectors would exceed 13 billion euros",
+          "evidence": {
+            "quote": "the economic impact on the main economic sectors would exceed 13 billion euros"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros",
+          "evidence": {
+            "quote": "the material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "loss of human life occurred in the provinces of Albacete, Cuenca and Malaga due to the sudden increase of channels",
+          "evidence": {
+            "quote": "loss of human life occurred in the provinces of Albacete, Cuenca and Malaga where the loss of human life occurred due to the sudden increase of channels"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "Between October 28 and November 4, 2024, a long episode of intense rains, locally torrential and persistent, occurred in our country, which affected to a greater extent the provinces of the Mediterranean, adjacent provinces of the communities of Castilla-La Mancha and Aragon, as well as part of the south-western quadrant."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "223 people lost their lives (3 still missing at the time of this study)",
+          "evidence": {
+            "quote": "223 people lost their lives (3 still missing at the time of this study)"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "economic impact on the main economic sectors would exceed 13 billion euros",
+          "evidence": {
+            "quote": "the economic impact on the main economic sectors would exceed 13 billion euros"
+          }
+        },
+        {
+          "category": "economic",
+          "description": "material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros",
+          "evidence": {
+            "quote": "the material damage suffered by thousands of families of the populations affected by the floods, the latter translated in 3.5 billion euros"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "loss of human life occurred in the provinces of Albacete, Cuenca and Malaga due to the sudden increase of channels",
+          "evidence": {
+            "quote": "loss of human life occurred in the provinces of Albacete, Cuenca and Malaga where the loss of human life occurred due to the sudden increase of channels"
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_18",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_19",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_20",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country.",
+          "evidence": {
+            "quote": "the weather factor, extraordinarily extreme, was combined with the hydrological factor and triggered the most tragic natural event in the recent history of our country."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    }
+  ],
+  "notes": []
+}

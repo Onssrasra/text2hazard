@@ -1,0 +1,17 @@
+{
+  "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy.",
+          "evidence": {
+            "quote": "the earthquake (as the initiator) triggers a tsunami, which, in turn, affects the nuclear plants that produce energy."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+  "events": [
+    {
+      "event_id": "event_01",
+      "impacts": []
+    },
+    {
+      "event_id": "event_02",
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "impacts": [
+        {
+          "category": "economic",
+          "description": "The fires and explosions at the Cosmo Oil refinery led to the evacuation of 1,142 residents.",
+          "evidence": {
+            "quote": "The fires and explosions at the Cosmo Oil refinery led to the evacuation of 1,142 residents."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "At the refinery, 6 injuries (1 severe, 5 minor) were recorded while at a facility adjacent to the LPG tank farm, where a fire was triggered via a domino effect, 3 persons suffered injuries, one of them severe.",
+          "evidence": {
+            "quote": "At the refinery, 6 injuries (1 severe, 5 minor) were recorded while at a facility adjacent to the LPG tank farm, where a fire was triggered via a domino effect, 3 persons suffered injuries, one of them severe"
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "The refinery's LPG storage tank farm was completely destroyed, as well as surrounding pipelines and roads.",
+          "evidence": {
+            "quote": "The refinery's LPG storage tank farm was completely destroyed, as well as surrounding pipelines and roads (Fig. 2.1)."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "Adjacent asphalt tanks were damaged due to debris impact, and fires broke out in two neighbouring petrochemical facilities.",
+          "evidence": {
+            "quote": "Adjacent asphalt tanks were damaged to due debris impact, and fires broke out in two neighbouring petrochemical facilities."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "In addition, damage to glass windows, vehicles, marine vessels and other structures was observed.",
+          "evidence": {
+            "quote": "In addition, damage to glass windows, vehicles, marine vessels and other structures was observed (Cosmo Oil, 2011a)."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "The fires at the refinery caused Cosmo Oil to declare a loss on disaster of over 5.7 billion ¥ (72 million US$ 1) for fiscal year 2010, which ended on 31 March, 2011.",
+          "evidence": {
+            "quote": "The fires at the refinery caused Cosmo Oil to declare a loss on disaster of over 5.7 billion ¥ (72 million US$ 1) for fiscal year 2010, which ended on 31 March, 2011 (Cosmo Oil, 2011b)."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "For fiscal year 2011, the company reported a net deficit of 9.1 billion ¥ (114 million US$) which was mostly due to the suspension of activities at the Chiba refinery and associated alternative supply costs.",
+          "evidence": {
+            "quote": "For fiscal year 2011, the company reported a net deficit of 9.1 billion ¥ (114 million US$) which was mostly due to the suspension of activities at the Chiba refinery and associated alternative supply costs (Cosmo Oil, 2012)."
+          }
+        },
+        {
+          "category": "economic",
+          "description": "Overall, the refinery suffered a 2-year business interruption due to the damage caused by the Tohoku earthquake.",
+          "evidence": {
+            "quote": "Overall, the refinery suffered a 2-year business interruption due to the damage caused by the Tohoku earthquake (Cosmo Oil, 2013)."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "The explosions damaged nearby asphalt tanks due to debris impact, causing asphalt to leak into the ocean.",
+          "evidence": {
+            "quote": "The explosions damaged nearby asphalt tanks due to debris impact, causing asphalt to leak into the ocean (Cosmo Oil, 2011a)."
+          }
+        },
+        {
+          "category": "environmental",
+          "description": "In addition, dispersion of flammable LPG vapours and burning missile projection from the explosions started fires in two neighbouring chemical facilities, with subsequent hazardous-materials releases.",
+          "evidence": {
+            "quote": "In addition, dispersion of flammable LPG vapours and burning missile projection from the explosions started fires in two neighbouring chemical facilities, with subsequent hazardous-materials releases (Krausmann and Cruz, 2013)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "impacts": []
+    }
+  ]
+}

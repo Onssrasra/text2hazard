@@ -1,0 +1,34 @@
+{
+  "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "Padua University",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "seismometer data from Padua University, 40 km inland."
+          }
+        },
+        {
+          "source_text": "Venice beach",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "We thought this unlikely on the Venice beach."
+          }
+        },
+        {
+          "source_text": "the tower",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the height reached by the crest of the largest expected wave (7.90 m) is compared to the height of the damaged structure suspended below the tower deck n. 2."
+          }
+        }
+      ]
+    }
+  ]
+}

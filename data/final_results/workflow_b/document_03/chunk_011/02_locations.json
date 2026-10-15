@@ -1,0 +1,83 @@
+{
+  "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+  "events": [
+    {
+      "event_id": "event_01",
+      "locations": [
+        {
+          "source_text": "the most significant impacts were caused by flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the most significant impacts were caused by flooding in coastal areas, in Cartaya and Punta Umbria (near Huelva capital)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "locations": [
+        {
+          "source_text": "In Cartaya (Huelva) 138 mm were recorded during the first twelve hours of the day, although 115 mm were observed in just three hours (during the morning).",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In Cartaya (Huelva) 138 mm were recorded during the first twelve hours of the day, although 115 mm were observed in just three hours (during the morning)."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_03",
+      "locations": [
+        {
+          "source_text": "During the afternoon, a line of storms (SCM1-III) passed through the island of Mallorca, initially affected the south, spreading the intense squalls to points of the west and especially to the Sierra de Tramuntana.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the afternoon, a line of storms (SCM1-III) passed through the island of Mallorca, initially affected the south, spreading the intense squalls to points of the west and especially to the Sierra de Tramuntana."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "locations": [
+        {
+          "source_text": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach. Some roads were also cut opening the next day.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The torrent of Santa Ponça, in Calvià, was about to overflow and affected the area of the beach. Some roads were also cut opening the next day."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_05",
+      "locations": [
+        {
+          "source_text": "During the early hours of the morning a multicellular system (MC3-I) began to affect the province of Almería, moving rapidly to the Region of Murcia. Here, very strong local rainfall occurred in the regions of the Guadalentín Valley and the Campo de Cartagena and Mazarrón.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "During the early hours of the morning a multicellular system (MC3-I) began to affect the province of Almería, moving rapidly to the Region of Murcia. Here, very strong local rainfall occurred in the regions of the Guadalentín Valley and the Campo de Cartagena and Mazarrón."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "locations": [
+        {
+          "source_text": "The increase of ramblas caused flooding of urban areas of Puerto de Mazarrón.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The increase of ramblas caused flooding of urban areas of Puerto de Mazarrón."
+          }
+        }
+      ]
+    }
+  ]
+}

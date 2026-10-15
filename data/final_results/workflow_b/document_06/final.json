@@ -1,0 +1,2149 @@
+{
+  "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+  "events": [
+    {
+      "event_id": "event_01",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia.",
+          "evidence": {
+            "quote": "the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia."
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "The DANA storm",
+          "evidence": {
+            "quote": "The DANA storm, LIVE | The death toll rises to 158 and Mazón requests the Army's help in Valencia"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "155 have died in the province of Valencia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "another 2 in Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "1 more in Andalusia"
+          }
+        },
+        {
+          "source_text": "Paiporta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "One of the hardest‑hit towns has been Paiporta"
+          }
+        },
+        {
+          "source_text": "La Torre",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in other outlying villages, such as La Torre"
+          }
+        },
+        {
+          "source_text": "Castellar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "and Castellar"
+          }
+        },
+        {
+          "source_text": "Mira (Cuenca)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a woman in Mira (Cuenca)"
+          }
+        },
+        {
+          "source_text": "Letur (Albacete)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "and another in Letur (Albacete)"
+          }
+        },
+        {
+          "source_text": "Málaga",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "a British man who lived in Málaga"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in Valencia"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "October 31",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "EFE: October 31, AUDIO SUMMARY (AI GENERATED) 00: 00: powerbeans Valencia (EFE) - The provisional death toll from the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia."
+          }
+        },
+        {
+          "source_text": "this Friday at 8:00 a.m.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "On his social media profile, Mazón announced that the Military Emergency Unit (UME) informed him that the first wave of personnel will arrive this Friday at 8:00 a.m. to work during the day."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "fatalities",
+          "evidence": {
+            "quote": "the provisional death toll from the floods in Spain has risen to 158, of which 155 have died in the province of Valencia, another 2 in Castilla-La Mancha, and 1 more in Andalusia."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "bodies recovered in Paiporta",
+          "evidence": {
+            "quote": "One of the hardest‑hit towns has been Paiporta, just ten kilometers from the city of Valencia, where the remains of some 45 people have been recovered, according to municipal estimates."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "bodies found in La Torre and Castellar",
+          "evidence": {
+            "quote": "In other outlying villages, such as La Torre and Castellar, 13 bodies have been found."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_02",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the emergency is not yet over.",
+          "evidence": {
+            "quote": "the emergency is not yet over."
+          }
+        }
+      ],
+      "locations": [],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_03",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "evidence": {
+            "quote": "the Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "rural area of Jerez",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "in the rural area of Jerez"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "along the banks of the Guadalete River"
+          }
+        },
+        {
+          "source_text": "El Portal",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Portal"
+          }
+        },
+        {
+          "source_text": "El Portalillo",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Portalillo"
+          }
+        },
+        {
+          "source_text": "La Corta",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Corta"
+          }
+        },
+        {
+          "source_text": "La Greduela",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Greduela"
+          }
+        },
+        {
+          "source_text": "Las Pachecas",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Las Pachecas"
+          }
+        },
+        {
+          "source_text": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        },
+        {
+          "source_text": "Specifically, the evacuation affects the areas of El Portal, El Portalillo, La Corta, La Greduela, and Las Pachecas.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Specifically, the evacuation affects the areas of El Portal, El Portalillo, La Corta, La Greduela, and Las Pachecas."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "preventive evacuation of approximately 300 families",
+          "evidence": {
+            "quote": "the Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "300 families evicted in Jerez",
+          "evidence": {
+            "quote": "The Andalusian Regional Government has activated its Emergency Plan for flood risk, operational phase 1, in the rural area of Jerez and will carry out the preventive evacuation of approximately 300 families in neighborhoods located along the banks of the Guadalete River."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_04",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm.",
+          "evidence": {
+            "quote": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sánchez specifically guaranteed the Executive's collaboration with the Valencian Community 'by land, sea and air' and for as long as necessary to deal with the consequences of the DANA storm."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_05",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work.",
+          "evidence": {
+            "quote": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "Emergency services continue working on clearing debris",
+          "evidence": {
+            "quote": "Emergency services continue working on clearing debris on the first day of official mourning after the devastating storm, on a day when the Prime Minister, Pedro Sánchez, is visiting Valencia to learn about the state of the emergency work."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_06",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME.",
+          "evidence": {
+            "quote": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME. A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia) by the Provincial Fire Consortium of the Alicante Provincial Council.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Military Emergency Unit (UME) is focusing its efforts on searching for missing persons in the affected areas with the help of dogs and has begun offering psychological support Not only the UME. A young woman and her baby of about twelve months have been rescued by helicopter when they were in an isolated house in the vicinity of Riola, a municipality of Ribera Baja near Sueca (Valencia) by the Provincial Fire Consortium of the Alicante Provincial Council."
+          }
+        },
+        {
+          "source_text": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "3,400 rescues carried out by the Civil Guard",
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "300 people still isolated",
+          "evidence": {
+            "quote": "The Civil Guard has carried out 3,400 rescues since last Tuesday in the affected areas in the province of Valencia and it is estimated that some 300 people are still isolated, in addition to those whose whereabouts are unknown in provinces such as Albacete, at least five."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "13 people died in La Torre and Castellar",
+          "evidence": {
+            "quote": "On the other hand, a total of thirteen people have died in the districts of La Torre and Castellar in the city of Valencia, eight of whom were found in a garage, according to the mayor, María José Catalá."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_07",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "evidence": {
+            "quote": "for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In the province of Valencia, a yellow alert has also been established this Thursday from 12:00 to 23:59 hours - for storms that could be accompanied by hail and accumulate 20 liters per square meter in one hour."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_08",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours.",
+          "evidence": {
+            "quote": "the possibility of rainfall that could accumulate 40 liters per square meter in one hour and 100 liters per square meter in twelve hours."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the rains and floods",
+          "evidence": {
+            "quote": "the rains and floods"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "province of Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Valencia"
+          }
+        },
+        {
+          "source_text": "coast of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "coast of Castellón"
+          }
+        },
+        {
+          "source_text": "northern interior",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern interior"
+          }
+        },
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "The red alert issued by the State Meteorological Agency (Aemet) on the coast of Castellón and its northern interior ended at 2:00 p.m. and the orange alert has been activated in the same area, which is expected to end at 8:00 a.m. on Friday."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_09",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "evidence": {
+            "quote": "rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "northern coast of Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "northern coast of Alicante"
+          }
+        },
+        {
+          "source_text": "province of Castellón",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "province of Castellón"
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "In addition, this Friday there is a yellow alert on the northern coast of Alicante, as well as in the interior of the province of Castellón, for rainfall of between 20 and km/m2 in one hour and 60 in twelve hours."
+          }
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "event_id": "event_10",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the stream that overflowed on Tuesday",
+          "evidence": {
+            "quote": "the stream that overflowed on Tuesday"
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Letur",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Letur"
+          }
+        },
+        {
+          "source_text": "Albacete",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Albacete"
+          }
+        },
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        },
+        {
+          "source_text": "the search for the missing in Letur has resumed.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the search for the missing in Letur has resumed."
+          }
+        }
+      ],
+      "times": [
+        {
+          "source_text": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_start": null,
+          "normalized_end": null,
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "five people missing in Letur after the stream overflowed on Tuesday",
+          "evidence": {
+            "quote": "the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "two women died in Albacete",
+          "evidence": {
+            "quote": "in Albacete, in Castilla-La Mancha (where two women have died)"
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "five missing residents",
+          "evidence": {
+            "quote": "the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_11",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'",
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead.",
+          "evidence": {
+            "quote": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the DANA storm that has affected several autonomous communities, the central government has not informed them 'of anything.'"
+          }
+        },
+        {
+          "source_text": "In other affected areas of the territory such as Albacete, in Castilla-La Mancha (where two women have died), the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "In other affected areas of the territory such as Albacete, in Castilla-La Mancha (where two women have died), the search continues for five people missing in Letur after the work resumed early this Thursday to comb the natural channel of the stream that overflowed on Tuesday."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "almost one hundred dead",
+          "evidence": {
+            "quote": "the Integrated Operational Coordination Center (CECOPI) is activated due to the DANA storm that has so far left almost one hundred dead."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_12",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the rain falls locally intensely.",
+          "evidence": {
+            "quote": "the rain falls locally intensely."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the rain falls locally intensely.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the rain falls locally intensely."
+          }
+        },
+        {
+          "source_text": "the southern regions of Tarragona, especially in the Terres de l'Ebre -Terra Alta, Baix Ebre and Montsià-, Priorat and Baix Camp, where the rain falls locally intensely.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the southern regions of Tarragona, especially in the Terres de l'Ebre -Terra Alta, Baix Ebre and Montsià-, Priorat and Baix Camp, where the rain falls locally intensely."
+          }
+        }
+      ],
+      "times": [],
+      "impacts": []
+    },
+    {
+      "event_id": "event_13",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "source_text": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger.",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "lives were in danger",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "A total of 22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_14",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_15",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the water level rose inside the homes and their lives were in danger.",
+          "evidence": {
+            "quote": "the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "flood",
+          "source_text": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River.",
+          "evidence": {
+            "quote": "the mayor of the city, María José García-Pelayo, has said that they remain on 'permanent alert' for a possible overflow of the Guadalete River."
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "provinces of Seville and Cadiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "provinces of Seville and Cadiz"
+          }
+        },
+        {
+          "source_text": "El Letrado area, in Los Palacios y Villafranca (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "El Letrado area, in Los Palacios y Villafranca (Seville)"
+          }
+        },
+        {
+          "source_text": "Jerez de la Frontera and the Sierra de Cádiz",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Jerez de la Frontera and the Sierra de Cádiz"
+          }
+        },
+        {
+          "source_text": "Guadalete River",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadalete River"
+          }
+        },
+        {
+          "source_text": "Fuentes de Andalucía (Seville)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Fuentes de Andalucía (Seville)"
+          }
+        },
+        {
+          "source_text": "Barbate (Cadiz)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Barbate (Cadiz)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "22 people rescued by firefighters",
+          "evidence": {
+            "quote": "22 people have been rescued by firefighters in the El Letrado area, in Los Palacios y Villafranca (Seville), after the water level rose inside the homes and their lives were in danger."
+          }
+        },
+        {
+          "category": "human_health",
+          "description": "more than 1,440 incidents handled by Coordination Center (Cecem 112)",
+          "evidence": {
+            "quote": "Coordination Center (Cecem 112) closed the night with more than a hundred incidents, mostly in the provinces of Seville and Cadiz, bringing the total number of incidents handled to more than 1,440."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_16",
+      "hazards": [
+        {
+          "category": "storm",
+          "source_text": "the worst storm of the century",
+          "evidence": {
+            "quote": "the worst storm of the century"
+          }
+        },
+        {
+          "category": "storm",
+          "source_text": "the DANA storm",
+          "evidence": {
+            "quote": "the DANA storm"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Valencian Community",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencian Community"
+          }
+        },
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        },
+        {
+          "source_text": "Castilla-La Mancha",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Castilla-La Mancha"
+          }
+        },
+        {
+          "source_text": "Valencia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Valencia"
+          }
+        },
+        {
+          "source_text": "Alicante",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alicante"
+          }
+        },
+        {
+          "source_text": "N3",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N3"
+          }
+        },
+        {
+          "source_text": "N322",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N322"
+          }
+        },
+        {
+          "source_text": "N330",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N330"
+          }
+        },
+        {
+          "source_text": "N332",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "N332"
+          }
+        },
+        {
+          "source_text": "Picassent",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Picassent"
+          }
+        },
+        {
+          "source_text": "La Alcudia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "La Alcudia"
+          }
+        },
+        {
+          "source_text": "Requena",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Requena"
+          }
+        },
+        {
+          "source_text": "Utiel",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Utiel"
+          }
+        },
+        {
+          "source_text": "Buñol",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Buñol"
+          }
+        },
+        {
+          "source_text": "Sueca",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Sueca"
+          }
+        },
+        {
+          "source_text": "Algemesí",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Algemesí"
+          }
+        },
+        {
+          "source_text": "Guadassuar",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Guadassuar"
+          }
+        },
+        {
+          "source_text": "Alzira",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Alzira"
+          }
+        },
+        {
+          "source_text": "Chiva (Valencia)",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Chiva (Valencia)"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "human_health",
+          "description": "39 people arrested for looting shops",
+          "evidence": {
+            "quote": "The National Police arrested 39 people last night for allegedly looting shops in areas of Valencia affected by the DANA storm, the force reported on its social media account."
+          }
+        },
+        {
+          "category": "infrastructure",
+          "description": "more than 100 roads affected by closures, including A3, A7, AP7, N3, N322, N330, N332",
+          "evidence": {
+            "quote": "More than 100 roads, mostly secondary roads, remain affected by the consequences of the worst storm of the century, especially in the Valencian Community, Andalusia and Castilla-La Mancha, with closures on the A3 and A7 highways, so the Directorate General of Traffic (DGT) recommends not driving on those roads."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_17",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    },
+    {
+      "event_id": "event_18",
+      "hazards": [
+        {
+          "category": "flood",
+          "source_text": "the catastrophe caused by the DANA storm is 'an emergency of national interest'",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest'"
+          }
+        }
+      ],
+      "locations": [
+        {
+          "source_text": "Andalusia",
+          "normalized_name": null,
+          "country_code": null,
+          "evidence": {
+            "quote": "Andalusia"
+          }
+        }
+      ],
+      "times": [],
+      "impacts": [
+        {
+          "category": "infrastructure",
+          "description": "state plan declared operational situation 3 by the Ministry of the Interior",
+          "evidence": {
+            "quote": "the catastrophe caused by the DANA storm is 'an emergency of national interest' and, therefore, required the declaration of 'operational situation 3' of the state plan and the direction and coordination by the Ministry of the Interior."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

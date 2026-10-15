@@ -1,0 +1,50 @@
+{
+  "selection_method": "After excluding the eight 1.5×IQR length outliers from evaluation eligibility, select the short, upper-middle-ranked, and long document within each of the three reviewed source types.",
+  "documents": [
+    {
+      "filename": "PWC 2015 - Updated estimates on cost of Storm Desmond_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "short"
+    },
+    {
+      "filename": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "middle"
+    },
+    {
+      "filename": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "long"
+    },
+    {
+      "filename": "Lavenir 2021 - À la recherche d'une jeune fille tombée dans l'Ourthe à Marcourt - L'Avenir_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "short"
+    },
+    {
+      "filename": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "middle"
+    },
+    {
+      "filename": "EFE 2024 - The DANA storm, live_ The death toll rises to 158_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "long"
+    },
+    {
+      "filename": "Plag 2014 - Foreword extreme geohazards—a growing threat for a globally interconnected civilization_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "short"
+    },
+    {
+      "filename": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "middle"
+    },
+    {
+      "filename": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "long"
+    }
+  ]
+}

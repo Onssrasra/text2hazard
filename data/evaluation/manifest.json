@@ -1,0 +1,79 @@
+{
+  "selection_method": "After excluding the eight 1.5×IQR length outliers from evaluation eligibility, select the short, upper-middle-ranked, and long document within each of the three reviewed source types.",
+  "source_zip": "data/text_2_data.zip",
+  "selection_file": "data/evaluation/selection.json",
+  "documents": [
+    {
+      "filename": "PWC 2015 - Updated estimates on cost of Storm Desmond_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "short",
+      "document_id": "PWC 2015 - Updated estimates on cost of Storm Desmond",
+      "source_member": "text_sources_cleaned/PWC 2015 - Updated estimates on cost of Storm Desmond_cleaned.md",
+      "words": 484
+    },
+    {
+      "filename": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "middle",
+      "document_id": "Krausmann 2014 - STREST report on lessons learned from recent catastrophic events",
+      "source_member": "text_sources_cleaned/Krausmann 2014 - STREST report on lessons learned from recent catastrophic events_cleaned.md",
+      "words": 1469
+    },
+    {
+      "filename": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS_cleaned.md",
+      "document_type": "Institutional / technical report",
+      "length_stratum": "long",
+      "document_id": "AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS",
+      "source_member": "text_sources_cleaned/AEMET 2024 - ESTUDIO SOBRE LA SITUACIÓN DE LLUVIAS INTENSAS_cleaned.md",
+      "words": 10477
+    },
+    {
+      "filename": "Lavenir 2021 - À la recherche d'une jeune fille tombée dans l'Ourthe à Marcourt - L'Avenir_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "short",
+      "document_id": "Lavenir 2021 - À la recherche d'une jeune fille tombée dans l'Ourthe à Marcourt - L'Avenir",
+      "source_member": "text_sources_cleaned/Lavenir 2021 - À la recherche d'une jeune fille tombée dans l'Ourthe à Marcourt - L'Avenir_cleaned.md",
+      "words": 157
+    },
+    {
+      "filename": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "middle",
+      "document_id": "ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga",
+      "source_member": "text_sources_cleaned/ABC 2024 - Traffic jams and flight delays due to heavy rain and lightning storm in Malaga_cleaned.md",
+      "words": 706
+    },
+    {
+      "filename": "EFE 2024 - The DANA storm, live_ The death toll rises to 158_cleaned.md",
+      "document_type": "News / media",
+      "length_stratum": "long",
+      "document_id": "EFE 2024 - The DANA storm, live_ The death toll rises to 158",
+      "source_member": "text_sources_cleaned/EFE 2024 - The DANA storm, live_ The death toll rises to 158_cleaned.md",
+      "words": 3635
+    },
+    {
+      "filename": "Plag 2014 - Foreword extreme geohazards—a growing threat for a globally interconnected civilization_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "short",
+      "document_id": "Plag 2014 - Foreword extreme geohazards—a growing threat for a globally interconnected civilization",
+      "source_member": "text_sources_cleaned/Plag 2014 - Foreword extreme geohazards—a growing threat for a globally interconnected civilization_cleaned.md",
+      "words": 1457
+    },
+    {
+      "filename": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "middle",
+      "document_id": "Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study",
+      "source_member": "text_sources_cleaned/Kadir 2014 - The Impact of Natural Disasters on Critical Infrastructures - A Domino Effect-based Study_cleaned.md",
+      "words": 4935
+    },
+    {
+      "filename": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling_cleaned.md",
+      "document_type": "Scientific paper",
+      "length_stratum": "long",
+      "document_id": "Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling",
+      "source_member": "text_sources_cleaned/Cavaleri 2019 - The October 29, 2018 storm in Northern Italy – An exceptional event and its modeling_cleaned.md",
+      "words": 9218
+    }
+  ]
+}
